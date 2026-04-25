@@ -1,0 +1,2001 @@
+PO_ID,Supplier,Order_Date,Delivery_Date,Item_Category,Order_Status,Quantity,Unit_Price,Negotiated_Price,Defective_Units,Compliance
+PO-00001,AlphaSupplies,2024-01-30,2024-02-12,Raw Materials,Delivered,124,140.83,133.11,3,Compliant
+PO-00002,DeltaWorks,2022-01-31,2022-02-08,Raw Materials,Delivered,129,120.76,116.12,17,Non-Compliant
+PO-00003,DeltaWorks,2023-04-05,,Packaging,Pending,424,38.56,35.36,77,Compliant
+PO-00004,DeltaWorks,2022-10-12,,Electronics,Pending,500,509.62,487.2,12,Compliant
+PO-00005,GammaTrade,2023-09-11,2023-10-22,Electronics,Delivered,32,546.81,517.39,0,Non-Compliant
+PO-00006,GammaTrade,2024-06-25,2024-07-06,Consumables,Delivered,305,21.79,19.45,1,Compliant
+PO-00007,AlphaSupplies,2024-06-06,2024-07-06,Packaging,Delivered,152,42.2,40.55,0,Compliant
+PO-00008,AlphaSupplies,2023-10-13,2023-11-18,Consumables,Delivered,383,20.64,19.7,5,Non-Compliant
+PO-00009,EpsilonMfg,2023-12-03,2023-12-24,Packaging,Delivered,403,40.58,38.18,6,Compliant
+PO-00010,AlphaSupplies,2023-08-04,2023-09-11,Packaging,Delivered,171,39.55,35.24,2,Compliant
+PO-00011,GammaTrade,2022-09-10,2022-10-24,Packaging,Delivered,285,36.91,33.33,9,Compliant
+PO-00012,BetaCorp,2023-05-21,,Consumables,Cancelled,34,20.02,19.26,0,Compliant
+PO-00013,DeltaWorks,2022-03-07,,Consumables,Pending,315,18.25,17.07,40,Non-Compliant
+PO-00014,AlphaSupplies,2023-11-30,2023-12-28,Raw Materials,Delivered,394,139.03,123.79,1,Compliant
+PO-00015,GammaTrade,2024-02-20,2024-03-17,Consumables,Delivered,477,21.22,20.24,32,Compliant
+PO-00016,GammaTrade,2023-07-07,2023-07-14,Packaging,Delivered,482,39.32,34.77,23,Compliant
+PO-00017,GammaTrade,2022-09-03,2022-09-15,Electronics,Delivered,459,505.45,487.66,3,Compliant
+PO-00018,EpsilonMfg,2022-05-12,2022-06-04,Packaging,Delivered,494,35.98,32.76,5,Compliant
+PO-00019,EpsilonMfg,2024-01-01,2024-02-05,Packaging,Delivered,353,40.82,38.45,6,Compliant
+PO-00020,AlphaSupplies,2022-01-22,2022-01-29,Electronics,Delivered,127,482.13,442.16,0,Compliant
+PO-00021,AlphaSupplies,2022-03-14,2022-04-03,Electronics,Delivered,152,487.34,450.16,3,Compliant
+PO-00022,EpsilonMfg,2022-09-06,2022-09-19,Machinery,Delivered,423,2318.1,2084.9,0,Compliant
+PO-00023,DeltaWorks,2023-11-21,2023-12-23,Raw Materials,Delivered,340,138.76,126.44,59,Non-Compliant
+PO-00024,BetaCorp,2023-07-04,2023-08-09,Packaging,Delivered,226,39.3,36.53,7,Non-Compliant
+PO-00025,EpsilonMfg,2022-02-21,2022-03-05,Raw Materials,Delivered,286,121.3,110.54,5,Compliant
+PO-00026,DeltaWorks,2022-08-07,2022-09-07,Machinery,Delivered,472,2303.48,2055.16,0,Compliant
+PO-00027,DeltaWorks,2023-03-10,,Electronics,Pending,384,525.89,477.14,51,Non-Compliant
+PO-00028,BetaCorp,2022-10-31,2022-12-11,Packaging,Delivered,39,37.31,35.46,0,Compliant
+PO-00029,DeltaWorks,2024-05-23,,Consumables,Pending,39,21.64,19.96,0,Compliant
+PO-00030,EpsilonMfg,2023-11-23,2024-01-05,Raw Materials,Delivered,216,138.82,123.88,1,Compliant
+PO-00031,DeltaWorks,2023-08-02,2023-08-29,Consumables,Delivered,488,20.33,18.76,27,Compliant
+PO-00032,GammaTrade,2022-11-20,2022-12-26,Machinery,Delivered,489,2355.05,2087.52,24,Compliant
+PO-00033,EpsilonMfg,2023-06-03,2023-06-14,Packaging,Delivered,487,39.04,36.94,8,Compliant
+PO-00034,EpsilonMfg,2023-09-19,2023-09-26,Electronics,Delivered,423,547.73,482.82,5,Compliant
+PO-00035,AlphaSupplies,2022-09-28,2022-10-14,Packaging,Delivered,64,37.05,35.55,0,Compliant
+PO-00036,BetaCorp,2023-06-02,,Electronics,Pending,473,535.28,495.67,3,Compliant
+PO-00037,GammaTrade,2022-01-04,2022-01-27,Raw Materials,Delivered,76,120.08,112.88,0,Compliant
+PO-00038,EpsilonMfg,2022-04-25,2022-05-11,Raw Materials,Delivered,462,122.92,118.4,5,Compliant
+PO-00039,BetaCorp,2022-05-11,,Machinery,Cancelled,196,2261.14,2184.71,21,Non-Compliant
+PO-00040,GammaTrade,2023-11-30,2024-01-11,Packaging,Delivered,62,40.55,38.42,4,Compliant
+PO-00041,BetaCorp,2024-06-04,2024-07-20,Packaging,Partial,419,42.18,40.3,1,Compliant
+PO-00042,GammaTrade,2024-04-01,2024-04-25,Machinery,Delivered,386,2615.79,2379.58,4,Compliant
+PO-00043,AlphaSupplies,2022-08-16,2022-09-11,Machinery,Delivered,480,2307.86,2197.08,15,Compliant
+PO-00044,BetaCorp,2022-12-03,,Machinery,Pending,45,2361.52,2231.4,1,Compliant
+PO-00045,DeltaWorks,2022-12-06,,Consumables,Pending,69,19.33,17.12,4,Compliant
+PO-00046,GammaTrade,2022-04-22,2022-05-19,Raw Materials,Delivered,186,122.84,112.56,6,Non-Compliant
+PO-00047,EpsilonMfg,2022-09-18,2022-10-29,Packaging,Delivered,233,36.97,35.71,3,Compliant
+PO-00048,BetaCorp,2023-03-18,,Electronics,Pending,350,526.77,507.65,30,Compliant
+PO-00049,AlphaSupplies,2023-06-04,2023-06-29,Electronics,Delivered,219,535.51,504.56,4,Compliant
+PO-00050,DeltaWorks,2023-09-23,2023-09-30,Packaging,Delivered,217,39.97,36.72,15,Compliant
+PO-00051,EpsilonMfg,2023-04-22,2023-05-29,Electronics,Delivered,355,530.68,493.64,5,Compliant
+PO-00052,AlphaSupplies,2023-06-12,2023-07-04,Electronics,Delivered,327,536.41,488.29,8,Compliant
+PO-00053,AlphaSupplies,2022-09-08,2022-09-19,Raw Materials,Delivered,322,126.5,111.5,5,Compliant
+PO-00054,DeltaWorks,2023-02-14,2023-03-12,Machinery,Partial,345,2398.15,2273.45,64,Compliant
+PO-00055,EpsilonMfg,2022-02-21,2022-03-29,Machinery,Delivered,479,2223.79,2045.44,1,Compliant
+PO-00056,EpsilonMfg,2022-11-21,2022-12-30,Consumables,Delivered,466,19.27,17.04,3,Compliant
+PO-00057,BetaCorp,2023-04-06,2023-05-13,Machinery,Partial,136,2424.07,2294.87,14,Compliant
+PO-00058,BetaCorp,2023-03-27,2023-04-24,Electronics,Delivered,156,527.77,508.24,6,Compliant
+PO-00059,BetaCorp,2023-12-12,2024-01-14,Machinery,Delivered,119,2555.28,2443.36,5,Compliant
+PO-00060,DeltaWorks,2024-02-28,2024-04-11,Machinery,Delivered,366,2597.65,2383.08,33,Compliant
+PO-00061,DeltaWorks,2023-07-06,,Machinery,Pending,289,2471.03,2230.6,62,Compliant
+PO-00062,GammaTrade,2023-05-13,2023-06-14,Machinery,Delivered,182,2443.06,2363.42,10,Compliant
+PO-00063,EpsilonMfg,2022-01-28,2022-02-05,Consumables,Delivered,313,18.1,16.08,0,Compliant
+PO-00064,BetaCorp,2022-09-24,2022-10-22,Raw Materials,Delivered,118,126.92,118.78,12,Compliant
+PO-00065,DeltaWorks,2024-05-04,,Electronics,Cancelled,19,574.7,553.21,0,Non-Compliant
+PO-00066,BetaCorp,2024-03-10,2024-04-14,Raw Materials,Partial,30,142.02,125.52,0,Compliant
+PO-00067,BetaCorp,2022-05-10,2022-05-30,Packaging,Delivered,68,35.97,33.36,4,Compliant
+PO-00068,EpsilonMfg,2024-02-05,2024-03-02,Consumables,Delivered,408,21.15,19.15,0,Compliant
+PO-00069,DeltaWorks,2024-01-03,2024-03-03,Machinery,Partial,313,2567.16,2444.45,18,Non-Compliant
+PO-00070,GammaTrade,2024-04-04,2024-05-03,Consumables,Delivered,299,21.42,20.54,12,Compliant
+PO-00071,GammaTrade,2024-05-19,2024-06-18,Raw Materials,Delivered,260,144.13,134.36,13,Compliant
+PO-00072,DeltaWorks,2024-01-22,2024-03-03,Packaging,Delivered,343,41.01,37.85,63,Compliant
+PO-00073,EpsilonMfg,2022-11-27,2022-12-21,Electronics,Delivered,435,514.59,459.68,7,Compliant
+PO-00074,EpsilonMfg,2022-12-11,2023-01-18,Machinery,Delivered,445,2365.5,2288.38,1,Compliant
+PO-00075,EpsilonMfg,2023-07-24,2023-08-15,Electronics,Delivered,495,541.18,524.46,7,Compliant
+PO-00076,DeltaWorks,2023-04-04,2023-05-06,Machinery,Delivered,57,2423.05,2177.35,9,Compliant
+PO-00077,DeltaWorks,2023-06-28,2023-07-27,Consumables,Delivered,391,20.18,18.95,65,Compliant
+PO-00078,AlphaSupplies,2022-11-20,2022-12-21,Packaging,Partial,284,37.47,35.94,2,Compliant
+PO-00079,GammaTrade,2024-02-18,,Consumables,Cancelled,154,21.21,19.57,10,Compliant
+PO-00080,GammaTrade,2022-11-06,2022-11-15,Packaging,Delivered,283,37.36,36.19,22,Compliant
+PO-00081,BetaCorp,2022-04-16,2022-05-23,Machinery,Delivered,303,2249.25,2005.21,18,Compliant
+PO-00082,DeltaWorks,2024-04-21,2024-05-01,Raw Materials,Delivered,261,143.28,138.14,9,Non-Compliant
+PO-00083,AlphaSupplies,2022-05-02,2022-05-23,Packaging,Delivered,223,35.9,33.02,6,Compliant
+PO-00084,GammaTrade,2023-03-16,2023-03-29,Consumables,Delivered,327,19.75,18.61,24,Compliant
+PO-00085,AlphaSupplies,2022-09-03,2022-10-06,Packaging,Delivered,48,36.86,35.18,0,Compliant
+PO-00086,BetaCorp,2023-12-25,2024-01-15,Electronics,Delivered,450,559.05,528.08,58,Compliant
+PO-00087,BetaCorp,2022-04-28,2022-05-22,Machinery,Delivered,341,2254.95,2076.81,39,Compliant
+PO-00088,GammaTrade,2024-02-06,2024-02-20,Consumables,Delivered,481,21.16,18.96,18,Compliant
+PO-00089,GammaTrade,2023-07-07,,Consumables,Delivered,51,20.22,18.72,2,Compliant
+PO-00090,BetaCorp,2023-08-25,2023-09-18,Consumables,Delivered,401,20.43,18.07,32,Compliant
+PO-00091,EpsilonMfg,2022-10-12,2022-11-19,Machinery,Delivered,309,2335.76,2227.61,5,Compliant
+PO-00092,GammaTrade,2024-05-28,2024-06-22,Raw Materials,Delivered,220,144.4,137.97,11,Compliant
+PO-00093,AlphaSupplies,2022-04-01,,Machinery,Delivered,175,2242.15,2111.43,6,Compliant
+PO-00094,EpsilonMfg,2023-02-28,2023-04-07,Machinery,Delivered,275,2405.24,2321.3,3,Compliant
+PO-00095,EpsilonMfg,2022-10-22,2022-10-30,Packaging,Delivered,367,37.24,34.66,7,Compliant
+PO-00096,BetaCorp,2023-07-19,2023-08-02,Electronics,Delivered,218,540.61,523.74,14,Compliant
+PO-00097,DeltaWorks,2023-06-06,,Electronics,Pending,222,535.74,485.65,52,Compliant
+PO-00098,EpsilonMfg,2023-01-28,2023-02-12,Packaging,Delivered,316,38.02,36.23,5,Compliant
+PO-00099,DeltaWorks,2024-03-17,2024-04-12,Electronics,Delivered,430,568.92,525.85,86,Compliant
+PO-00100,BetaCorp,2023-07-06,2023-08-16,Machinery,Delivered,180,2471.03,2289.16,9,Non-Compliant
+PO-00101,BetaCorp,2023-01-28,2023-02-24,Consumables,Delivered,407,19.55,18.55,42,Compliant
+PO-00102,DeltaWorks,2023-05-23,2023-07-06,Packaging,Delivered,74,38.95,34.4,5,Compliant
+PO-00103,AlphaSupplies,2023-04-13,2023-04-29,Consumables,Delivered,83,19.86,19.24,0,Compliant
+PO-00104,EpsilonMfg,2023-10-28,2023-12-08,Machinery,Delivered,178,2531.15,2436.99,1,Compliant
+PO-00105,DeltaWorks,2022-02-06,2022-03-16,Consumables,Partial,130,18.14,16.59,31,Non-Compliant
+PO-00106,DeltaWorks,2024-02-18,2024-03-06,Raw Materials,Delivered,456,141.39,129.09,75,Non-Compliant
+PO-00107,AlphaSupplies,2023-01-03,2023-02-05,Electronics,Delivered,84,518.62,485.58,1,Compliant
+PO-00108,AlphaSupplies,2024-06-10,2024-07-24,Consumables,Delivered,359,21.72,20.32,2,Compliant
+PO-00109,GammaTrade,2024-04-03,2024-04-20,Raw Materials,Delivered,157,142.74,132.48,0,Non-Compliant
+PO-00110,GammaTrade,2023-12-08,2024-01-08,Machinery,Delivered,442,2553.13,2419.09,30,Compliant
+PO-00111,GammaTrade,2022-10-30,2022-12-01,Consumables,Delivered,161,19.18,16.89,3,Compliant
+PO-00112,AlphaSupplies,2024-02-03,2024-03-08,Consumables,Partial,472,21.14,19.56,11,Compliant
+PO-00113,BetaCorp,2022-09-14,2022-10-12,Consumables,Partial,379,19.0,17.27,33,Non-Compliant
+PO-00114,AlphaSupplies,2024-03-18,2024-04-02,Electronics,Delivered,306,569.04,529.38,1,Compliant
+PO-00115,BetaCorp,2022-05-16,,Packaging,Pending,458,36.01,32.38,34,Non-Compliant
+PO-00116,BetaCorp,2024-04-24,2024-05-22,Electronics,Delivered,422,573.49,507.54,47,Compliant
+PO-00117,BetaCorp,2024-05-16,2024-06-17,Machinery,Delivered,197,2640.73,2370.32,0,Compliant
+PO-00118,GammaTrade,2023-01-26,2023-02-16,Consumables,Delivered,491,19.54,17.51,18,Compliant
+PO-00119,GammaTrade,2022-08-15,2022-09-10,Consumables,Delivered,335,18.88,17.21,17,Compliant
+PO-00120,AlphaSupplies,2023-05-20,2023-06-04,Electronics,Delivered,130,533.82,512.2,2,Compliant
+PO-00121,EpsilonMfg,2023-08-25,2023-09-07,Machinery,Delivered,89,2497.22,2255.49,1,Compliant
+PO-00122,GammaTrade,2023-12-08,2023-12-30,Raw Materials,Delivered,237,139.26,130.44,16,Compliant
+PO-00123,EpsilonMfg,2022-03-04,2022-04-22,Electronics,Partial,107,486.32,454.32,0,Compliant
+PO-00124,EpsilonMfg,2022-02-21,2022-04-18,Raw Materials,Partial,134,121.3,109.07,0,Compliant
+PO-00125,EpsilonMfg,2023-08-24,2023-09-09,Packaging,Delivered,455,39.72,37.76,7,Compliant
+PO-00126,BetaCorp,2023-07-08,2023-07-16,Packaging,Delivered,99,39.33,37.26,1,Compliant
+PO-00127,EpsilonMfg,2022-01-17,2022-02-19,Electronics,Delivered,36,481.62,459.61,0,Compliant
+PO-00128,GammaTrade,2023-08-31,2023-09-09,Consumables,Delivered,267,20.46,19.65,15,Non-Compliant
+PO-00129,GammaTrade,2023-10-21,,Machinery,Cancelled,41,2527.42,2232.22,2,Compliant
+PO-00130,AlphaSupplies,2023-12-31,2024-01-27,Machinery,Delivered,47,2565.54,2278.46,1,Compliant
+PO-00131,EpsilonMfg,2023-12-31,2024-02-05,Consumables,Delivered,315,20.99,19.75,3,Compliant
+PO-00132,AlphaSupplies,2024-01-09,2024-01-30,Consumables,Delivered,230,21.03,18.76,3,Compliant
+PO-00133,AlphaSupplies,2023-03-14,2023-03-30,Electronics,Delivered,140,526.33,495.75,3,Compliant
+PO-00134,AlphaSupplies,2023-03-19,2023-04-03,Raw Materials,Delivered,388,131.72,126.62,8,Compliant
+PO-00135,GammaTrade,2023-02-25,2023-04-13,Raw Materials,Partial,350,131.11,123.01,24,Compliant
+PO-00136,GammaTrade,2022-11-16,2022-12-02,Consumables,Delivered,305,19.25,18.06,16,Compliant
+PO-00137,EpsilonMfg,2022-04-28,2022-06-01,Electronics,Delivered,303,491.99,443.48,5,Compliant
+PO-00138,EpsilonMfg,2022-01-27,2022-02-20,Consumables,Delivered,346,18.1,16.57,0,Compliant
+PO-00139,GammaTrade,2022-01-07,2022-02-08,Electronics,Delivered,83,480.61,458.36,0,Compliant
+PO-00140,AlphaSupplies,2022-08-09,2022-09-08,Consumables,Delivered,242,18.85,17.65,3,Compliant
+PO-00141,EpsilonMfg,2024-06-23,2024-07-03,Raw Materials,Delivered,90,145.2,140.16,1,Compliant
+PO-00142,DeltaWorks,2023-03-29,,Consumables,Pending,120,19.8,18.47,3,Compliant
+PO-00143,GammaTrade,2023-05-14,2023-06-15,Consumables,Delivered,167,19.99,18.44,13,Compliant
+PO-00144,BetaCorp,2024-02-22,2024-03-31,Packaging,Delivered,177,41.27,39.08,18,Compliant
+PO-00145,BetaCorp,2023-07-27,,Consumables,Delivered,422,20.31,18.18,50,Compliant
+PO-00146,AlphaSupplies,2023-08-13,2023-09-15,Electronics,Delivered,217,543.47,506.19,2,Compliant
+PO-00147,BetaCorp,2023-04-17,2023-05-21,Consumables,Delivered,480,19.88,17.79,56,Compliant
+PO-00148,EpsilonMfg,2023-02-10,2023-03-10,Raw Materials,Delivered,391,130.7,116.55,6,Compliant
+PO-00149,EpsilonMfg,2022-07-18,2022-08-03,Consumables,Delivered,188,18.77,16.68,0,Compliant
+PO-00150,EpsilonMfg,2024-02-18,2024-03-27,Packaging,Delivered,48,41.24,37.19,0,Compliant
+PO-00151,EpsilonMfg,2022-11-27,2023-01-01,Consumables,Delivered,331,19.3,17.22,0,Compliant
+PO-00152,GammaTrade,2022-02-27,2022-04-03,Consumables,Delivered,47,18.22,17.1,0,Compliant
+PO-00153,AlphaSupplies,2023-09-01,2023-09-10,Consumables,Delivered,246,20.46,18.91,4,Compliant
+PO-00154,GammaTrade,2023-05-03,2023-05-16,Consumables,Delivered,500,19.95,18.45,32,Compliant
+PO-00155,AlphaSupplies,2023-10-24,2023-11-28,Consumables,Delivered,136,20.69,19.75,2,Compliant
+PO-00156,GammaTrade,2023-02-23,2023-03-23,Machinery,Delivered,357,2402.7,2163.15,1,Compliant
+PO-00157,GammaTrade,2024-01-12,2024-01-28,Electronics,Delivered,474,561.17,501.35,12,Compliant
+PO-00158,GammaTrade,2023-11-03,2023-11-15,Electronics,Delivered,210,552.95,501.58,5,Compliant
+PO-00159,BetaCorp,2022-04-06,2022-04-14,Consumables,Delivered,226,18.36,16.74,11,Compliant
+PO-00160,DeltaWorks,2022-08-20,2022-09-02,Packaging,Delivered,89,36.75,32.34,10,Compliant
+PO-00161,EpsilonMfg,2023-11-09,2023-12-24,Raw Materials,Delivered,402,138.41,130.06,3,Compliant
+PO-00162,EpsilonMfg,2024-01-09,2024-01-31,Packaging,Delivered,220,40.89,38.05,4,Compliant
+PO-00163,DeltaWorks,2023-07-01,,Packaging,Pending,424,39.27,37.25,91,Compliant
+PO-00164,EpsilonMfg,2023-04-18,2023-05-28,Machinery,Delivered,408,2430.21,2189.13,3,Compliant
+PO-00165,EpsilonMfg,2024-06-12,2024-07-12,Packaging,Delivered,338,42.25,40.03,3,Compliant
+PO-00166,AlphaSupplies,2022-03-27,2022-05-05,Electronics,Delivered,149,488.68,440.45,0,Compliant
+PO-00167,BetaCorp,2024-06-24,2024-07-26,Machinery,Delivered,23,2662.53,2498.78,1,Compliant
+PO-00168,GammaTrade,2022-01-29,2022-02-26,Packaging,Delivered,60,35.21,33.14,3,Compliant
+PO-00169,DeltaWorks,2024-02-17,2024-03-13,Packaging,Partial,239,41.23,37.37,1,Compliant
+PO-00170,BetaCorp,2024-01-15,2024-02-09,Consumables,Delivered,226,21.06,19.27,7,Compliant
+PO-00171,EpsilonMfg,2022-03-06,2022-04-16,Machinery,Delivered,473,2229.89,2140.69,0,Compliant
+PO-00172,BetaCorp,2023-03-16,2023-04-18,Electronics,Delivered,190,526.55,510.7,4,Compliant
+PO-00173,GammaTrade,2023-06-23,,Raw Materials,Cancelled,412,134.41,123.79,18,Compliant
+PO-00174,DeltaWorks,2023-10-13,2023-10-21,Raw Materials,Delivered,201,137.63,128.71,17,Compliant
+PO-00175,AlphaSupplies,2024-01-23,2024-03-04,Consumables,Delivered,78,21.09,19.02,1,Compliant
+PO-00176,DeltaWorks,2023-10-09,2023-11-14,Machinery,Delivered,79,2521.03,2404.05,0,Compliant
+PO-00177,AlphaSupplies,2022-11-14,2022-12-07,Electronics,Delivered,427,513.18,473.97,0,Compliant
+PO-00178,AlphaSupplies,2022-10-07,2022-11-08,Electronics,Delivered,198,509.08,488.11,5,Compliant
+PO-00179,BetaCorp,2023-12-10,2024-01-16,Machinery,Partial,483,2554.2,2363.15,54,Compliant
+PO-00180,AlphaSupplies,2023-09-09,2023-10-06,Machinery,Delivered,102,2505.13,2205.52,0,Compliant
+PO-00181,DeltaWorks,2024-01-05,2024-02-09,Consumables,Delivered,363,21.01,19.57,3,Non-Compliant
+PO-00182,DeltaWorks,2023-10-17,2023-11-18,Electronics,Delivered,495,550.97,485.85,43,Non-Compliant
+PO-00183,AlphaSupplies,2024-05-19,2024-06-03,Packaging,Delivered,410,42.04,38.48,1,Compliant
+PO-00184,DeltaWorks,2022-02-03,2022-03-05,Consumables,Delivered,357,18.13,16.6,31,Non-Compliant
+PO-00185,EpsilonMfg,2023-02-12,2023-02-26,Electronics,Delivered,152,523.01,492.52,0,Compliant
+PO-00186,EpsilonMfg,2022-09-26,2022-10-21,Raw Materials,Delivered,370,126.98,114.32,5,Non-Compliant
+PO-00187,BetaCorp,2023-04-08,2023-04-20,Raw Materials,Delivered,375,132.28,126.26,42,Non-Compliant
+PO-00188,GammaTrade,2023-07-18,2023-08-04,Raw Materials,Delivered,466,135.13,124.48,26,Non-Compliant
+PO-00189,GammaTrade,2022-08-18,2022-09-09,Consumables,Delivered,112,18.89,18.12,7,Compliant
+PO-00190,GammaTrade,2024-04-02,2024-04-14,Machinery,Delivered,76,2616.34,2306.3,0,Compliant
+PO-00191,DeltaWorks,2023-02-25,2023-03-12,Consumables,Delivered,431,19.67,17.72,100,Compliant
+PO-00192,EpsilonMfg,2022-05-12,2022-06-25,Electronics,Delivered,409,493.44,439.66,1,Compliant
+PO-00193,AlphaSupplies,2023-06-15,2023-07-06,Raw Materials,Delivered,94,134.19,128.31,1,Compliant
+PO-00194,AlphaSupplies,2022-07-21,2022-08-16,Electronics,Delivered,292,500.78,457.11,7,Compliant
+PO-00195,EpsilonMfg,2022-06-07,2022-07-22,Consumables,Delivered,329,18.61,17.77,2,Compliant
+PO-00196,AlphaSupplies,2022-02-16,2022-03-08,Raw Materials,Delivered,404,121.17,107.19,12,Compliant
+PO-00197,DeltaWorks,2022-10-24,2022-11-25,Consumables,Delivered,164,19.16,17.48,11,Compliant
+PO-00198,DeltaWorks,2023-05-11,2023-06-20,Machinery,Partial,184,2442.03,2266.69,38,Compliant
+PO-00199,GammaTrade,2022-05-14,2022-06-10,Machinery,Delivered,273,2262.57,2039.71,5,Compliant
+PO-00200,BetaCorp,2022-02-21,,Raw Materials,Cancelled,206,121.3,114.5,12,Non-Compliant
+PO-00201,BetaCorp,2023-08-15,2023-10-05,Electronics,Partial,107,543.7,492.1,14,Compliant
+PO-00202,GammaTrade,2022-01-24,2022-02-15,Machinery,Delivered,211,2210.7,2126.47,3,Compliant
+PO-00203,DeltaWorks,2024-06-22,2024-08-02,Consumables,Delivered,354,21.78,19.47,0,Compliant
+PO-00204,GammaTrade,2024-02-22,2024-04-05,Electronics,Delivered,33,566.04,528.51,1,Compliant
+PO-00205,DeltaWorks,2023-04-07,,Consumables,Pending,153,19.84,17.88,22,Compliant
+PO-00206,BetaCorp,2023-02-08,2023-03-10,Raw Materials,Delivered,183,130.64,122.33,19,Compliant
+PO-00207,EpsilonMfg,2022-02-16,2022-03-25,Raw Materials,Delivered,375,121.17,117.11,3,Compliant
+PO-00208,BetaCorp,2023-09-20,,Electronics,Pending,211,547.84,515.68,21,Compliant
+PO-00209,GammaTrade,2024-04-28,2024-05-24,Consumables,Delivered,260,21.52,19.89,9,Compliant
+PO-00210,AlphaSupplies,2023-08-21,2023-08-29,Machinery,Delivered,470,2495.12,2351.15,11,Compliant
+PO-00211,EpsilonMfg,2022-08-22,2022-10-01,Consumables,Delivered,308,18.91,17.12,3,Compliant
+PO-00212,BetaCorp,2022-02-02,2022-02-10,Packaging,Delivered,368,35.24,32.37,22,Compliant
+PO-00213,BetaCorp,2023-05-29,2023-06-08,Machinery,Delivered,481,2451.31,2206.91,47,Compliant
+PO-00214,DeltaWorks,2023-01-21,2023-03-03,Consumables,Delivered,98,19.52,18.38,8,Compliant
+PO-00215,GammaTrade,2023-05-11,2023-06-06,Consumables,Delivered,136,19.98,19.03,2,Non-Compliant
+PO-00216,GammaTrade,2023-12-08,2024-01-19,Packaging,Delivered,172,40.62,36.83,12,Compliant
+PO-00217,AlphaSupplies,2023-11-24,2024-01-05,Consumables,Partial,468,20.83,19.19,17,Compliant
+PO-00218,GammaTrade,2022-10-22,2022-11-26,Raw Materials,Delivered,50,127.67,112.86,2,Compliant
+PO-00219,EpsilonMfg,2023-07-30,2023-09-12,Electronics,Delivered,80,541.87,491.64,0,Compliant
+PO-00220,BetaCorp,2022-02-23,2022-03-08,Packaging,Delivered,179,35.39,34.01,17,Compliant
+PO-00221,BetaCorp,2023-10-31,2023-11-19,Machinery,Delivered,459,2532.75,2243.51,48,Compliant
+PO-00222,AlphaSupplies,2023-10-30,2023-11-08,Raw Materials,Delivered,283,138.12,126.84,10,Compliant
+PO-00223,BetaCorp,2024-05-06,2024-05-31,Raw Materials,Delivered,263,143.74,134.3,32,Compliant
+PO-00224,AlphaSupplies,2022-10-19,2022-11-26,Electronics,Delivered,338,510.37,474.18,12,Compliant
+PO-00225,GammaTrade,2024-04-08,2024-05-01,Packaging,Delivered,93,41.68,40.01,5,Compliant
+PO-00226,GammaTrade,2023-11-22,2023-12-24,Consumables,Delivered,99,20.82,18.78,6,Compliant
+PO-00227,AlphaSupplies,2022-05-24,2022-06-16,Packaging,Delivered,489,36.07,33.44,7,Compliant
+PO-00228,GammaTrade,2023-08-20,2023-09-19,Electronics,Delivered,15,544.27,492.51,0,Compliant
+PO-00229,GammaTrade,2023-02-20,2023-03-31,Packaging,Partial,482,38.2,34.7,26,Compliant
+PO-00230,GammaTrade,2023-09-22,2023-10-08,Electronics,Delivered,500,548.07,520.72,18,Non-Compliant
+PO-00231,EpsilonMfg,2024-02-15,2024-03-08,Machinery,Delivered,350,2590.54,2387.44,4,Compliant
+PO-00232,EpsilonMfg,2023-06-25,2023-07-09,Machinery,Delivered,49,2465.31,2235.3,0,Compliant
+PO-00233,EpsilonMfg,2022-06-03,2022-06-17,Consumables,Delivered,447,18.59,17.76,6,Compliant
+PO-00234,EpsilonMfg,2024-04-08,2024-05-14,Machinery,Delivered,77,2619.66,2527.97,0,Compliant
+PO-00235,GammaTrade,2023-02-10,2023-03-26,Raw Materials,Delivered,11,130.7,123.79,0,Compliant
+PO-00236,EpsilonMfg,2022-03-12,2022-04-14,Raw Materials,Delivered,251,121.78,107.31,0,Compliant
+PO-00237,DeltaWorks,2023-01-27,,Electronics,Pending,479,521.25,484.55,43,Non-Compliant
+PO-00238,EpsilonMfg,2023-11-01,2023-12-12,Packaging,Delivered,70,40.3,35.97,0,Compliant
+PO-00239,AlphaSupplies,2022-11-02,2022-12-13,Raw Materials,Delivered,378,127.97,118.79,5,Compliant
+PO-00240,BetaCorp,2022-07-13,2022-08-04,Electronics,Partial,381,499.94,442.75,43,Compliant
+PO-00241,AlphaSupplies,2022-07-31,2022-09-14,Packaging,Delivered,314,36.59,35.27,8,Compliant
+PO-00242,AlphaSupplies,2023-03-26,2023-04-05,Machinery,Delivered,121,2418.46,2294.88,0,Non-Compliant
+PO-00243,EpsilonMfg,2023-08-15,2023-09-06,Electronics,Delivered,354,543.7,498.14,2,Compliant
+PO-00244,BetaCorp,2022-11-04,,Machinery,Pending,295,2347.12,2218.5,36,Non-Compliant
+PO-00245,DeltaWorks,2023-05-23,,Consumables,Pending,186,20.03,19.34,29,Non-Compliant
+PO-00246,GammaTrade,2023-02-23,2023-04-05,Machinery,Delivered,202,2402.7,2298.42,7,Compliant
+PO-00247,BetaCorp,2022-03-01,2022-03-16,Machinery,Delivered,223,2227.54,2048.0,12,Compliant
+PO-00248,AlphaSupplies,2024-05-17,2024-06-05,Machinery,Delivered,284,2641.29,2473.83,0,Compliant
+PO-00249,AlphaSupplies,2022-07-12,2022-08-23,Raw Materials,Delivered,310,124.96,112.16,2,Compliant
+PO-00250,GammaTrade,2022-08-05,2022-09-11,Raw Materials,Delivered,389,125.59,111.24,28,Compliant
+PO-00251,DeltaWorks,2023-07-20,2023-08-30,Packaging,Delivered,154,39.43,37.11,23,Compliant
+PO-00252,DeltaWorks,2022-04-11,2022-05-08,Machinery,Delivered,379,2246.88,2017.02,83,Compliant
+PO-00253,EpsilonMfg,2024-01-30,2024-03-14,Packaging,Delivered,143,41.07,39.3,1,Compliant
+PO-00254,GammaTrade,2023-01-24,2023-02-21,Packaging,Delivered,135,37.98,34.89,2,Compliant
+PO-00255,DeltaWorks,2022-06-22,2022-08-02,Machinery,Delivered,190,2281.25,2062.48,22,Non-Compliant
+PO-00256,AlphaSupplies,2022-02-04,2022-02-27,Consumables,Partial,48,18.13,16.22,1,Compliant
+PO-00257,BetaCorp,2023-12-26,2024-01-25,Raw Materials,Delivered,121,139.79,133.7,1,Compliant
+PO-00258,DeltaWorks,2022-01-17,2022-01-25,Machinery,Delivered,292,2207.43,2139.88,37,Compliant
+PO-00259,AlphaSupplies,2024-04-12,2024-04-30,Consumables,Delivered,230,21.45,19.46,0,Compliant
+PO-00260,BetaCorp,2023-06-24,2023-07-26,Consumables,Delivered,191,20.17,19.11,2,Non-Compliant
+PO-00261,BetaCorp,2022-11-04,2022-11-13,Packaging,Delivered,444,37.34,33.92,5,Compliant
+PO-00262,AlphaSupplies,2023-12-21,2024-01-18,Raw Materials,Delivered,265,139.64,133.3,5,Compliant
+PO-00263,EpsilonMfg,2022-08-24,2022-10-06,Raw Materials,Delivered,454,126.1,119.92,4,Compliant
+PO-00264,GammaTrade,2023-08-01,2023-09-10,Consumables,Partial,101,20.33,18.52,0,Compliant
+PO-00265,BetaCorp,2022-03-20,2022-04-20,Machinery,Delivered,298,2236.48,2109.22,28,Compliant
+PO-00266,BetaCorp,2023-05-28,2023-07-01,Raw Materials,Delivered,187,133.68,120.7,6,Compliant
+PO-00267,EpsilonMfg,2023-02-11,2023-03-07,Consumables,Delivered,177,19.61,17.31,2,Compliant
+PO-00268,EpsilonMfg,2023-03-19,2023-03-31,Machinery,Delivered,309,2414.89,2302.11,4,Compliant
+PO-00269,AlphaSupplies,2022-10-02,2022-10-18,Raw Materials,Delivered,374,127.14,121.56,11,Compliant
+PO-00270,AlphaSupplies,2023-04-01,2023-04-13,Electronics,Delivered,148,528.33,495.36,1,Compliant
+PO-00271,DeltaWorks,2022-01-27,,Raw Materials,Delivered,293,120.66,116.06,55,Non-Compliant
+PO-00272,DeltaWorks,2024-03-08,2024-03-30,Machinery,Delivered,471,2602.59,2504.73,64,Compliant
+PO-00273,BetaCorp,2022-11-05,2022-12-09,Electronics,Delivered,84,512.21,484.45,3,Compliant
+PO-00274,GammaTrade,2022-09-10,,Electronics,Delivered,263,506.19,458.15,9,Compliant
+PO-00275,DeltaWorks,2024-05-11,,Electronics,Pending,421,575.55,526.17,44,Compliant
+PO-00276,EpsilonMfg,2022-11-04,2022-12-11,Packaging,Delivered,495,37.34,35.14,3,Compliant
+PO-00277,GammaTrade,2023-08-13,2023-09-14,Machinery,Delivered,176,2490.91,2240.82,5,Non-Compliant
+PO-00278,EpsilonMfg,2023-11-30,2024-01-18,Packaging,Partial,23,40.55,36.53,0,Compliant
+PO-00279,GammaTrade,2024-04-18,2024-05-26,Raw Materials,Delivered,417,143.19,127.97,4,Compliant
+PO-00280,BetaCorp,2024-03-19,,Machinery,Pending,239,2608.63,2441.94,16,Compliant
+PO-00281,EpsilonMfg,2023-07-11,2023-08-21,Machinery,Delivered,194,2473.64,2391.27,2,Compliant
+PO-00282,BetaCorp,2022-06-20,2022-07-22,Electronics,Delivered,32,497.52,453.64,4,Compliant
+PO-00283,AlphaSupplies,2022-04-11,2022-05-23,Raw Materials,Delivered,271,122.56,116.03,6,Compliant
+PO-00284,DeltaWorks,2024-03-01,2024-03-30,Machinery,Delivered,363,2598.75,2361.74,86,Compliant
+PO-00285,AlphaSupplies,2024-05-01,2024-05-29,Raw Materials,Delivered,82,143.58,127.11,1,Compliant
+PO-00286,DeltaWorks,2023-03-25,,Raw Materials,Delivered,241,131.89,119.36,2,Non-Compliant
+PO-00287,GammaTrade,2023-11-25,,Raw Materials,Cancelled,486,138.88,124.71,9,Compliant
+PO-00288,BetaCorp,2023-07-28,2023-08-29,Electronics,Delivered,246,541.64,504.59,21,Compliant
+PO-00289,DeltaWorks,2024-01-26,2024-02-29,Raw Materials,Delivered,111,140.71,128.71,10,Non-Compliant
+PO-00290,AlphaSupplies,2022-04-15,2022-05-12,Consumables,Delivered,284,18.4,16.52,2,Compliant
+PO-00291,DeltaWorks,2023-10-17,2023-12-13,Consumables,Partial,208,20.66,19.46,5,Compliant
+PO-00292,DeltaWorks,2022-06-26,,Consumables,Pending,371,18.68,16.75,81,Compliant
+PO-00293,BetaCorp,2022-05-01,2022-05-17,Electronics,Delivered,69,492.3,466.95,4,Compliant
+PO-00294,DeltaWorks,2022-07-10,2022-08-10,Machinery,Partial,285,2289.93,2120.93,37,Compliant
+PO-00295,BetaCorp,2022-11-19,2022-12-18,Packaging,Delivered,327,37.46,33.5,43,Compliant
+PO-00296,DeltaWorks,2023-06-02,2023-07-18,Consumables,Partial,219,20.07,18.29,37,Compliant
+PO-00297,BetaCorp,2023-08-02,2023-08-11,Raw Materials,Delivered,399,135.55,131.1,15,Compliant
+PO-00298,DeltaWorks,2024-01-31,2024-02-14,Consumables,Delivered,263,21.13,19.03,36,Compliant
+PO-00299,GammaTrade,2024-04-22,2024-06-02,Consumables,Delivered,399,21.5,19.39,6,Compliant
+PO-00300,BetaCorp,2024-06-14,2024-06-26,Electronics,Delivered,240,579.69,510.19,14,Non-Compliant
+PO-00301,BetaCorp,2024-04-10,2024-05-14,Packaging,Delivered,362,41.69,37.67,8,Compliant
+PO-00302,BetaCorp,2023-08-07,2023-08-24,Raw Materials,Delivered,153,135.7,127.34,6,Compliant
+PO-00303,GammaTrade,2023-11-27,,Consumables,Cancelled,79,20.84,18.69,4,Non-Compliant
+PO-00304,GammaTrade,2023-12-20,2024-01-16,Packaging,Delivered,137,40.72,36.33,9,Compliant
+PO-00305,DeltaWorks,2023-08-15,2023-09-19,Packaging,Delivered,331,39.64,36.2,5,Non-Compliant
+PO-00306,DeltaWorks,2024-02-07,,Consumables,Pending,489,21.16,20.0,53,Compliant
+PO-00307,EpsilonMfg,2024-06-08,2024-07-14,Raw Materials,Delivered,385,144.74,130.31,4,Compliant
+PO-00308,EpsilonMfg,2022-08-12,2022-09-05,Machinery,Delivered,432,2305.91,2035.89,2,Compliant
+PO-00309,BetaCorp,2024-05-22,,Consumables,Cancelled,185,21.63,20.04,19,Compliant
+PO-00310,DeltaWorks,2022-05-08,2022-05-15,Raw Materials,Delivered,90,123.26,109.26,21,Compliant
+PO-00311,BetaCorp,2022-06-12,2022-07-12,Electronics,Delivered,458,496.68,442.69,16,Compliant
+PO-00312,BetaCorp,2023-02-10,2023-03-03,Raw Materials,Delivered,381,130.7,119.42,22,Compliant
+PO-00313,BetaCorp,2022-03-21,2022-04-25,Machinery,Delivered,125,2236.95,2143.22,0,Compliant
+PO-00314,DeltaWorks,2023-05-05,2023-05-18,Packaging,Delivered,206,38.8,37.39,5,Compliant
+PO-00315,DeltaWorks,2023-10-19,2023-12-01,Packaging,Delivered,83,40.19,35.39,0,Non-Compliant
+PO-00316,BetaCorp,2023-02-26,,Packaging,Cancelled,236,38.25,34.98,2,Compliant
+PO-00317,AlphaSupplies,2024-01-18,2024-02-02,Consumables,Delivered,229,21.07,19.71,2,Compliant
+PO-00318,EpsilonMfg,2024-01-09,2024-01-17,Consumables,Delivered,408,21.03,19.25,6,Compliant
+PO-00319,EpsilonMfg,2023-06-06,2023-06-16,Consumables,Delivered,210,20.09,19.15,3,Compliant
+PO-00320,DeltaWorks,2022-09-04,2022-09-11,Raw Materials,Delivered,314,126.39,116.91,74,Non-Compliant
+PO-00321,EpsilonMfg,2023-01-10,2023-01-21,Machinery,Delivered,98,2380.51,2191.97,0,Compliant
+PO-00322,AlphaSupplies,2024-03-19,2024-04-27,Raw Materials,Delivered,156,142.29,132.93,4,Compliant
+PO-00323,EpsilonMfg,2023-09-23,2023-11-01,Consumables,Delivered,52,20.56,19.66,0,Compliant
+PO-00324,GammaTrade,2023-08-24,2023-09-04,Machinery,Delivered,437,2496.7,2279.24,10,Compliant
+PO-00325,BetaCorp,2022-09-08,2022-10-23,Raw Materials,Delivered,232,126.5,121.72,1,Compliant
+PO-00326,BetaCorp,2022-01-13,2022-02-20,Raw Materials,Delivered,369,120.3,109.03,49,Compliant
+PO-00327,GammaTrade,2023-01-16,2023-02-12,Packaging,Partial,409,37.92,36.35,25,Compliant
+PO-00328,DeltaWorks,2023-06-21,,Electronics,Pending,374,537.43,518.24,56,Compliant
+PO-00329,EpsilonMfg,2022-02-26,2022-03-15,Electronics,Delivered,300,485.7,449.27,1,Compliant
+PO-00330,AlphaSupplies,2024-01-29,2024-02-05,Packaging,Delivered,32,41.07,37.96,0,Compliant
+PO-00331,BetaCorp,2024-05-28,,Packaging,Pending,421,42.12,40.72,43,Compliant
+PO-00332,GammaTrade,2023-03-03,2023-03-14,Packaging,Delivered,173,38.29,33.99,7,Compliant
+PO-00333,AlphaSupplies,2022-08-17,2022-09-10,Packaging,Partial,33,36.72,32.96,1,Compliant
+PO-00334,GammaTrade,2022-03-30,2022-04-24,Electronics,Delivered,14,488.99,449.97,0,Compliant
+PO-00335,DeltaWorks,2023-08-29,,Electronics,Pending,405,545.31,481.24,71,Compliant
+PO-00336,BetaCorp,2022-01-07,,Packaging,Delivered,22,35.04,31.05,1,Compliant
+PO-00337,GammaTrade,2024-02-17,2024-03-14,Raw Materials,Delivered,444,141.36,128.75,3,Compliant
+PO-00338,DeltaWorks,2022-05-26,2022-06-16,Raw Materials,Delivered,57,123.73,112.1,12,Compliant
+PO-00339,GammaTrade,2024-02-05,2024-03-08,Machinery,Delivered,58,2585.09,2487.89,0,Compliant
+PO-00340,BetaCorp,2022-10-26,,Packaging,Pending,171,37.27,35.28,9,Non-Compliant
+PO-00341,GammaTrade,2023-04-09,2023-05-07,Electronics,Partial,48,529.22,500.38,2,Compliant
+PO-00342,BetaCorp,2022-06-18,2022-07-29,Raw Materials,Delivered,170,124.33,115.56,8,Compliant
+PO-00343,DeltaWorks,2024-05-22,,Electronics,Pending,90,576.89,553.35,6,Non-Compliant
+PO-00344,EpsilonMfg,2022-08-09,2022-08-31,Raw Materials,Delivered,177,125.7,112.48,3,Compliant
+PO-00345,GammaTrade,2024-04-19,,Electronics,Cancelled,25,572.89,504.6,1,Compliant
+PO-00346,EpsilonMfg,2022-04-07,2022-04-21,Packaging,Delivered,421,35.72,33.16,0,Compliant
+PO-00347,BetaCorp,2024-04-23,2024-05-05,Packaging,Delivered,361,41.81,39.05,29,Compliant
+PO-00348,AlphaSupplies,2022-07-22,2022-08-03,Raw Materials,Delivered,237,125.22,111.3,8,Compliant
+PO-00349,AlphaSupplies,2022-02-21,2022-03-25,Machinery,Delivered,303,2223.79,2123.5,6,Compliant
+PO-00350,GammaTrade,2022-07-11,2022-08-02,Packaging,Partial,238,36.44,34.45,11,Compliant
+PO-00351,GammaTrade,2023-02-26,2023-03-22,Machinery,Delivered,255,2404.22,2140.96,7,Compliant
+PO-00352,EpsilonMfg,2023-10-08,2023-11-08,Packaging,Delivered,288,40.1,35.31,4,Compliant
+PO-00353,DeltaWorks,2023-08-03,2023-08-11,Electronics,Delivered,208,542.33,501.55,15,Compliant
+PO-00354,GammaTrade,2024-04-08,2024-05-22,Raw Materials,Delivered,281,142.89,125.86,22,Non-Compliant
+PO-00355,BetaCorp,2023-07-01,2023-07-22,Electronics,Delivered,479,538.57,482.83,38,Non-Compliant
+PO-00356,BetaCorp,2022-08-31,2022-09-29,Packaging,Delivered,422,36.83,33.76,53,Compliant
+PO-00357,EpsilonMfg,2022-05-26,2022-07-03,Consumables,Delivered,106,18.56,17.06,1,Compliant
+PO-00358,AlphaSupplies,2023-09-09,2023-10-07,Packaging,Delivered,279,39.85,37.87,10,Compliant
+PO-00359,BetaCorp,2022-03-02,2022-03-18,Electronics,Delivered,310,486.11,470.55,33,Non-Compliant
+PO-00360,AlphaSupplies,2023-12-23,2024-01-20,Electronics,Delivered,212,558.81,494.66,2,Compliant
+PO-00361,DeltaWorks,2023-10-27,,Machinery,Pending,372,2530.62,2382.33,61,Non-Compliant
+PO-00362,GammaTrade,2023-11-13,2023-12-08,Packaging,Delivered,99,40.4,37.05,1,Compliant
+PO-00363,EpsilonMfg,2024-05-21,2024-07-05,Machinery,Delivered,300,2643.52,2327.62,1,Compliant
+PO-00364,EpsilonMfg,2023-05-24,2023-06-22,Raw Materials,Delivered,391,133.57,127.87,7,Compliant
+PO-00365,AlphaSupplies,2023-04-03,2023-04-14,Electronics,Delivered,117,528.55,512.16,1,Compliant
+PO-00366,AlphaSupplies,2023-03-25,2023-05-02,Machinery,Delivered,95,2417.95,2186.07,3,Compliant
+PO-00367,DeltaWorks,2023-10-29,,Consumables,Delivered,125,20.71,18.68,23,Compliant
+PO-00368,GammaTrade,2022-03-17,2022-03-28,Raw Materials,Delivered,464,121.91,114.5,20,Non-Compliant
+PO-00369,EpsilonMfg,2023-05-10,2023-05-27,Consumables,Delivered,230,19.98,18.11,2,Compliant
+PO-00370,GammaTrade,2022-07-14,2022-08-24,Packaging,Delivered,293,36.46,34.02,6,Compliant
+PO-00371,AlphaSupplies,2023-08-09,2023-09-08,Machinery,Delivered,261,2488.81,2290.95,0,Compliant
+PO-00372,EpsilonMfg,2022-07-24,2022-08-18,Machinery,Delivered,115,2296.7,2207.82,2,Compliant
+PO-00373,DeltaWorks,2023-05-16,2023-06-26,Machinery,Delivered,145,2444.6,2174.47,13,Compliant
+PO-00374,BetaCorp,2022-02-15,2022-03-11,Machinery,Delivered,248,2220.97,2101.7,19,Compliant
+PO-00375,AlphaSupplies,2023-11-16,2023-12-30,Raw Materials,Delivered,287,138.62,130.18,2,Compliant
+PO-00376,EpsilonMfg,2023-07-03,2023-07-25,Machinery,Delivered,489,2469.47,2242.77,4,Compliant
+PO-00377,AlphaSupplies,2023-08-08,2023-08-24,Consumables,Delivered,419,20.36,18.1,2,Compliant
+PO-00378,BetaCorp,2024-04-07,2024-05-11,Packaging,Delivered,31,41.67,39.7,0,Non-Compliant
+PO-00379,EpsilonMfg,2022-11-24,2022-12-06,Electronics,Delivered,478,514.26,456.66,3,Compliant
+PO-00380,GammaTrade,2023-04-15,2023-05-29,Consumables,Delivered,16,19.87,17.63,0,Compliant
+PO-00381,BetaCorp,2023-08-26,2023-09-08,Consumables,Delivered,491,20.44,18.76,38,Compliant
+PO-00382,EpsilonMfg,2024-06-17,2024-07-30,Electronics,Delivered,206,580.06,541.2,2,Compliant
+PO-00383,BetaCorp,2023-09-16,2023-10-14,Consumables,Delivered,215,20.53,18.66,20,Compliant
+PO-00384,GammaTrade,2022-01-21,2022-02-14,Electronics,Delivered,416,482.03,452.92,28,Compliant
+PO-00385,BetaCorp,2022-11-04,2022-12-14,Packaging,Partial,236,37.34,32.95,8,Compliant
+PO-00386,AlphaSupplies,2023-03-29,2023-05-06,Packaging,Delivered,431,38.5,36.61,13,Compliant
+PO-00387,EpsilonMfg,2022-03-09,2022-04-18,Packaging,Delivered,269,35.5,33.44,4,Compliant
+PO-00388,BetaCorp,2022-09-13,,Raw Materials,Pending,35,126.63,122.45,3,Compliant
+PO-00389,DeltaWorks,2023-02-11,2023-03-18,Consumables,Partial,73,19.61,17.9,6,Compliant
+PO-00390,BetaCorp,2023-08-24,2023-09-16,Machinery,Delivered,186,2496.7,2297.96,19,Compliant
+PO-00391,DeltaWorks,2022-06-16,,Raw Materials,Pending,409,124.27,111.0,84,Compliant
+PO-00392,BetaCorp,2023-10-30,,Electronics,Cancelled,20,552.48,515.52,2,Compliant
+PO-00393,DeltaWorks,2023-10-25,2023-11-17,Packaging,Delivered,420,40.24,38.41,61,Non-Compliant
+PO-00394,GammaTrade,2023-01-21,2023-02-26,Machinery,Delivered,245,2386.04,2131.69,5,Compliant
+PO-00395,EpsilonMfg,2022-01-08,2022-02-20,Raw Materials,Partial,349,120.18,111.05,3,Compliant
+PO-00396,GammaTrade,2023-12-02,2023-12-26,Electronics,Delivered,42,556.34,534.25,2,Compliant
+PO-00397,GammaTrade,2022-06-03,2022-07-31,Packaging,Partial,133,36.15,33.38,4,Compliant
+PO-00398,BetaCorp,2023-11-03,2023-12-06,Raw Materials,Delivered,161,138.24,127.9,9,Compliant
+PO-00399,EpsilonMfg,2022-12-18,2023-01-24,Packaging,Delivered,123,37.69,34.09,2,Compliant
+PO-00400,BetaCorp,2022-07-05,2022-07-28,Consumables,Delivered,251,18.72,17.66,25,Compliant
+PO-00401,GammaTrade,2022-08-16,2022-10-01,Raw Materials,Partial,391,125.88,118.08,24,Compliant
+PO-00402,GammaTrade,2022-10-29,2022-12-12,Consumables,Delivered,70,19.18,17.8,3,Compliant
+PO-00403,BetaCorp,2022-05-03,2022-06-05,Consumables,Delivered,205,18.47,16.47,1,Non-Compliant
+PO-00404,BetaCorp,2023-02-24,,Electronics,Pending,467,524.34,462.05,29,Compliant
+PO-00405,BetaCorp,2023-05-15,2023-05-25,Raw Materials,Delivered,100,133.31,125.32,0,Compliant
+PO-00406,BetaCorp,2024-02-22,2024-03-18,Consumables,Partial,412,21.23,20.29,7,Compliant
+PO-00407,DeltaWorks,2023-03-16,,Machinery,Delivered,206,2413.36,2131.24,9,Compliant
+PO-00408,GammaTrade,2022-07-15,2022-08-06,Consumables,Delivered,12,18.76,18.17,0,Compliant
+PO-00409,AlphaSupplies,2023-05-31,2023-06-09,Machinery,Delivered,95,2452.35,2248.8,1,Compliant
+PO-00410,EpsilonMfg,2022-12-12,2023-01-22,Consumables,Partial,361,19.36,18.02,7,Compliant
+PO-00411,BetaCorp,2024-04-11,2024-04-26,Packaging,Delivered,126,41.7,38.94,3,Compliant
+PO-00412,AlphaSupplies,2023-12-30,2024-01-22,Electronics,Delivered,29,559.64,510.11,0,Compliant
+PO-00413,AlphaSupplies,2023-11-01,2023-12-04,Raw Materials,Delivered,34,138.18,123.63,0,Compliant
+PO-00414,BetaCorp,2023-12-13,2023-12-26,Packaging,Delivered,14,40.66,36.93,1,Compliant
+PO-00415,BetaCorp,2024-04-30,2024-05-14,Machinery,Delivered,271,2631.84,2339.97,10,Compliant
+PO-00416,EpsilonMfg,2024-03-07,2024-04-18,Packaging,Partial,277,41.4,39.18,3,Compliant
+PO-00417,AlphaSupplies,2023-05-24,2023-07-04,Consumables,Partial,362,20.04,17.8,3,Compliant
+PO-00418,AlphaSupplies,2024-05-05,2024-05-17,Raw Materials,Delivered,262,143.71,131.97,8,Compliant
+PO-00419,GammaTrade,2023-04-13,2023-04-23,Packaging,Delivered,161,38.62,34.02,1,Compliant
+PO-00420,GammaTrade,2024-03-31,,Electronics,Delivered,228,570.6,518.73,15,Non-Compliant
+PO-00421,BetaCorp,2022-12-03,,Packaging,Pending,234,37.57,35.23,8,Compliant
+PO-00422,GammaTrade,2022-07-07,,Electronics,Cancelled,214,499.3,479.23,4,Compliant
+PO-00423,DeltaWorks,2023-10-27,2023-11-06,Machinery,Delivered,95,2530.62,2252.76,22,Non-Compliant
+PO-00424,EpsilonMfg,2024-04-01,2024-05-02,Machinery,Delivered,234,2615.79,2403.39,3,Compliant
+PO-00425,BetaCorp,2023-05-15,2023-05-26,Machinery,Delivered,220,2444.09,2345.84,8,Compliant
+PO-00426,EpsilonMfg,2024-01-12,2024-02-09,Consumables,Delivered,499,21.04,19.34,5,Compliant
+PO-00427,DeltaWorks,2023-05-09,2023-06-07,Packaging,Partial,356,38.83,36.46,71,Compliant
+PO-00428,EpsilonMfg,2022-01-12,2022-02-18,Raw Materials,Delivered,90,120.28,109.71,1,Compliant
+PO-00429,DeltaWorks,2022-09-04,2022-09-25,Electronics,Delivered,152,505.55,475.32,20,Compliant
+PO-00430,AlphaSupplies,2023-03-31,2023-05-08,Machinery,Delivered,239,2421.01,2173.82,4,Compliant
+PO-00431,AlphaSupplies,2023-02-18,2023-03-02,Raw Materials,Delivered,295,130.92,122.14,9,Non-Compliant
+PO-00432,EpsilonMfg,2022-07-31,2022-09-12,Consumables,Partial,243,18.82,17.15,4,Compliant
+PO-00433,DeltaWorks,2023-07-28,2023-08-27,Electronics,Delivered,317,541.64,487.96,54,Compliant
+PO-00434,BetaCorp,2022-12-16,,Raw Materials,Pending,334,129.16,121.15,13,Compliant
+PO-00435,AlphaSupplies,2022-06-18,2022-07-21,Raw Materials,Delivered,430,124.33,115.09,1,Compliant
+PO-00436,DeltaWorks,2023-04-14,,Packaging,Cancelled,107,38.63,34.6,2,Compliant
+PO-00437,EpsilonMfg,2024-03-01,2024-04-09,Raw Materials,Delivered,244,141.75,126.11,0,Compliant
+PO-00438,AlphaSupplies,2023-03-20,2023-04-20,Consumables,Partial,257,19.76,17.68,7,Compliant
+PO-00439,BetaCorp,2023-02-01,,Raw Materials,Cancelled,320,130.45,118.81,22,Compliant
+PO-00440,EpsilonMfg,2022-10-08,2022-11-25,Packaging,Partial,185,37.13,34.69,2,Compliant
+PO-00441,EpsilonMfg,2022-11-03,2022-12-15,Consumables,Delivered,290,19.2,17.17,3,Compliant
+PO-00442,GammaTrade,2023-11-20,2023-12-08,Electronics,Delivered,373,554.94,531.69,15,Compliant
+PO-00443,AlphaSupplies,2023-07-30,2023-09-14,Electronics,Partial,302,541.87,502.21,8,Compliant
+PO-00444,EpsilonMfg,2024-06-17,2024-06-30,Electronics,Delivered,423,580.06,518.4,0,Compliant
+PO-00445,BetaCorp,2024-02-08,2024-02-24,Electronics,Delivered,156,564.38,507.55,18,Compliant
+PO-00446,EpsilonMfg,2023-01-03,2023-02-14,Raw Materials,Delivered,62,129.65,116.26,1,Compliant
+PO-00447,BetaCorp,2024-03-14,2024-03-24,Consumables,Delivered,366,21.32,19.15,47,Compliant
+PO-00448,GammaTrade,2022-02-25,2022-04-01,Consumables,Delivered,138,18.21,17.64,9,Non-Compliant
+PO-00449,GammaTrade,2023-07-14,2023-08-02,Consumables,Delivered,110,20.25,18.3,2,Compliant
+PO-00450,BetaCorp,2024-01-23,2024-02-16,Packaging,Delivered,203,41.01,37.89,15,Compliant
+PO-00451,GammaTrade,2022-12-05,2022-12-21,Raw Materials,Delivered,489,128.86,119.58,36,Compliant
+PO-00452,EpsilonMfg,2023-05-18,2023-06-14,Electronics,Delivered,291,533.59,479.64,3,Compliant
+PO-00453,EpsilonMfg,2023-03-02,2023-03-23,Packaging,Delivered,216,38.28,35.26,3,Compliant
+PO-00454,GammaTrade,2024-02-10,,Packaging,Cancelled,253,41.17,37.65,16,Non-Compliant
+PO-00455,AlphaSupplies,2023-11-16,2024-01-14,Raw Materials,Partial,133,138.62,130.15,4,Compliant
+PO-00456,AlphaSupplies,2023-01-26,2023-02-18,Electronics,Delivered,493,521.14,462.56,10,Compliant
+PO-00457,GammaTrade,2024-04-02,2024-04-21,Consumables,Delivered,259,21.41,19.79,6,Compliant
+PO-00458,EpsilonMfg,2022-01-08,2022-01-28,Consumables,Delivered,117,18.03,16.47,2,Compliant
+PO-00459,EpsilonMfg,2023-10-25,2023-11-10,Machinery,Delivered,46,2529.55,2267.74,0,Compliant
+PO-00460,AlphaSupplies,2022-07-02,2022-07-23,Raw Materials,Delivered,295,124.69,112.03,10,Compliant
+PO-00461,DeltaWorks,2022-11-20,2022-11-27,Machinery,Delivered,354,2355.05,2280.87,54,Compliant
+PO-00462,EpsilonMfg,2023-12-19,2024-01-01,Raw Materials,Delivered,193,139.58,124.74,1,Compliant
+PO-00463,GammaTrade,2023-01-26,2023-02-12,Machinery,Delivered,348,2388.56,2231.87,14,Compliant
+PO-00464,EpsilonMfg,2023-10-12,2023-11-11,Electronics,Delivered,356,550.39,526.72,6,Compliant
+PO-00465,BetaCorp,2022-02-12,2022-03-26,Raw Materials,Delivered,315,121.07,117.38,41,Compliant
+PO-00466,GammaTrade,2023-02-27,2023-03-16,Packaging,Delivered,445,38.26,33.99,6,Compliant
+PO-00467,AlphaSupplies,2023-11-19,2023-12-31,Packaging,Delivered,446,40.46,36.33,8,Compliant
+PO-00468,AlphaSupplies,2022-04-11,2022-05-09,Electronics,Delivered,307,490.23,466.8,4,Compliant
+PO-00469,GammaTrade,2022-03-13,2022-04-10,Consumables,Delivered,172,18.27,16.24,8,Compliant
+PO-00470,EpsilonMfg,2023-01-09,2023-01-16,Consumables,Delivered,500,19.47,17.47,3,Compliant
+PO-00471,DeltaWorks,2024-05-10,,Electronics,Cancelled,357,575.43,539.52,75,Compliant
+PO-00472,GammaTrade,2023-05-14,2023-05-26,Electronics,Delivered,99,533.14,490.65,6,Compliant
+PO-00473,EpsilonMfg,2022-09-27,2022-10-08,Packaging,Delivered,330,37.04,33.48,5,Compliant
+PO-00474,EpsilonMfg,2023-02-19,2023-04-02,Consumables,Delivered,118,19.64,17.69,0,Compliant
+PO-00475,BetaCorp,2023-02-06,2023-03-03,Electronics,Delivered,405,522.35,496.18,7,Compliant
+PO-00476,GammaTrade,2022-01-11,,Consumables,Cancelled,444,18.04,16.42,34,Compliant
+PO-00477,EpsilonMfg,2023-04-02,2023-04-18,Packaging,Delivered,299,38.53,36.82,4,Compliant
+PO-00478,BetaCorp,2022-08-26,2022-09-15,Machinery,Delivered,199,2312.73,2230.17,14,Compliant
+PO-00479,DeltaWorks,2022-02-10,2022-03-22,Raw Materials,Delivered,175,121.02,106.7,26,Compliant
+PO-00480,EpsilonMfg,2023-08-07,2023-09-20,Consumables,Delivered,344,20.35,19.42,4,Compliant
+PO-00481,DeltaWorks,2023-06-13,,Packaging,Pending,428,39.12,36.52,50,Compliant
+PO-00482,EpsilonMfg,2023-05-29,2023-06-09,Raw Materials,Delivered,235,133.71,119.08,2,Compliant
+PO-00483,BetaCorp,2023-09-09,2023-10-12,Electronics,Delivered,70,546.57,494.86,7,Compliant
+PO-00484,DeltaWorks,2022-08-04,,Machinery,Pending,341,2302.03,2110.5,1,Compliant
+PO-00485,EpsilonMfg,2022-06-14,2022-07-27,Consumables,Delivered,272,18.63,17.85,0,Compliant
+PO-00486,EpsilonMfg,2023-09-06,2023-10-01,Machinery,Delivered,336,2503.55,2210.13,6,Compliant
+PO-00487,DeltaWorks,2022-06-24,2022-08-20,Machinery,Partial,220,2282.21,2168.78,43,Compliant
+PO-00488,EpsilonMfg,2022-06-21,2022-08-05,Electronics,Delivered,185,497.62,450.25,2,Compliant
+PO-00489,AlphaSupplies,2022-07-27,2022-08-29,Raw Materials,Delivered,475,125.35,115.7,15,Compliant
+PO-00490,EpsilonMfg,2022-02-09,2022-02-23,Consumables,Delivered,282,18.15,16.17,0,Compliant
+PO-00491,EpsilonMfg,2024-03-04,2024-04-03,Raw Materials,Delivered,230,141.84,128.92,4,Compliant
+PO-00492,DeltaWorks,2022-12-25,,Machinery,Pending,389,2372.5,2175.58,78,Compliant
+PO-00493,DeltaWorks,2022-09-18,,Packaging,Pending,129,36.97,34.27,2,Compliant
+PO-00494,EpsilonMfg,2022-09-21,,Machinery,Delivered,373,2325.45,2216.15,4,Compliant
+PO-00495,BetaCorp,2023-02-23,2023-04-08,Electronics,Delivered,89,524.23,491.41,3,Non-Compliant
+PO-00496,GammaTrade,2022-10-10,2022-11-12,Consumables,Delivered,213,19.1,16.82,9,Compliant
+PO-00497,EpsilonMfg,2023-05-11,2023-06-12,Consumables,Delivered,167,19.98,18.93,2,Compliant
+PO-00498,BetaCorp,2024-03-12,2024-04-20,Machinery,Delivered,92,2604.78,2362.8,5,Compliant
+PO-00499,AlphaSupplies,2023-02-03,2023-02-19,Packaging,Delivered,12,38.06,33.61,0,Compliant
+PO-00500,GammaTrade,2023-01-15,2023-02-16,Packaging,Delivered,29,37.91,36.5,1,Compliant
+PO-00501,EpsilonMfg,2024-03-03,2024-03-10,Raw Materials,Delivered,337,141.81,127.09,1,Compliant
+PO-00502,GammaTrade,2022-02-04,2022-02-25,Packaging,Delivered,271,35.25,31.7,13,Compliant
+PO-00503,AlphaSupplies,2022-03-30,,Packaging,Delivered,409,35.66,31.39,6,Compliant
+PO-00504,AlphaSupplies,2023-07-17,2023-08-30,Raw Materials,Delivered,434,135.1,127.59,6,Non-Compliant
+PO-00505,EpsilonMfg,2023-04-11,2023-04-29,Packaging,Delivered,304,38.61,34.22,2,Compliant
+PO-00506,GammaTrade,2022-04-30,2022-06-10,Electronics,Delivered,499,492.2,441.85,32,Compliant
+PO-00507,DeltaWorks,2023-05-11,2023-06-16,Consumables,Delivered,397,19.98,18.0,64,Non-Compliant
+PO-00508,DeltaWorks,2022-09-22,,Raw Materials,Pending,334,126.87,122.29,17,Non-Compliant
+PO-00509,GammaTrade,2022-12-28,2023-01-20,Machinery,Delivered,14,2374.0,2192.39,0,Compliant
+PO-00510,GammaTrade,2023-07-22,2023-08-11,Raw Materials,Delivered,253,135.24,119.85,18,Compliant
+PO-00511,BetaCorp,2024-01-25,2024-02-17,Machinery,Delivered,386,2579.1,2455.3,11,Compliant
+PO-00512,EpsilonMfg,2022-06-09,2022-07-17,Electronics,Delivered,71,496.37,446.68,0,Compliant
+PO-00513,AlphaSupplies,2023-01-16,2023-02-28,Machinery,Delivered,262,2383.53,2178.78,9,Compliant
+PO-00514,EpsilonMfg,2023-02-12,2023-03-24,Electronics,Delivered,305,523.01,496.86,4,Compliant
+PO-00515,EpsilonMfg,2023-02-08,2023-02-22,Electronics,Delivered,407,522.57,466.45,5,Compliant
+PO-00516,AlphaSupplies,2023-01-24,2023-02-16,Packaging,Delivered,176,37.98,34.85,1,Compliant
+PO-00517,EpsilonMfg,2023-01-10,2023-02-09,Electronics,Delivered,227,519.38,495.18,1,Compliant
+PO-00518,EpsilonMfg,2023-08-13,2023-09-06,Packaging,Delivered,426,39.63,36.0,6,Compliant
+PO-00519,BetaCorp,2024-03-30,2024-04-06,Packaging,Delivered,86,41.6,36.76,2,Compliant
+PO-00520,EpsilonMfg,2024-01-08,2024-02-19,Consumables,Delivered,259,21.03,19.8,4,Compliant
+PO-00521,BetaCorp,2022-08-09,2022-09-04,Raw Materials,Partial,253,125.7,112.73,15,Compliant
+PO-00522,GammaTrade,2023-07-28,2023-08-05,Electronics,Delivered,424,541.64,498.2,13,Compliant
+PO-00523,EpsilonMfg,2023-08-14,2023-09-08,Packaging,Delivered,342,39.64,36.4,2,Compliant
+PO-00524,DeltaWorks,2023-01-26,2023-02-24,Raw Materials,Partial,247,130.28,119.18,51,Compliant
+PO-00525,GammaTrade,2023-10-09,2023-10-20,Machinery,Delivered,217,2521.03,2306.49,1,Compliant
+PO-00526,GammaTrade,2023-09-12,2023-10-25,Electronics,Partial,148,546.92,498.79,8,Compliant
+PO-00527,DeltaWorks,2022-06-21,2022-07-13,Machinery,Delivered,21,2280.77,2174.71,3,Non-Compliant
+PO-00528,AlphaSupplies,2022-06-20,2022-07-27,Packaging,Delivered,58,36.28,33.9,1,Compliant
+PO-00529,AlphaSupplies,2022-09-26,2022-10-27,Raw Materials,Delivered,53,126.98,116.11,0,Compliant
+PO-00530,BetaCorp,2023-06-24,2023-07-23,Packaging,Delivered,24,39.21,35.07,2,Compliant
+PO-00531,EpsilonMfg,2023-07-16,2023-08-03,Electronics,Delivered,495,540.27,502.45,5,Compliant
+PO-00532,EpsilonMfg,2023-06-21,2023-07-20,Machinery,Delivered,283,2463.23,2247.45,2,Compliant
+PO-00533,GammaTrade,2023-02-27,2023-04-08,Electronics,Delivered,165,524.67,496.65,10,Compliant
+PO-00534,DeltaWorks,2022-01-09,,Consumables,Pending,261,18.03,16.37,29,Compliant
+PO-00535,DeltaWorks,2023-09-04,2023-09-23,Electronics,Delivered,13,546.0,518.26,1,Compliant
+PO-00536,BetaCorp,2024-04-28,2024-05-20,Machinery,Delivered,144,2630.73,2462.1,10,Compliant
+PO-00537,GammaTrade,2023-10-27,2023-11-15,Electronics,Delivered,424,552.13,498.63,28,Compliant
+PO-00538,DeltaWorks,2023-04-09,2023-05-06,Consumables,Delivered,328,19.85,18.77,1,Compliant
+PO-00539,BetaCorp,2022-10-16,2022-10-23,Raw Materials,Delivered,376,127.51,120.6,12,Compliant
+PO-00540,GammaTrade,2022-11-16,,Machinery,Cancelled,265,2353.07,2116.12,9,Compliant
+PO-00541,GammaTrade,2024-05-13,2024-06-14,Raw Materials,Delivered,84,143.95,129.9,0,Compliant
+PO-00542,GammaTrade,2024-04-28,2024-05-29,Machinery,Delivered,403,2630.73,2548.91,24,Compliant
+PO-00543,AlphaSupplies,2023-04-17,2023-05-07,Packaging,Delivered,58,38.65,34.93,1,Compliant
+PO-00544,GammaTrade,2023-10-07,2023-11-29,Packaging,Partial,391,40.09,36.26,3,Compliant
+PO-00545,GammaTrade,2023-01-05,,Packaging,Delivered,452,37.83,33.67,8,Compliant
+PO-00546,GammaTrade,2022-05-03,2022-05-12,Consumables,Delivered,134,18.47,17.26,6,Compliant
+PO-00547,BetaCorp,2024-02-29,2024-03-28,Electronics,Delivered,90,566.88,545.28,11,Non-Compliant
+PO-00548,AlphaSupplies,2023-10-23,2023-11-07,Electronics,Delivered,284,551.67,527.45,5,Compliant
+PO-00549,GammaTrade,2024-01-21,2024-02-05,Machinery,Delivered,362,2576.92,2454.77,7,Compliant
+PO-00550,EpsilonMfg,2023-07-10,2023-08-20,Electronics,Delivered,107,539.59,489.57,0,Compliant
+PO-00551,EpsilonMfg,2022-06-14,2022-07-07,Consumables,Delivered,89,18.63,17.96,0,Compliant
+PO-00552,EpsilonMfg,2024-01-22,2024-02-21,Machinery,Delivered,19,2577.47,2457.1,0,Compliant
+PO-00553,EpsilonMfg,2022-07-14,2022-07-30,Machinery,Delivered,264,2291.86,2114.93,3,Compliant
+PO-00554,AlphaSupplies,2023-06-20,2023-07-05,Raw Materials,Delivered,32,134.33,122.33,0,Compliant
+PO-00555,BetaCorp,2022-02-02,2022-03-12,Raw Materials,Delivered,438,120.81,110.98,32,Compliant
+PO-00556,GammaTrade,2023-09-13,2023-10-16,Packaging,Partial,16,39.89,36.12,0,Non-Compliant
+PO-00557,AlphaSupplies,2024-03-31,2024-05-03,Machinery,Delivered,194,2615.24,2386.41,6,Compliant
+PO-00558,EpsilonMfg,2023-06-26,2023-07-07,Electronics,Delivered,46,538.0,519.87,0,Compliant
+PO-00559,BetaCorp,2023-01-30,2023-03-14,Consumables,Delivered,279,19.56,18.64,24,Compliant
+PO-00560,DeltaWorks,2024-02-24,2024-04-11,Raw Materials,Partial,193,141.57,129.18,40,Compliant
+PO-00561,BetaCorp,2023-02-16,2023-04-02,Consumables,Delivered,346,19.63,18.15,21,Compliant
+PO-00562,GammaTrade,2023-02-27,2023-03-26,Electronics,Delivered,230,524.67,472.83,11,Compliant
+PO-00563,EpsilonMfg,2023-01-04,2023-01-24,Electronics,Partial,239,518.73,458.3,3,Non-Compliant
+PO-00564,EpsilonMfg,2023-06-15,2023-07-11,Raw Materials,Delivered,465,134.19,128.53,9,Compliant
+PO-00565,GammaTrade,2023-06-08,2023-06-21,Consumables,Delivered,484,20.1,18.49,1,Compliant
+PO-00566,GammaTrade,2022-09-13,2022-10-26,Consumables,Delivered,425,18.99,18.02,13,Non-Compliant
+PO-00567,GammaTrade,2022-06-27,2022-08-09,Machinery,Delivered,470,2283.66,2114.9,30,Compliant
+PO-00568,AlphaSupplies,2023-01-26,2023-03-08,Consumables,Partial,38,19.54,18.82,0,Compliant
+PO-00569,DeltaWorks,2024-06-09,2024-08-06,Raw Materials,Partial,392,144.77,130.39,87,Compliant
+PO-00570,DeltaWorks,2022-11-09,2022-11-25,Raw Materials,Delivered,173,128.16,118.27,13,Non-Compliant
+PO-00571,DeltaWorks,2024-02-10,2024-03-15,Machinery,Delivered,268,2587.81,2371.47,18,Compliant
+PO-00572,AlphaSupplies,2023-08-09,2023-08-21,Machinery,Delivered,290,2488.81,2247.15,4,Compliant
+PO-00573,BetaCorp,2023-07-27,2023-08-15,Machinery,Delivered,212,2482.0,2363.36,16,Non-Compliant
+PO-00574,BetaCorp,2022-09-30,2022-11-12,Raw Materials,Delivered,175,127.08,114.38,2,Compliant
+PO-00575,GammaTrade,2022-11-25,2022-12-21,Packaging,Delivered,345,37.51,35.22,4,Compliant
+PO-00576,DeltaWorks,2022-05-30,,Consumables,Pending,483,18.57,17.28,23,Compliant
+PO-00577,AlphaSupplies,2024-01-28,,Raw Materials,Delivered,495,140.77,135.86,17,Compliant
+PO-00578,AlphaSupplies,2023-04-06,2023-05-17,Electronics,Delivered,179,528.89,490.6,1,Compliant
+PO-00579,EpsilonMfg,2023-09-30,2023-10-08,Machinery,Delivered,82,2516.25,2275.44,0,Compliant
+PO-00580,GammaTrade,2022-03-03,,Packaging,Delivered,414,35.45,33.48,1,Compliant
+PO-00581,DeltaWorks,2023-11-10,2023-11-23,Electronics,Delivered,347,553.77,494.68,1,Non-Compliant
+PO-00582,BetaCorp,2023-06-05,,Machinery,Pending,60,2454.94,2165.5,4,Compliant
+PO-00583,AlphaSupplies,2022-07-23,2022-07-31,Packaging,Delivered,244,36.53,33.79,0,Compliant
+PO-00584,DeltaWorks,2024-02-02,2024-03-15,Machinery,Partial,187,2583.45,2469.52,28,Compliant
+PO-00585,EpsilonMfg,2024-04-11,2024-04-19,Electronics,Delivered,141,571.92,551.56,2,Compliant
+PO-00586,GammaTrade,2023-11-04,2023-11-25,Machinery,Delivered,383,2534.89,2427.41,12,Compliant
+PO-00587,GammaTrade,2022-12-04,2022-12-19,Consumables,Delivered,77,19.33,17.97,3,Compliant
+PO-00588,BetaCorp,2023-12-07,,Electronics,Pending,278,556.93,504.86,16,Non-Compliant
+PO-00589,BetaCorp,2022-06-11,2022-06-25,Consumables,Delivered,295,18.62,17.53,7,Non-Compliant
+PO-00590,AlphaSupplies,2024-06-20,2024-07-14,Electronics,Delivered,220,580.43,512.17,1,Compliant
+PO-00591,AlphaSupplies,2023-09-24,2023-11-08,Consumables,Delivered,300,20.56,19.45,2,Compliant
+PO-00592,DeltaWorks,2023-05-30,,Packaging,Cancelled,250,39.01,34.87,22,Non-Compliant
+PO-00593,DeltaWorks,2022-05-21,2022-05-28,Machinery,Delivered,125,2265.91,2164.62,27,Non-Compliant
+PO-00594,BetaCorp,2022-03-09,,Packaging,Pending,498,35.5,33.87,60,Compliant
+PO-00595,GammaTrade,2024-06-27,2024-08-11,Machinery,Delivered,217,2664.22,2525.15,12,Compliant
+PO-00596,EpsilonMfg,2023-09-01,2023-09-10,Consumables,Delivered,338,20.46,18.86,3,Compliant
+PO-00597,AlphaSupplies,2023-06-16,2023-07-17,Packaging,Delivered,386,39.15,36.08,7,Compliant
+PO-00598,GammaTrade,2023-02-12,2023-03-20,Machinery,Delivered,406,2397.13,2134.4,5,Compliant
+PO-00599,EpsilonMfg,2023-04-20,2023-05-29,Packaging,Delivered,241,38.68,34.63,0,Compliant
+PO-00600,EpsilonMfg,2023-02-07,2023-03-15,Packaging,Delivered,240,38.1,35.54,2,Compliant
+PO-00601,DeltaWorks,2022-09-14,,Raw Materials,Pending,342,126.66,119.16,65,Non-Compliant
+PO-00602,AlphaSupplies,2022-04-27,2022-06-06,Raw Materials,Delivered,334,122.97,111.46,9,Compliant
+PO-00603,EpsilonMfg,2023-01-23,2023-02-20,Packaging,Delivered,32,37.98,34.96,0,Compliant
+PO-00604,BetaCorp,2024-02-27,2024-04-02,Packaging,Delivered,224,41.32,37.43,9,Compliant
+PO-00605,BetaCorp,2023-09-30,2023-11-07,Raw Materials,Delivered,16,137.25,123.68,1,Compliant
+PO-00606,BetaCorp,2023-08-26,2023-09-07,Packaging,Delivered,242,39.74,36.19,20,Compliant
+PO-00607,GammaTrade,2023-10-06,2023-10-24,Consumables,Delivered,432,20.61,18.96,5,Compliant
+PO-00608,AlphaSupplies,2024-05-08,2024-05-31,Consumables,Partial,179,21.57,19.75,0,Non-Compliant
+PO-00609,BetaCorp,2023-09-18,2023-10-30,Electronics,Delivered,368,547.61,498.6,9,Compliant
+PO-00610,AlphaSupplies,2024-02-26,2024-03-08,Raw Materials,Delivered,198,141.63,133.57,6,Compliant
+PO-00611,DeltaWorks,2022-05-05,2022-06-07,Packaging,Delivered,150,35.93,32.61,18,Non-Compliant
+PO-00612,AlphaSupplies,2024-01-18,2024-03-08,Consumables,Partial,280,21.07,18.58,8,Compliant
+PO-00613,GammaTrade,2023-09-16,2023-10-15,Machinery,Delivered,142,2508.83,2242.14,10,Compliant
+PO-00614,DeltaWorks,2024-04-07,,Machinery,Delivered,322,2619.1,2498.1,75,Compliant
+PO-00615,AlphaSupplies,2024-03-29,2024-04-26,Packaging,Delivered,222,41.59,38.04,3,Compliant
+PO-00616,BetaCorp,2022-09-18,2022-10-30,Electronics,Delivered,167,507.05,455.79,7,Compliant
+PO-00617,GammaTrade,2024-01-12,2024-01-31,Machinery,Delivered,24,2572.04,2363.19,0,Compliant
+PO-00618,DeltaWorks,2023-10-24,2023-12-17,Raw Materials,Partial,89,137.95,132.13,19,Compliant
+PO-00619,DeltaWorks,2024-05-05,,Raw Materials,Cancelled,299,143.71,132.66,22,Compliant
+PO-00620,BetaCorp,2023-12-03,,Consumables,Cancelled,479,20.87,19.62,23,Non-Compliant
+PO-00621,GammaTrade,2022-12-14,2022-12-31,Raw Materials,Delivered,330,129.11,113.81,15,Compliant
+PO-00622,GammaTrade,2023-12-28,2024-01-19,Electronics,Delivered,221,559.4,541.05,6,Compliant
+PO-00623,EpsilonMfg,2022-06-29,,Electronics,Delivered,411,498.46,478.47,7,Compliant
+PO-00624,DeltaWorks,2022-06-07,2022-07-17,Consumables,Delivered,482,18.61,17.73,35,Compliant
+PO-00625,AlphaSupplies,2023-11-24,2023-12-30,Consumables,Delivered,115,20.83,18.34,1,Compliant
+PO-00626,GammaTrade,2023-12-05,2024-01-10,Raw Materials,Delivered,456,139.17,124.38,32,Compliant
+PO-00627,GammaTrade,2023-08-15,2023-09-24,Raw Materials,Partial,337,135.93,122.57,5,Compliant
+PO-00628,EpsilonMfg,2024-03-02,2024-03-19,Electronics,Delivered,70,567.12,527.59,0,Compliant
+PO-00629,EpsilonMfg,2022-07-31,2022-08-16,Raw Materials,Delivered,291,125.46,115.57,5,Compliant
+PO-00630,BetaCorp,2022-11-15,2022-11-25,Raw Materials,Delivered,183,128.32,117.39,3,Compliant
+PO-00631,AlphaSupplies,2022-02-25,2022-04-11,Machinery,Delivered,210,2225.66,2141.53,7,Compliant
+PO-00632,DeltaWorks,2022-12-31,2023-02-10,Consumables,Delivered,428,19.44,18.31,8,Non-Compliant
+PO-00633,EpsilonMfg,2022-04-06,2022-04-19,Packaging,Delivered,480,35.71,32.02,4,Compliant
+PO-00634,DeltaWorks,2022-08-26,,Machinery,Pending,83,2312.73,2046.07,12,Non-Compliant
+PO-00635,DeltaWorks,2023-12-18,,Packaging,Pending,179,40.7,36.12,37,Compliant
+PO-00636,AlphaSupplies,2023-05-02,2023-05-19,Raw Materials,Delivered,255,132.95,127.61,2,Compliant
+PO-00637,EpsilonMfg,2023-02-20,2023-04-03,Raw Materials,Delivered,417,130.97,117.4,5,Compliant
+PO-00638,DeltaWorks,2023-02-28,2023-04-06,Consumables,Delivered,134,19.68,18.67,12,Compliant
+PO-00639,EpsilonMfg,2024-03-14,2024-04-24,Machinery,Delivered,300,2605.88,2297.86,4,Compliant
+PO-00640,EpsilonMfg,2022-04-28,2022-05-11,Machinery,Delivered,247,2254.95,2067.11,4,Compliant
+PO-00641,AlphaSupplies,2022-04-22,2022-05-23,Consumables,Delivered,315,18.43,16.74,4,Compliant
+PO-00642,BetaCorp,2024-06-27,2024-07-04,Packaging,Delivered,396,42.39,38.9,41,Compliant
+PO-00643,GammaTrade,2023-09-23,2023-10-20,Machinery,Delivered,110,2512.54,2306.51,2,Compliant
+PO-00644,DeltaWorks,2022-04-02,,Electronics,Pending,323,489.3,448.98,31,Compliant
+PO-00645,GammaTrade,2023-01-14,2023-02-25,Raw Materials,Delivered,37,129.96,115.52,2,Compliant
+PO-00646,AlphaSupplies,2023-03-19,2023-04-19,Packaging,Delivered,211,38.42,34.84,3,Compliant
+PO-00647,BetaCorp,2022-05-23,2022-07-05,Machinery,Partial,206,2266.87,2160.55,24,Compliant
+PO-00648,BetaCorp,2022-01-12,2022-02-19,Packaging,Delivered,18,35.08,33.8,1,Non-Compliant
+PO-00649,BetaCorp,2024-05-30,2024-07-03,Machinery,Delivered,413,2648.54,2460.49,36,Compliant
+PO-00650,DeltaWorks,2022-12-30,2023-02-24,Machinery,Partial,227,2375.0,2255.54,27,Non-Compliant
+PO-00651,EpsilonMfg,2023-02-25,2023-03-06,Electronics,Delivered,305,524.45,464.98,3,Compliant
+PO-00652,DeltaWorks,2022-05-26,,Raw Materials,Pending,279,123.73,111.89,65,Non-Compliant
+PO-00653,DeltaWorks,2022-03-22,2022-04-28,Consumables,Delivered,322,18.31,16.9,48,Non-Compliant
+PO-00654,EpsilonMfg,2022-11-16,2022-11-23,Consumables,Delivered,472,19.25,17.61,4,Compliant
+PO-00655,GammaTrade,2022-12-28,2023-01-14,Machinery,Delivered,418,2374.0,2097.43,1,Non-Compliant
+PO-00656,EpsilonMfg,2022-03-04,2022-03-14,Electronics,Delivered,306,486.32,444.2,4,Compliant
+PO-00657,AlphaSupplies,2023-05-12,2023-06-05,Electronics,Delivered,268,532.92,512.99,2,Compliant
+PO-00658,GammaTrade,2024-01-30,2024-02-28,Raw Materials,Partial,99,140.83,135.2,5,Compliant
+PO-00659,BetaCorp,2024-03-12,2024-04-21,Electronics,Delivered,258,568.32,515.41,31,Compliant
+PO-00660,BetaCorp,2024-04-21,2024-06-06,Consumables,Partial,263,21.49,20.55,28,Compliant
+PO-00661,DeltaWorks,2022-08-04,2022-08-27,Packaging,Delivered,441,36.62,33.62,79,Compliant
+PO-00662,DeltaWorks,2022-11-05,,Machinery,Pending,495,2347.61,2176.47,63,Compliant
+PO-00663,DeltaWorks,2022-09-26,2022-10-21,Machinery,Delivered,455,2327.9,2227.57,101,Compliant
+PO-00664,EpsilonMfg,2022-04-10,2022-05-14,Raw Materials,Delivered,336,122.53,108.73,4,Compliant
+PO-00665,GammaTrade,2024-04-01,2024-05-07,Electronics,Delivered,345,570.72,548.58,21,Compliant
+PO-00666,EpsilonMfg,2023-06-17,2023-07-27,Packaging,Partial,363,39.15,36.79,3,Compliant
+PO-00667,AlphaSupplies,2023-02-26,2023-03-27,Raw Materials,Delivered,63,131.14,126.05,0,Compliant
+PO-00668,AlphaSupplies,2022-04-05,2022-04-25,Consumables,Delivered,314,18.36,17.72,11,Compliant
+PO-00669,AlphaSupplies,2024-05-26,2024-07-08,Raw Materials,Delivered,202,144.34,132.16,6,Compliant
+PO-00670,BetaCorp,2022-10-29,2022-12-04,Electronics,Delivered,489,511.45,474.63,63,Compliant
+PO-00671,GammaTrade,2022-06-15,2022-07-16,Electronics,Delivered,151,496.99,447.14,4,Non-Compliant
+PO-00672,GammaTrade,2023-03-28,2023-04-29,Packaging,Delivered,485,38.49,37.1,6,Compliant
+PO-00673,DeltaWorks,2023-09-21,2023-10-14,Packaging,Delivered,477,39.96,36.45,11,Compliant
+PO-00674,GammaTrade,2022-01-20,2022-01-27,Machinery,Delivered,86,2208.83,1964.31,6,Compliant
+PO-00675,GammaTrade,2023-08-12,2023-10-02,Machinery,Partial,372,2490.39,2414.93,14,Compliant
+PO-00676,AlphaSupplies,2022-08-20,2022-09-26,Consumables,Delivered,498,18.9,18.33,2,Compliant
+PO-00677,GammaTrade,2023-02-15,2023-03-17,Electronics,Delivered,500,523.34,505.02,21,Non-Compliant
+PO-00678,DeltaWorks,2023-10-26,2023-11-26,Electronics,Delivered,293,552.02,525.36,46,Compliant
+PO-00679,AlphaSupplies,2023-05-14,2023-06-02,Electronics,Delivered,333,533.14,513.09,1,Compliant
+PO-00680,EpsilonMfg,2023-05-16,2023-06-11,Packaging,Delivered,415,38.89,36.36,4,Compliant
+PO-00681,AlphaSupplies,2022-12-14,2023-01-15,Raw Materials,Delivered,413,129.11,124.59,1,Compliant
+PO-00682,DeltaWorks,2022-06-02,,Consumables,Pending,129,18.59,16.79,1,Compliant
+PO-00683,AlphaSupplies,2023-09-26,2023-10-03,Machinery,Delivered,369,2514.13,2428.4,2,Compliant
+PO-00684,AlphaSupplies,2023-09-18,2023-10-01,Machinery,Delivered,312,2509.89,2395.94,1,Compliant
+PO-00685,AlphaSupplies,2023-03-13,2023-04-27,Packaging,Partial,437,38.37,36.05,5,Non-Compliant
+PO-00686,EpsilonMfg,2022-05-21,2022-05-30,Consumables,Delivered,416,18.54,17.45,4,Compliant
+PO-00687,BetaCorp,2022-06-22,2022-07-14,Machinery,Delivered,293,2281.25,2069.78,37,Compliant
+PO-00688,EpsilonMfg,2024-03-07,2024-03-14,Machinery,Delivered,460,2602.04,2487.03,0,Compliant
+PO-00689,EpsilonMfg,2023-03-03,2023-03-18,Electronics,Delivered,415,525.11,476.59,1,Compliant
+PO-00690,DeltaWorks,2022-06-28,2022-08-05,Packaging,Delivered,29,36.34,33.25,4,Compliant
+PO-00691,GammaTrade,2023-03-05,2023-04-14,Electronics,Delivered,130,525.33,509.36,10,Compliant
+PO-00692,EpsilonMfg,2022-08-13,2022-09-06,Consumables,Delivered,330,18.87,17.52,0,Compliant
+PO-00693,DeltaWorks,2022-06-30,2022-07-30,Machinery,Delivered,482,2285.1,2183.64,32,Compliant
+PO-00694,DeltaWorks,2022-04-17,2022-05-04,Raw Materials,Delivered,483,122.71,110.86,91,Compliant
+PO-00695,BetaCorp,2023-08-30,2023-09-26,Machinery,Delivered,224,2499.86,2294.37,7,Compliant
+PO-00696,BetaCorp,2024-06-09,2024-07-16,Machinery,Delivered,466,2654.13,2526.73,38,Compliant
+PO-00697,BetaCorp,2023-04-11,2023-04-30,Consumables,Delivered,201,19.85,18.94,17,Non-Compliant
+PO-00698,BetaCorp,2023-12-10,2024-01-15,Raw Materials,Delivered,153,139.32,128.01,9,Compliant
+PO-00699,GammaTrade,2022-06-10,,Consumables,Cancelled,336,18.62,16.74,24,Compliant
+PO-00700,EpsilonMfg,2022-03-30,2022-04-19,Packaging,Delivered,277,35.66,33.27,3,Compliant
+PO-00701,DeltaWorks,2022-09-11,2022-10-25,Packaging,Delivered,306,36.92,34.72,69,Non-Compliant
+PO-00702,DeltaWorks,2022-02-11,,Raw Materials,Pending,385,121.04,106.61,3,Compliant
+PO-00703,DeltaWorks,2023-04-09,2023-04-16,Raw Materials,Delivered,52,132.31,122.44,8,Compliant
+PO-00704,GammaTrade,2022-09-02,2022-09-28,Electronics,Delivered,56,505.34,460.72,0,Compliant
+PO-00705,EpsilonMfg,2023-04-11,2023-05-13,Raw Materials,Delivered,80,132.36,122.87,0,Compliant
+PO-00706,AlphaSupplies,2023-01-30,2023-02-24,Raw Materials,Delivered,180,130.39,115.99,3,Compliant
+PO-00707,EpsilonMfg,2024-03-24,2024-04-21,Consumables,Delivered,360,21.37,20.33,5,Compliant
+PO-00708,GammaTrade,2022-04-24,2022-05-24,Raw Materials,Delivered,248,122.89,114.96,7,Compliant
+PO-00709,EpsilonMfg,2022-05-22,2022-06-28,Packaging,Delivered,132,36.06,31.79,1,Compliant
+PO-00710,BetaCorp,2022-11-25,2022-12-29,Packaging,Delivered,146,37.51,35.2,5,Compliant
+PO-00711,DeltaWorks,2023-06-24,,Consumables,Cancelled,250,20.17,18.06,40,Compliant
+PO-00712,GammaTrade,2023-09-28,2023-10-22,Machinery,Partial,354,2515.19,2356.48,5,Non-Compliant
+PO-00713,AlphaSupplies,2023-02-05,2023-03-01,Raw Materials,Partial,157,130.56,116.09,0,Compliant
+PO-00714,BetaCorp,2022-06-04,,Machinery,Pending,276,2272.61,2025.58,0,Compliant
+PO-00715,EpsilonMfg,2023-05-01,2023-05-09,Packaging,Delivered,237,38.77,36.4,1,Compliant
+PO-00716,BetaCorp,2023-10-23,2023-11-19,Consumables,Delivered,306,20.69,19.44,20,Compliant
+PO-00717,EpsilonMfg,2023-04-14,2023-05-10,Machinery,Delivered,77,2428.17,2288.79,0,Compliant
+PO-00718,GammaTrade,2022-06-01,,Raw Materials,Cancelled,243,123.88,116.22,12,Compliant
+PO-00719,EpsilonMfg,2022-07-06,2022-07-22,Electronics,Delivered,439,499.2,440.49,1,Compliant
+PO-00720,EpsilonMfg,2023-03-28,2023-04-06,Packaging,Delivered,104,38.49,36.43,1,Compliant
+PO-00721,DeltaWorks,2022-06-16,,Consumables,Pending,72,18.64,17.19,6,Compliant
+PO-00722,BetaCorp,2022-11-24,2023-01-02,Machinery,Delivered,388,2357.04,2253.33,17,Compliant
+PO-00723,GammaTrade,2023-11-14,2023-12-19,Consumables,Delivered,299,20.78,19.88,8,Compliant
+PO-00724,AlphaSupplies,2023-11-26,2023-12-17,Packaging,Delivered,167,40.52,37.29,2,Compliant
+PO-00725,BetaCorp,2023-06-24,2023-07-26,Consumables,Partial,489,20.17,19.16,1,Compliant
+PO-00726,DeltaWorks,2023-06-09,2023-07-24,Raw Materials,Delivered,261,134.02,125.24,32,Compliant
+PO-00727,DeltaWorks,2024-01-04,2024-01-11,Packaging,Delivered,199,40.85,36.49,13,Compliant
+PO-00728,EpsilonMfg,2022-08-09,2022-09-11,Raw Materials,Delivered,237,125.7,113.7,3,Compliant
+PO-00729,DeltaWorks,2022-05-23,2022-06-12,Machinery,Delivered,316,2266.87,2028.4,22,Non-Compliant
+PO-00730,GammaTrade,2023-08-28,2023-09-21,Raw Materials,Delivered,55,136.3,122.93,1,Compliant
+PO-00731,BetaCorp,2022-07-10,2022-07-19,Packaging,Delivered,158,36.43,32.61,18,Compliant
+PO-00732,DeltaWorks,2024-01-28,,Consumables,Pending,23,21.12,19.61,0,Compliant
+PO-00733,DeltaWorks,2023-11-01,,Raw Materials,Delivered,157,138.18,125.76,34,Compliant
+PO-00734,GammaTrade,2022-03-10,2022-04-22,Machinery,Delivered,195,2231.77,2044.52,6,Compliant
+PO-00735,AlphaSupplies,2023-06-09,2023-06-26,Electronics,Delivered,18,536.07,484.61,0,Compliant
+PO-00736,BetaCorp,2022-06-17,2022-07-16,Electronics,Delivered,194,497.2,479.9,1,Compliant
+PO-00737,AlphaSupplies,2022-07-18,2022-09-01,Consumables,Delivered,103,18.77,16.91,3,Compliant
+PO-00738,GammaTrade,2023-12-03,2024-01-16,Electronics,Delivered,195,556.46,504.82,5,Compliant
+PO-00739,GammaTrade,2024-03-08,2024-04-07,Electronics,Partial,184,567.84,526.05,1,Compliant
+PO-00740,BetaCorp,2024-03-25,2024-05-04,Packaging,Delivered,324,41.55,36.95,38,Compliant
+PO-00741,AlphaSupplies,2023-04-17,2023-04-25,Machinery,Delivered,69,2429.7,2156.6,1,Compliant
+PO-00742,DeltaWorks,2023-06-20,2023-07-16,Consumables,Delivered,185,20.15,18.16,1,Non-Compliant
+PO-00743,BetaCorp,2022-11-11,,Packaging,Pending,76,37.4,35.86,4,Compliant
+PO-00744,AlphaSupplies,2022-01-20,2022-02-08,Raw Materials,Delivered,397,120.48,108.47,1,Compliant
+PO-00745,AlphaSupplies,2022-05-02,2022-05-09,Machinery,Delivered,32,2256.85,2004.53,0,Compliant
+PO-00746,BetaCorp,2022-07-24,2022-08-09,Consumables,Delivered,189,18.79,17.91,22,Non-Compliant
+PO-00747,GammaTrade,2022-06-14,2022-07-06,Electronics,Delivered,409,496.89,443.72,16,Compliant
+PO-00748,AlphaSupplies,2022-08-11,2022-09-21,Consumables,Delivered,154,18.86,17.08,0,Compliant
+PO-00749,EpsilonMfg,2023-01-11,2023-01-24,Machinery,Delivered,104,2381.02,2160.06,0,Compliant
+PO-00750,BetaCorp,2022-08-22,,Consumables,Pending,399,18.91,17.65,6,Compliant
+PO-00751,BetaCorp,2024-02-20,2024-02-29,Machinery,Delivered,157,2593.28,2431.2,1,Compliant
+PO-00752,DeltaWorks,2024-01-24,2024-03-06,Consumables,Delivered,440,21.1,19.87,43,Non-Compliant
+PO-00753,AlphaSupplies,2023-11-27,2024-01-17,Machinery,Partial,16,2547.21,2386.48,0,Compliant
+PO-00754,EpsilonMfg,2022-05-03,2022-05-16,Raw Materials,Delivered,215,123.13,117.85,3,Compliant
+PO-00755,GammaTrade,2022-12-13,,Packaging,Cancelled,442,37.65,35.84,4,Compliant
+PO-00756,DeltaWorks,2024-02-23,2024-03-26,Electronics,Delivered,307,566.16,512.83,26,Non-Compliant
+PO-00757,DeltaWorks,2022-10-13,2022-11-05,Consumables,Delivered,242,19.11,18.28,28,Compliant
+PO-00758,AlphaSupplies,2024-01-26,2024-02-03,Raw Materials,Delivered,44,140.71,135.81,1,Compliant
+PO-00759,BetaCorp,2023-09-29,2023-11-08,Electronics,Delivered,399,548.88,501.62,42,Compliant
+PO-00760,DeltaWorks,2023-06-01,,Machinery,Pending,185,2452.87,2321.64,23,Compliant
+PO-00761,AlphaSupplies,2024-06-20,2024-07-21,Machinery,Delivered,206,2660.29,2361.54,3,Compliant
+PO-00762,GammaTrade,2023-05-19,2023-06-26,Packaging,Delivered,169,38.92,36.24,10,Compliant
+PO-00763,EpsilonMfg,2023-08-09,2023-09-17,Consumables,Delivered,297,20.36,18.89,0,Compliant
+PO-00764,DeltaWorks,2023-11-24,2023-12-02,Consumables,Delivered,155,20.83,19.54,21,Compliant
+PO-00765,EpsilonMfg,2024-02-23,2024-03-28,Raw Materials,Delivered,184,141.54,125.94,1,Compliant
+PO-00766,BetaCorp,2022-08-29,2022-09-09,Packaging,Delivered,313,36.82,33.57,38,Compliant
+PO-00767,EpsilonMfg,2022-02-08,2022-03-19,Electronics,Delivered,452,483.86,449.26,8,Compliant
+PO-00768,EpsilonMfg,2022-11-21,2022-12-04,Raw Materials,Delivered,209,128.48,120.26,3,Compliant
+PO-00769,GammaTrade,2023-05-30,2023-06-25,Machinery,Delivered,351,2451.83,2199.29,10,Compliant
+PO-00770,AlphaSupplies,2022-08-08,2022-09-20,Consumables,Delivered,34,18.85,17.8,0,Compliant
+PO-00771,AlphaSupplies,2022-04-08,2022-05-18,Consumables,Delivered,149,18.37,16.84,2,Compliant
+PO-00772,GammaTrade,2024-04-03,2024-04-22,Consumables,Delivered,349,21.41,20.19,11,Compliant
+PO-00773,EpsilonMfg,2024-06-21,2024-07-09,Packaging,Delivered,370,42.33,40.99,4,Compliant
+PO-00774,DeltaWorks,2023-10-16,,Electronics,Pending,324,550.86,507.95,70,Non-Compliant
+PO-00775,AlphaSupplies,2022-07-25,2022-08-20,Consumables,Delivered,85,18.8,17.62,2,Compliant
+PO-00776,AlphaSupplies,2024-05-16,2024-06-02,Packaging,Delivered,431,42.01,39.19,4,Compliant
+PO-00777,AlphaSupplies,2022-07-16,2022-08-21,Packaging,Delivered,418,36.48,35.29,8,Non-Compliant
+PO-00778,AlphaSupplies,2022-06-13,2022-07-07,Packaging,Delivered,24,36.22,34.25,0,Compliant
+PO-00779,DeltaWorks,2022-02-26,2022-03-24,Raw Materials,Delivered,52,121.43,108.39,10,Non-Compliant
+PO-00780,GammaTrade,2023-02-11,2023-03-05,Raw Materials,Delivered,380,130.73,115.71,3,Compliant
+PO-00781,EpsilonMfg,2024-03-04,2024-03-16,Consumables,Delivered,138,21.28,18.86,0,Compliant
+PO-00782,GammaTrade,2024-01-25,2024-02-28,Consumables,Delivered,393,21.1,19.73,6,Compliant
+PO-00783,GammaTrade,2023-02-23,2023-04-05,Machinery,Delivered,311,2402.7,2275.6,9,Non-Compliant
+PO-00784,DeltaWorks,2023-12-01,,Machinery,Pending,152,2549.36,2416.28,34,Compliant
+PO-00785,GammaTrade,2022-01-22,2022-02-01,Electronics,Delivered,473,482.13,439.65,26,Compliant
+PO-00786,EpsilonMfg,2022-11-13,2022-11-27,Machinery,Delivered,368,2351.58,2145.82,3,Compliant
+PO-00787,AlphaSupplies,2022-09-19,2022-10-11,Machinery,Delivered,489,2324.46,2191.73,5,Compliant
+PO-00788,DeltaWorks,2024-06-19,2024-06-28,Electronics,Delivered,339,580.3,520.47,22,Compliant
+PO-00789,DeltaWorks,2024-01-25,2024-02-28,Machinery,Delivered,440,2579.1,2405.78,92,Non-Compliant
+PO-00790,GammaTrade,2022-03-09,,Consumables,Delivered,318,18.26,17.13,18,Compliant
+PO-00791,AlphaSupplies,2023-10-08,2023-11-09,Packaging,Delivered,338,40.1,37.3,2,Compliant
+PO-00792,AlphaSupplies,2022-09-13,2022-09-28,Packaging,Delivered,403,36.93,34.1,13,Compliant
+PO-00793,GammaTrade,2023-05-05,2023-06-18,Machinery,Delivered,78,2438.94,2174.07,5,Compliant
+PO-00794,DeltaWorks,2022-07-06,,Electronics,Pending,203,499.2,466.55,43,Compliant
+PO-00795,AlphaSupplies,2023-10-25,2023-12-13,Consumables,Partial,127,20.7,18.94,1,Compliant
+PO-00796,BetaCorp,2023-02-15,2023-02-27,Raw Materials,Delivered,317,130.84,119.64,42,Compliant
+PO-00797,AlphaSupplies,2023-03-22,2023-04-29,Consumables,Delivered,485,19.77,17.8,2,Compliant
+PO-00798,GammaTrade,2024-02-04,2024-02-24,Electronics,Delivered,76,563.9,521.89,3,Non-Compliant
+PO-00799,BetaCorp,2022-07-04,2022-07-27,Machinery,Delivered,84,2287.03,2134.26,2,Compliant
+PO-00800,EpsilonMfg,2022-03-29,2022-04-30,Machinery,Delivered,78,2240.73,2171.49,1,Compliant
+PO-00801,EpsilonMfg,2022-03-16,2022-04-07,Electronics,Delivered,40,487.55,468.73,0,Compliant
+PO-00802,EpsilonMfg,2022-01-06,2022-02-07,Raw Materials,Delivered,327,120.13,113.79,4,Compliant
+PO-00803,AlphaSupplies,2022-07-03,2022-07-31,Consumables,Delivered,267,18.71,17.71,9,Compliant
+PO-00804,EpsilonMfg,2022-05-26,2022-06-10,Machinery,Delivered,170,2268.3,2147.17,1,Compliant
+PO-00805,GammaTrade,2022-10-17,2022-11-09,Machinery,Delivered,144,2338.23,2077.99,5,Compliant
+PO-00806,DeltaWorks,2023-07-24,2023-09-10,Packaging,Partial,346,39.46,35.25,4,Compliant
+PO-00807,BetaCorp,2022-02-06,2022-03-12,Packaging,Delivered,93,35.27,32.72,1,Non-Compliant
+PO-00808,DeltaWorks,2023-12-28,2024-01-13,Electronics,Delivered,244,559.4,514.37,7,Compliant
+PO-00809,BetaCorp,2024-02-07,,Packaging,Delivered,149,41.14,38.02,4,Non-Compliant
+PO-00810,EpsilonMfg,2023-03-03,2023-03-16,Packaging,Delivered,136,38.29,33.97,2,Compliant
+PO-00811,AlphaSupplies,2023-01-18,2023-02-14,Machinery,Delivered,497,2384.53,2186.38,3,Compliant
+PO-00812,DeltaWorks,2023-10-06,2023-11-16,Machinery,Partial,314,2519.44,2227.18,73,Non-Compliant
+PO-00813,DeltaWorks,2024-01-20,,Electronics,Pending,474,562.12,494.67,64,Compliant
+PO-00814,AlphaSupplies,2022-11-27,2023-01-11,Electronics,Delivered,390,514.59,462.2,5,Compliant
+PO-00815,DeltaWorks,2022-01-22,2022-02-23,Raw Materials,Delivered,93,120.53,107.67,6,Non-Compliant
+PO-00816,AlphaSupplies,2023-05-18,2023-06-13,Electronics,Delivered,386,533.59,479.11,13,Compliant
+PO-00817,AlphaSupplies,2023-06-09,2023-07-16,Electronics,Delivered,238,536.07,510.34,2,Compliant
+PO-00818,DeltaWorks,2023-09-21,2023-09-30,Electronics,Delivered,332,547.96,522.32,40,Non-Compliant
+PO-00819,BetaCorp,2023-06-24,2023-07-30,Machinery,Delivered,278,2464.79,2251.09,17,Non-Compliant
+PO-00820,BetaCorp,2023-12-02,2024-01-05,Packaging,Delivered,440,40.57,36.05,18,Compliant
+PO-00821,AlphaSupplies,2022-04-21,2022-06-03,Consumables,Delivered,221,18.42,17.02,7,Compliant
+PO-00822,EpsilonMfg,2022-04-27,2022-05-15,Raw Materials,Delivered,246,122.97,111.09,4,Compliant
+PO-00823,GammaTrade,2023-08-25,2023-09-17,Electronics,Delivered,397,544.85,492.98,10,Non-Compliant
+PO-00824,BetaCorp,2022-03-22,2022-04-04,Packaging,Delivered,319,35.6,32.14,19,Compliant
+PO-00825,AlphaSupplies,2023-11-03,2023-12-18,Packaging,Delivered,364,40.32,37.38,10,Compliant
+PO-00826,EpsilonMfg,2023-12-09,2024-01-04,Electronics,Delivered,363,557.16,506.68,0,Compliant
+PO-00827,AlphaSupplies,2024-05-29,2024-06-20,Packaging,Delivered,256,42.13,40.76,4,Compliant
+PO-00828,BetaCorp,2022-11-05,2022-11-13,Raw Materials,Delivered,85,128.05,115.33,1,Non-Compliant
+PO-00829,DeltaWorks,2023-04-28,2023-05-17,Machinery,Delivered,240,2435.34,2357.9,16,Non-Compliant
+PO-00830,GammaTrade,2022-04-16,2022-05-19,Raw Materials,Delivered,375,122.69,112.05,25,Compliant
+PO-00831,EpsilonMfg,2022-02-07,,Electronics,Delivered,258,483.76,448.01,1,Compliant
+PO-00832,EpsilonMfg,2023-07-21,2023-08-27,Electronics,Delivered,467,540.84,521.53,1,Compliant
+PO-00833,DeltaWorks,2022-01-22,2022-02-20,Machinery,Delivered,381,2209.76,2111.43,40,Compliant
+PO-00834,GammaTrade,2024-05-23,2024-06-17,Consumables,Delivered,346,21.64,19.35,20,Compliant
+PO-00835,GammaTrade,2024-03-29,2024-04-23,Machinery,Delivered,92,2614.14,2307.24,5,Compliant
+PO-00836,BetaCorp,2022-06-10,2022-07-31,Packaging,Partial,61,36.2,33.14,2,Compliant
+PO-00837,AlphaSupplies,2023-01-03,2023-01-21,Raw Materials,Delivered,192,129.65,115.48,6,Compliant
+PO-00838,AlphaSupplies,2023-03-17,2023-04-07,Electronics,Delivered,126,526.66,505.44,2,Non-Compliant
+PO-00839,AlphaSupplies,2022-10-01,2022-11-09,Consumables,Delivered,446,19.07,16.96,10,Compliant
+PO-00840,DeltaWorks,2024-05-11,,Machinery,Pending,64,2637.95,2379.43,9,Non-Compliant
+PO-00841,AlphaSupplies,2022-02-12,2022-03-04,Consumables,Delivered,95,18.16,16.79,3,Compliant
+PO-00842,DeltaWorks,2023-05-26,2023-06-25,Consumables,Delivered,60,20.04,18.12,4,Compliant
+PO-00843,DeltaWorks,2024-02-27,,Machinery,Pending,135,2597.11,2339.48,15,Compliant
+PO-00844,BetaCorp,2022-09-30,2022-10-22,Raw Materials,Delivered,396,127.08,119.01,8,Compliant
+PO-00845,BetaCorp,2024-04-01,2024-05-07,Packaging,Delivered,480,41.61,38.76,63,Compliant
+PO-00846,AlphaSupplies,2022-05-30,2022-06-10,Machinery,Delivered,377,2270.21,2044.78,1,Compliant
+PO-00847,BetaCorp,2022-03-04,2022-03-20,Machinery,Delivered,28,2228.95,2083.18,3,Compliant
+PO-00848,EpsilonMfg,2023-03-06,2023-04-01,Electronics,Delivered,358,525.44,490.66,5,Compliant
+PO-00849,GammaTrade,2023-09-18,2023-10-08,Consumables,Delivered,368,20.54,18.22,26,Compliant
+PO-00850,DeltaWorks,2024-06-27,2024-07-16,Electronics,Delivered,342,581.28,521.35,72,Compliant
+PO-00851,DeltaWorks,2023-06-17,2023-07-26,Packaging,Delivered,155,39.15,34.48,20,Compliant
+PO-00852,BetaCorp,2022-01-29,2022-02-20,Raw Materials,Delivered,286,120.71,107.42,33,Compliant
+PO-00853,EpsilonMfg,2024-01-20,2024-02-28,Raw Materials,Delivered,200,140.53,135.56,1,Compliant
+PO-00854,AlphaSupplies,2022-11-02,2022-11-24,Machinery,Delivered,12,2346.13,2154.92,0,Non-Compliant
+PO-00855,EpsilonMfg,2022-08-28,2022-10-10,Consumables,Delivered,155,18.93,17.77,2,Compliant
+PO-00856,BetaCorp,2022-12-02,2023-01-14,Raw Materials,Partial,108,128.78,118.93,6,Compliant
+PO-00857,DeltaWorks,2022-03-25,,Machinery,Pending,227,2238.84,2153.09,25,Compliant
+PO-00858,GammaTrade,2023-02-17,2023-03-12,Consumables,Delivered,275,19.63,18.0,12,Compliant
+PO-00859,DeltaWorks,2024-04-23,2024-05-29,Machinery,Delivered,268,2627.95,2510.48,8,Non-Compliant
+PO-00860,AlphaSupplies,2023-04-12,2023-05-24,Packaging,Delivered,392,38.61,35.81,5,Non-Compliant
+PO-00861,DeltaWorks,2022-05-04,2022-05-20,Raw Materials,Delivered,158,123.15,115.35,4,Compliant
+PO-00862,GammaTrade,2022-01-29,2022-03-03,Machinery,Delivered,82,2213.03,1989.07,0,Non-Compliant
+PO-00863,BetaCorp,2024-04-18,2024-05-17,Packaging,Delivered,11,41.76,37.73,0,Compliant
+PO-00864,GammaTrade,2023-04-09,2023-05-24,Consumables,Delivered,410,19.85,17.65,4,Compliant
+PO-00865,DeltaWorks,2022-06-02,2022-07-05,Machinery,Delivered,176,2271.65,2026.31,16,Non-Compliant
+PO-00866,AlphaSupplies,2024-01-24,2024-02-01,Machinery,Delivered,55,2578.55,2436.73,1,Compliant
+PO-00867,EpsilonMfg,2023-10-22,2023-12-15,Raw Materials,Partial,108,137.89,126.82,1,Compliant
+PO-00868,EpsilonMfg,2022-07-13,2022-07-27,Consumables,Delivered,267,18.75,16.92,3,Compliant
+PO-00869,GammaTrade,2022-09-09,2022-10-27,Packaging,Partial,439,36.9,33.04,2,Compliant
+PO-00870,GammaTrade,2023-08-27,2023-10-07,Machinery,Partial,451,2498.28,2413.34,15,Compliant
+PO-00871,EpsilonMfg,2023-01-27,2023-03-22,Electronics,Partial,68,521.25,493.57,0,Compliant
+PO-00872,GammaTrade,2022-06-07,,Raw Materials,Delivered,218,124.04,116.9,10,Compliant
+PO-00873,AlphaSupplies,2023-02-04,2023-03-03,Electronics,Delivered,82,522.13,501.82,0,Compliant
+PO-00874,AlphaSupplies,2022-09-03,2022-10-12,Packaging,Delivered,310,36.86,33.26,9,Compliant
+PO-00875,AlphaSupplies,2023-04-21,,Electronics,Delivered,43,530.56,488.22,1,Compliant
+PO-00876,EpsilonMfg,2023-11-23,2023-12-08,Consumables,Delivered,400,20.82,20.01,2,Compliant
+PO-00877,EpsilonMfg,2024-03-12,2024-03-29,Packaging,Delivered,201,41.44,36.59,3,Compliant
+PO-00878,EpsilonMfg,2022-02-12,2022-04-12,Machinery,Partial,247,2219.57,2152.76,1,Compliant
+PO-00879,AlphaSupplies,2023-05-09,2023-06-09,Raw Materials,Delivered,138,133.15,125.88,5,Compliant
+PO-00880,EpsilonMfg,2022-02-16,2022-03-14,Electronics,Delivered,283,484.68,463.11,0,Compliant
+PO-00881,EpsilonMfg,2024-06-18,2024-07-15,Electronics,Delivered,322,580.18,540.21,5,Compliant
+PO-00882,DeltaWorks,2022-09-09,2022-10-15,Electronics,Delivered,174,506.09,460.74,40,Compliant
+PO-00883,BetaCorp,2023-09-16,2023-10-04,Raw Materials,Delivered,471,136.85,126.87,27,Non-Compliant
+PO-00884,DeltaWorks,2022-03-25,2022-05-18,Consumables,Partial,342,18.32,16.47,2,Non-Compliant
+PO-00885,DeltaWorks,2022-12-28,,Raw Materials,Pending,202,129.49,114.27,17,Compliant
+PO-00886,AlphaSupplies,2023-04-19,2023-05-10,Raw Materials,Delivered,108,132.59,124.2,3,Compliant
+PO-00887,GammaTrade,2022-04-03,2022-04-24,Packaging,Delivered,330,35.69,32.0,6,Compliant
+PO-00888,GammaTrade,2023-12-22,2024-01-23,Machinery,Delivered,117,2560.68,2321.0,1,Compliant
+PO-00889,BetaCorp,2022-07-18,2022-09-01,Consumables,Delivered,299,18.77,17.09,23,Compliant
+PO-00890,AlphaSupplies,2022-09-23,2022-11-02,Packaging,Delivered,448,37.01,32.79,13,Compliant
+PO-00891,AlphaSupplies,2023-09-22,2023-09-29,Consumables,Delivered,296,20.55,19.46,11,Compliant
+PO-00892,AlphaSupplies,2023-03-19,2023-04-28,Electronics,Delivered,218,526.89,471.04,4,Compliant
+PO-00893,BetaCorp,2022-10-12,2022-10-19,Raw Materials,Delivered,282,127.41,113.05,15,Compliant
+PO-00894,AlphaSupplies,2023-12-08,2024-01-09,Packaging,Partial,48,40.62,37.85,0,Compliant
+PO-00895,AlphaSupplies,2023-05-07,2023-06-04,Raw Materials,Delivered,22,133.09,123.92,0,Compliant
+PO-00896,GammaTrade,2024-04-21,2024-05-02,Raw Materials,Delivered,416,143.28,134.68,25,Compliant
+PO-00897,DeltaWorks,2022-05-08,,Consumables,Pending,41,18.49,17.79,3,Non-Compliant
+PO-00898,AlphaSupplies,2022-03-05,2022-04-08,Packaging,Delivered,236,35.47,31.47,0,Compliant
+PO-00899,GammaTrade,2023-02-16,2023-04-02,Machinery,Delivered,395,2399.16,2306.55,24,Compliant
+PO-00900,DeltaWorks,2024-06-20,2024-06-28,Machinery,Delivered,61,2660.29,2432.04,6,Compliant
+PO-00901,AlphaSupplies,2023-09-02,2023-09-21,Raw Materials,Delivered,313,136.44,123.59,11,Compliant
+PO-00902,GammaTrade,2023-05-08,2023-05-23,Machinery,Delivered,237,2440.48,2208.15,15,Compliant
+PO-00903,DeltaWorks,2023-10-30,2023-12-10,Consumables,Delivered,169,20.72,18.69,31,Compliant
+PO-00904,GammaTrade,2023-01-13,2023-01-29,Electronics,Delivered,275,519.71,458.75,1,Compliant
+PO-00905,AlphaSupplies,2022-12-19,2023-01-07,Machinery,Delivered,112,2369.5,2256.71,3,Compliant
+PO-00906,DeltaWorks,2023-12-11,2024-01-08,Consumables,Delivered,306,20.9,19.65,45,Compliant
+PO-00907,DeltaWorks,2023-05-23,2023-06-26,Raw Materials,Partial,11,133.54,126.9,1,Compliant
+PO-00908,DeltaWorks,2024-04-06,2024-04-13,Electronics,Delivered,115,571.32,516.13,10,Compliant
+PO-00909,AlphaSupplies,2022-10-25,2022-11-24,Packaging,Delivered,333,37.26,34.67,0,Compliant
+PO-00910,BetaCorp,2024-06-25,2024-08-06,Packaging,Delivered,99,42.37,40.1,3,Compliant
+PO-00911,GammaTrade,2022-01-22,2022-02-05,Raw Materials,Delivered,80,120.53,107.9,2,Compliant
+PO-00912,GammaTrade,2023-11-08,,Electronics,Cancelled,279,553.53,528.4,22,Non-Compliant
+PO-00913,AlphaSupplies,2022-05-28,2022-06-16,Raw Materials,Delivered,76,123.78,110.24,1,Compliant
+PO-00914,DeltaWorks,2022-02-17,2022-03-30,Packaging,Delivered,310,35.35,31.86,21,Compliant
+PO-00915,GammaTrade,2024-05-21,2024-06-23,Packaging,Partial,309,42.06,38.88,17,Compliant
+PO-00916,EpsilonMfg,2022-06-21,2022-07-30,Raw Materials,Delivered,394,124.41,114.98,2,Compliant
+PO-00917,GammaTrade,2023-12-13,2024-01-06,Consumables,Delivered,499,20.91,19.37,23,Compliant
+PO-00918,AlphaSupplies,2022-08-13,2022-09-14,Packaging,Delivered,241,36.69,32.64,2,Compliant
+PO-00919,BetaCorp,2022-09-18,2022-10-26,Electronics,Partial,78,507.05,466.74,4,Compliant
+PO-00920,EpsilonMfg,2023-04-22,2023-05-28,Raw Materials,Delivered,182,132.67,122.57,1,Compliant
+PO-00921,GammaTrade,2022-01-26,2022-02-06,Machinery,Delivered,129,2211.63,2109.45,3,Compliant
+PO-00922,EpsilonMfg,2023-10-22,2023-11-04,Consumables,Delivered,151,20.68,19.91,0,Compliant
+PO-00923,GammaTrade,2023-11-23,2023-12-17,Packaging,Delivered,164,40.49,38.08,2,Compliant
+PO-00924,EpsilonMfg,2022-01-09,2022-02-10,Electronics,Delivered,154,480.81,433.07,2,Compliant
+PO-00925,AlphaSupplies,2023-11-01,2023-12-16,Machinery,Partial,399,2533.29,2340.51,3,Compliant
+PO-00926,BetaCorp,2022-08-28,2022-10-03,Machinery,Delivered,412,2313.71,2136.94,41,Compliant
+PO-00927,GammaTrade,2023-03-16,2023-04-20,Packaging,Delivered,367,38.39,34.58,13,Compliant
+PO-00928,EpsilonMfg,2022-11-09,2022-12-08,Packaging,Delivered,14,37.38,33.09,0,Compliant
+PO-00929,DeltaWorks,2022-11-03,2022-11-12,Consumables,Delivered,21,19.2,18.06,4,Compliant
+PO-00930,GammaTrade,2023-10-07,2023-11-08,Consumables,Delivered,477,20.62,18.52,37,Compliant
+PO-00931,EpsilonMfg,2022-07-12,2022-08-16,Machinery,Delivered,178,2290.89,2124.34,2,Compliant
+PO-00932,EpsilonMfg,2022-02-02,2022-02-20,Packaging,Delivered,318,35.24,31.56,1,Compliant
+PO-00933,BetaCorp,2022-10-26,2022-11-25,Packaging,Delivered,45,37.27,33.94,3,Compliant
+PO-00934,DeltaWorks,2022-06-10,2022-07-17,Machinery,Delivered,76,2275.49,2004.48,13,Compliant
+PO-00935,BetaCorp,2024-06-10,2024-07-30,Packaging,Partial,231,42.23,40.18,5,Compliant
+PO-00936,GammaTrade,2022-07-27,2022-08-15,Consumables,Delivered,360,18.8,17.39,0,Compliant
+PO-00937,DeltaWorks,2024-04-06,,Consumables,Pending,178,21.42,20.3,37,Compliant
+PO-00938,EpsilonMfg,2024-01-25,2024-03-01,Raw Materials,Delivered,340,140.68,135.31,2,Compliant
+PO-00939,DeltaWorks,2024-04-23,2024-05-11,Consumables,Delivered,99,21.5,19.29,21,Non-Compliant
+PO-00940,BetaCorp,2022-04-08,2022-04-25,Consumables,Delivered,494,18.37,17.17,18,Compliant
+PO-00941,AlphaSupplies,2023-05-21,2023-06-20,Packaging,Delivered,400,38.93,36.32,1,Compliant
+PO-00942,GammaTrade,2023-04-07,2023-05-13,Machinery,Delivered,116,2424.58,2315.96,0,Compliant
+PO-00943,DeltaWorks,2022-12-18,2022-12-27,Machinery,Delivered,448,2369.0,2138.97,1,Compliant
+PO-00944,GammaTrade,2023-05-12,2023-06-03,Machinery,Delivered,52,2442.54,2267.9,2,Compliant
+PO-00945,GammaTrade,2022-06-24,2022-07-19,Packaging,Delivered,320,36.31,32.48,3,Compliant
+PO-00946,AlphaSupplies,2022-06-07,2022-06-16,Electronics,Delivered,101,496.16,461.58,3,Compliant
+PO-00947,AlphaSupplies,2023-10-19,2023-11-19,Consumables,Delivered,347,20.67,18.82,9,Compliant
+PO-00948,AlphaSupplies,2024-02-25,,Machinery,Delivered,137,2596.01,2470.88,1,Compliant
+PO-00949,AlphaSupplies,2024-04-20,2024-05-03,Electronics,Delivered,352,573.01,545.91,11,Compliant
+PO-00950,BetaCorp,2023-03-02,2023-04-13,Raw Materials,Delivered,427,131.25,121.26,37,Compliant
+PO-00951,DeltaWorks,2022-05-04,,Machinery,Delivered,64,2257.8,2142.88,0,Non-Compliant
+PO-00952,BetaCorp,2022-08-14,2022-09-13,Machinery,Delivered,427,2306.89,2224.07,2,Non-Compliant
+PO-00953,EpsilonMfg,2022-04-15,2022-06-10,Machinery,Partial,415,2248.78,2037.17,1,Compliant
+PO-00954,EpsilonMfg,2023-10-09,2023-10-24,Electronics,Delivered,357,550.04,499.05,2,Compliant
+PO-00955,GammaTrade,2022-03-11,2022-04-28,Machinery,Partial,321,2232.24,2097.86,9,Compliant
+PO-00956,BetaCorp,2023-08-25,2023-09-08,Consumables,Delivered,16,20.43,18.52,0,Compliant
+PO-00957,EpsilonMfg,2022-03-03,2022-03-19,Raw Materials,Delivered,265,121.55,116.4,1,Compliant
+PO-00958,EpsilonMfg,2024-01-27,2024-02-05,Machinery,Delivered,78,2580.19,2298.95,0,Compliant
+PO-00959,GammaTrade,2022-08-23,2022-09-12,Raw Materials,Delivered,179,126.07,112.68,7,Non-Compliant
+PO-00960,BetaCorp,2023-09-15,2023-10-20,Packaging,Delivered,276,39.9,35.57,24,Compliant
+PO-00961,BetaCorp,2023-10-12,2023-10-24,Raw Materials,Delivered,490,137.6,121.18,11,Compliant
+PO-00962,BetaCorp,2023-06-04,2023-06-21,Packaging,Delivered,381,39.05,37.61,38,Compliant
+PO-00963,BetaCorp,2022-10-20,2022-11-26,Electronics,Delivered,335,510.48,468.67,3,Non-Compliant
+PO-00964,BetaCorp,2023-03-28,,Machinery,Delivered,322,2419.48,2254.96,36,Compliant
+PO-00965,DeltaWorks,2024-05-24,,Machinery,Pending,474,2645.19,2546.0,67,Compliant
+PO-00966,BetaCorp,2023-01-25,2023-03-08,Electronics,Delivered,242,521.03,483.67,20,Compliant
+PO-00967,DeltaWorks,2022-06-08,2022-07-17,Packaging,Delivered,12,36.19,32.12,2,Compliant
+PO-00968,DeltaWorks,2024-01-31,2024-03-15,Machinery,Delivered,260,2582.36,2418.12,4,Non-Compliant
+PO-00969,AlphaSupplies,2023-08-03,2023-08-26,Machinery,Delivered,400,2485.67,2374.81,12,Compliant
+PO-00970,DeltaWorks,2023-12-15,,Electronics,Pending,207,557.87,538.23,36,Compliant
+PO-00971,AlphaSupplies,2023-10-09,2023-10-25,Electronics,Delivered,24,550.04,498.56,0,Compliant
+PO-00972,GammaTrade,2023-09-09,2023-09-16,Packaging,Delivered,349,39.85,36.58,3,Compliant
+PO-00973,DeltaWorks,2023-12-25,2024-01-13,Machinery,Delivered,471,2562.3,2350.14,99,Compliant
+PO-00974,GammaTrade,2023-06-30,2023-08-02,Consumables,Delivered,205,20.19,18.39,12,Non-Compliant
+PO-00975,AlphaSupplies,2024-03-06,2024-03-26,Consumables,Delivered,426,21.28,19.11,15,Compliant
+PO-00976,BetaCorp,2022-01-02,2022-02-11,Machinery,Delivered,406,2200.46,2115.3,23,Compliant
+PO-00977,BetaCorp,2022-07-10,2022-08-18,Electronics,Delivered,111,499.62,452.96,14,Compliant
+PO-00978,BetaCorp,2022-03-02,2022-04-07,Packaging,Partial,424,35.45,31.99,58,Non-Compliant
+PO-00979,DeltaWorks,2022-04-22,2022-05-04,Consumables,Delivered,95,18.43,16.44,8,Compliant
+PO-00980,EpsilonMfg,2023-05-05,2023-05-15,Packaging,Delivered,399,38.8,35.94,2,Compliant
+PO-00981,AlphaSupplies,2022-08-05,2022-09-14,Raw Materials,Delivered,13,125.59,115.92,0,Compliant
+PO-00982,DeltaWorks,2023-09-11,2023-10-22,Electronics,Partial,199,546.81,509.24,47,Non-Compliant
+PO-00983,GammaTrade,2023-01-23,2023-02-18,Machinery,Partial,192,2387.05,2184.15,0,Compliant
+PO-00984,DeltaWorks,2022-01-27,2022-02-18,Packaging,Delivered,454,35.19,32.23,40,Compliant
+PO-00985,DeltaWorks,2023-02-28,,Consumables,Pending,11,19.68,17.92,2,Non-Compliant
+PO-00986,AlphaSupplies,2024-06-13,2024-07-18,Electronics,Delivered,423,579.57,559.81,3,Compliant
+PO-00987,AlphaSupplies,2023-03-15,2023-04-10,Electronics,Partial,492,526.44,466.16,14,Compliant
+PO-00988,BetaCorp,2024-06-09,2024-07-31,Packaging,Partial,302,42.22,38.98,1,Compliant
+PO-00989,AlphaSupplies,2024-05-02,2024-06-20,Electronics,Partial,290,574.46,522.41,1,Compliant
+PO-00990,AlphaSupplies,2023-11-10,,Machinery,Delivered,134,2538.1,2338.35,0,Non-Compliant
+PO-00991,GammaTrade,2024-02-24,2024-04-01,Machinery,Delivered,378,2595.46,2452.19,28,Compliant
+PO-00992,EpsilonMfg,2022-04-03,2022-05-16,Machinery,Delivered,180,2243.09,2015.19,2,Compliant
+PO-00993,DeltaWorks,2023-11-01,,Machinery,Pending,297,2533.29,2310.87,31,Compliant
+PO-00994,GammaTrade,2022-10-25,2022-12-08,Raw Materials,Delivered,55,127.76,122.92,4,Compliant
+PO-00995,GammaTrade,2024-05-23,2024-05-30,Packaging,Delivered,204,42.07,39.62,5,Compliant
+PO-00996,DeltaWorks,2022-11-24,2022-12-22,Machinery,Partial,418,2357.04,2122.75,52,Compliant
+PO-00997,BetaCorp,2023-02-09,2023-02-25,Raw Materials,Delivered,446,130.67,126.65,50,Compliant
+PO-00998,DeltaWorks,2023-09-08,2023-09-30,Packaging,Partial,392,39.85,37.64,56,Compliant
+PO-00999,AlphaSupplies,2024-05-18,2024-06-07,Electronics,Delivered,254,576.4,522.45,5,Compliant
+PO-01000,GammaTrade,2024-04-27,2024-05-18,Packaging,Delivered,444,41.84,37.89,24,Compliant
+PO-01001,BetaCorp,2024-01-15,2024-02-01,Machinery,Delivered,427,2573.67,2405.61,59,Compliant
+PO-01002,DeltaWorks,2024-02-15,2024-03-11,Electronics,Delivered,46,565.21,528.36,3,Non-Compliant
+PO-01003,EpsilonMfg,2022-04-10,2022-04-20,Machinery,Delivered,395,2246.41,2152.51,6,Compliant
+PO-01004,BetaCorp,2022-05-21,2022-06-06,Consumables,Delivered,257,18.54,17.25,7,Non-Compliant
+PO-01005,AlphaSupplies,2024-01-14,2024-01-30,Electronics,Delivered,62,561.41,501.28,0,Non-Compliant
+PO-01006,BetaCorp,2022-04-09,2022-04-19,Raw Materials,Delivered,252,122.51,114.91,4,Compliant
+PO-01007,DeltaWorks,2023-10-05,2023-10-27,Packaging,Delivered,135,40.07,36.26,12,Compliant
+PO-01008,BetaCorp,2024-03-05,2024-03-17,Machinery,Delivered,417,2600.94,2360.87,45,Non-Compliant
+PO-01009,GammaTrade,2023-01-12,2023-02-19,Machinery,Delivered,69,2381.52,2307.69,3,Non-Compliant
+PO-01010,EpsilonMfg,2023-08-10,2023-09-23,Consumables,Delivered,365,20.37,18.88,1,Compliant
+PO-01011,DeltaWorks,2023-08-09,,Electronics,Delivered,176,543.01,520.58,7,Non-Compliant
+PO-01012,EpsilonMfg,2024-03-13,2024-04-26,Consumables,Delivered,260,21.32,19.12,2,Compliant
+PO-01013,BetaCorp,2022-07-05,2022-08-16,Raw Materials,Delivered,365,124.77,111.34,22,Compliant
+PO-01014,EpsilonMfg,2023-10-31,2023-11-09,Packaging,Delivered,297,40.29,38.5,0,Compliant
+PO-01015,EpsilonMfg,2023-03-10,2023-04-05,Packaging,Delivered,346,38.35,33.83,0,Compliant
+PO-01016,GammaTrade,2023-04-01,2023-05-11,Consumables,Delivered,261,19.81,18.97,19,Non-Compliant
+PO-01017,EpsilonMfg,2023-12-06,2023-12-15,Packaging,Delivered,429,40.6,39.02,1,Compliant
+PO-01018,BetaCorp,2023-07-20,2023-08-23,Consumables,Delivered,193,20.28,19.28,2,Compliant
+PO-01019,BetaCorp,2023-04-13,2023-04-29,Machinery,Delivered,140,2427.65,2336.61,10,Compliant
+PO-01020,BetaCorp,2023-08-01,2023-08-18,Electronics,Delivered,430,542.1,493.74,25,Compliant
+PO-01021,DeltaWorks,2022-01-27,2022-02-10,Machinery,Delivered,136,2212.09,1953.72,17,Non-Compliant
+PO-01022,GammaTrade,2023-01-07,2023-01-28,Raw Materials,Delivered,408,129.76,115.25,8,Compliant
+PO-01023,BetaCorp,2022-04-18,2022-05-14,Machinery,Delivered,73,2250.2,2024.28,6,Non-Compliant
+PO-01024,GammaTrade,2024-06-05,2024-06-15,Consumables,Delivered,148,21.7,20.5,2,Non-Compliant
+PO-01025,GammaTrade,2023-07-19,2023-09-01,Consumables,Delivered,445,20.27,18.58,4,Compliant
+PO-01026,BetaCorp,2022-05-27,2022-06-26,Packaging,Delivered,386,36.09,33.78,38,Compliant
+PO-01027,DeltaWorks,2023-03-26,2023-04-20,Packaging,Delivered,418,38.48,33.91,27,Compliant
+PO-01028,BetaCorp,2023-10-13,2023-11-09,Electronics,Delivered,495,550.51,491.5,58,Compliant
+PO-01029,BetaCorp,2022-06-19,,Raw Materials,Delivered,53,124.35,114.18,6,Non-Compliant
+PO-01030,DeltaWorks,2024-01-19,2024-02-29,Consumables,Delivered,264,21.08,20.19,44,Compliant
+PO-01031,AlphaSupplies,2023-12-21,2024-01-30,Machinery,Delivered,186,2560.14,2360.19,5,Compliant
+PO-01032,BetaCorp,2022-08-19,2022-10-10,Consumables,Partial,197,18.89,18.03,9,Compliant
+PO-01033,DeltaWorks,2022-06-24,2022-07-16,Machinery,Delivered,67,2282.21,2137.06,13,Non-Compliant
+PO-01034,GammaTrade,2023-05-10,2023-06-22,Electronics,Delivered,119,532.69,502.65,3,Non-Compliant
+PO-01035,EpsilonMfg,2023-04-20,2023-05-19,Raw Materials,Delivered,444,132.61,117.98,0,Compliant
+PO-01036,AlphaSupplies,2022-12-25,2023-01-01,Raw Materials,Delivered,105,129.41,115.16,0,Compliant
+PO-01037,EpsilonMfg,2023-02-25,2023-03-20,Packaging,Delivered,259,38.24,36.67,1,Compliant
+PO-01038,DeltaWorks,2023-07-04,,Packaging,Pending,65,39.3,35.25,10,Compliant
+PO-01039,BetaCorp,2024-02-05,,Electronics,Cancelled,193,564.02,525.05,19,Compliant
+PO-01040,GammaTrade,2022-05-17,2022-05-26,Raw Materials,Delivered,390,123.49,115.4,5,Compliant
+PO-01041,GammaTrade,2023-03-08,2023-03-23,Raw Materials,Delivered,263,131.42,121.69,6,Compliant
+PO-01042,EpsilonMfg,2022-05-15,2022-05-30,Machinery,Delivered,65,2263.05,2172.75,0,Compliant
+PO-01043,BetaCorp,2023-11-26,,Raw Materials,Pending,229,138.91,124.37,23,Compliant
+PO-01044,GammaTrade,2023-05-13,2023-05-29,Electronics,Delivered,229,533.03,513.09,13,Compliant
+PO-01045,AlphaSupplies,2023-12-19,2024-01-25,Electronics,Delivered,430,558.34,529.14,12,Compliant
+PO-01046,EpsilonMfg,2022-07-05,2022-07-21,Consumables,Delivered,447,18.72,17.84,2,Compliant
+PO-01047,BetaCorp,2023-03-13,2023-03-23,Packaging,Delivered,112,38.37,37.16,5,Compliant
+PO-01048,BetaCorp,2022-12-11,2022-12-21,Packaging,Delivered,41,37.63,35.06,1,Compliant
+PO-01049,GammaTrade,2022-09-10,2022-09-17,Machinery,Delivered,34,2320.06,2183.64,0,Compliant
+PO-01050,DeltaWorks,2023-09-14,2023-10-22,Electronics,Delivered,104,547.15,525.76,9,Compliant
+PO-01051,AlphaSupplies,2024-02-28,2024-03-29,Consumables,Delivered,179,21.25,18.96,5,Compliant
+PO-01052,BetaCorp,2022-08-04,,Electronics,Cancelled,54,502.26,460.77,0,Compliant
+PO-01053,AlphaSupplies,2023-08-24,2023-09-12,Raw Materials,Delivered,462,136.18,120.23,3,Compliant
+PO-01054,EpsilonMfg,2022-12-18,2023-01-19,Consumables,Partial,252,19.38,18.27,2,Compliant
+PO-01055,BetaCorp,2023-03-05,,Packaging,Cancelled,139,38.31,35.26,14,Non-Compliant
+PO-01056,EpsilonMfg,2023-01-10,2023-02-13,Electronics,Delivered,377,519.38,482.82,0,Compliant
+PO-01057,EpsilonMfg,2022-06-20,2022-07-28,Raw Materials,Partial,366,124.38,113.94,0,Compliant
+PO-01058,BetaCorp,2023-05-22,2023-06-02,Machinery,Delivered,455,2447.7,2223.49,10,Compliant
+PO-01059,DeltaWorks,2023-09-14,2023-10-27,Machinery,Delivered,104,2507.78,2371.36,5,Non-Compliant
+PO-01060,EpsilonMfg,2023-05-31,2023-06-21,Machinery,Delivered,278,2452.35,2222.56,1,Compliant
+PO-01061,BetaCorp,2023-07-01,2023-07-25,Raw Materials,Delivered,30,134.64,127.72,3,Compliant
+PO-01062,BetaCorp,2023-07-02,2023-08-16,Packaging,Delivered,342,39.28,37.69,46,Compliant
+PO-01063,EpsilonMfg,2024-01-10,,Electronics,Delivered,469,560.94,537.38,9,Compliant
+PO-01064,GammaTrade,2024-01-19,2024-01-27,Packaging,Delivered,100,40.98,36.19,4,Non-Compliant
+PO-01065,EpsilonMfg,2024-01-10,2024-02-02,Raw Materials,Delivered,205,140.23,126.61,3,Compliant
+PO-01066,DeltaWorks,2022-11-29,2023-01-13,Packaging,Partial,307,37.54,35.51,11,Compliant
+PO-01067,DeltaWorks,2022-06-01,2022-07-07,Electronics,Delivered,57,495.53,440.43,2,Non-Compliant
+PO-01068,DeltaWorks,2023-10-26,2023-11-13,Packaging,Delivered,168,40.25,38.02,32,Non-Compliant
+PO-01069,BetaCorp,2023-03-13,2023-04-14,Raw Materials,Delivered,475,131.55,124.7,6,Compliant
+PO-01070,AlphaSupplies,2022-04-13,2022-04-20,Consumables,Delivered,20,18.39,17.21,0,Compliant
+PO-01071,BetaCorp,2022-10-02,2022-10-09,Raw Materials,Delivered,331,127.14,121.7,44,Compliant
+PO-01072,GammaTrade,2022-07-27,2022-08-31,Raw Materials,Delivered,398,125.35,120.02,25,Compliant
+PO-01073,BetaCorp,2023-07-11,2023-07-19,Raw Materials,Delivered,331,134.93,122.48,38,Compliant
+PO-01074,EpsilonMfg,2022-05-26,2022-06-29,Machinery,Delivered,124,2268.3,2200.02,0,Compliant
+PO-01075,DeltaWorks,2023-05-19,2023-06-13,Raw Materials,Delivered,66,133.43,127.39,5,Compliant
+PO-01076,AlphaSupplies,2023-09-12,2023-10-27,Raw Materials,Delivered,229,136.73,130.77,1,Compliant
+PO-01077,GammaTrade,2024-04-17,2024-05-25,Consumables,Delivered,458,21.47,20.27,24,Non-Compliant
+PO-01078,AlphaSupplies,2024-06-01,2024-06-17,Raw Materials,Delivered,86,144.53,128.05,1,Compliant
+PO-01079,DeltaWorks,2022-04-26,2022-05-08,Raw Materials,Delivered,382,122.95,112.87,29,Compliant
+PO-01080,GammaTrade,2023-05-22,,Electronics,Cancelled,365,534.04,497.67,17,Compliant
+PO-01081,BetaCorp,2023-01-28,2023-03-07,Packaging,Delivered,264,38.02,35.45,19,Non-Compliant
+PO-01082,EpsilonMfg,2023-06-24,,Machinery,Delivered,365,2464.79,2262.68,5,Compliant
+PO-01083,AlphaSupplies,2023-07-26,2023-08-18,Electronics,Partial,78,541.41,502.05,2,Compliant
+PO-01084,BetaCorp,2023-04-17,2023-05-20,Electronics,Delivered,446,530.12,507.32,15,Non-Compliant
+PO-01085,BetaCorp,2023-12-14,2024-01-17,Raw Materials,Delivered,203,139.44,126.42,10,Compliant
+PO-01086,AlphaSupplies,2024-05-07,,Machinery,Delivered,90,2635.72,2415.64,0,Compliant
+PO-01087,DeltaWorks,2024-02-23,2024-04-03,Packaging,Delivered,390,41.28,39.36,65,Compliant
+PO-01088,GammaTrade,2024-03-11,2024-03-27,Machinery,Delivered,16,2604.24,2375.07,0,Compliant
+PO-01089,BetaCorp,2022-06-14,2022-07-20,Consumables,Delivered,436,18.63,18.05,33,Non-Compliant
+PO-01090,EpsilonMfg,2023-12-28,2024-01-09,Electronics,Delivered,486,559.4,531.15,5,Compliant
+PO-01091,BetaCorp,2023-09-26,2023-11-07,Machinery,Delivered,210,2514.13,2426.14,17,Compliant
+PO-01092,DeltaWorks,2023-10-31,2023-11-10,Electronics,Delivered,433,552.6,504.08,83,Compliant
+PO-01093,AlphaSupplies,2022-03-21,2022-03-29,Raw Materials,Delivered,408,122.02,114.38,3,Compliant
+PO-01094,BetaCorp,2022-01-12,2022-01-31,Consumables,Delivered,168,18.04,16.27,15,Compliant
+PO-01095,EpsilonMfg,2022-02-15,,Consumables,Delivered,414,18.17,16.7,2,Compliant
+PO-01096,GammaTrade,2023-02-12,2023-03-13,Electronics,Delivered,171,523.01,483.78,13,Compliant
+PO-01097,DeltaWorks,2022-04-14,2022-05-28,Consumables,Delivered,406,18.4,17.02,77,Compliant
+PO-01098,AlphaSupplies,2022-06-15,2022-06-27,Electronics,Delivered,247,496.99,475.32,9,Compliant
+PO-01099,BetaCorp,2023-05-29,2023-07-08,Packaging,Delivered,383,39.0,36.02,49,Compliant
+PO-01100,GammaTrade,2023-01-04,2023-02-04,Electronics,Delivered,491,518.73,474.07,9,Non-Compliant
+PO-01101,BetaCorp,2023-10-05,2023-11-03,Consumables,Partial,59,20.61,18.15,6,Compliant
+PO-01102,AlphaSupplies,2022-04-07,2022-05-07,Machinery,Partial,96,2244.99,2085.82,0,Compliant
+PO-01103,GammaTrade,2022-03-14,2022-04-20,Raw Materials,Delivered,405,121.84,116.22,31,Compliant
+PO-01104,BetaCorp,2023-08-06,,Raw Materials,Cancelled,196,135.67,125.64,11,Non-Compliant
+PO-01105,BetaCorp,2023-01-11,,Machinery,Pending,329,2381.02,2199.82,17,Compliant
+PO-01106,EpsilonMfg,2022-09-27,2022-10-07,Machinery,Delivered,359,2328.39,2074.6,5,Compliant
+PO-01107,AlphaSupplies,2024-05-23,2024-06-24,Packaging,Delivered,202,42.07,40.41,6,Compliant
+PO-01108,AlphaSupplies,2023-04-23,2023-06-11,Electronics,Partial,283,530.79,492.47,1,Compliant
+PO-01109,AlphaSupplies,2024-02-26,2024-03-24,Machinery,Delivered,215,2596.56,2417.4,2,Compliant
+PO-01110,DeltaWorks,2022-10-13,2022-11-19,Raw Materials,Delivered,289,127.43,118.4,10,Compliant
+PO-01111,EpsilonMfg,2022-03-05,,Machinery,Delivered,195,2229.42,1974.6,0,Compliant
+PO-01112,DeltaWorks,2022-09-16,2022-10-10,Electronics,Delivered,52,506.84,462.64,5,Compliant
+PO-01113,DeltaWorks,2022-08-08,2022-08-18,Consumables,Delivered,142,18.85,17.15,3,Non-Compliant
+PO-01114,GammaTrade,2022-07-23,2022-09-02,Packaging,Delivered,224,36.53,34.29,12,Compliant
+PO-01115,GammaTrade,2023-02-03,2023-03-20,Consumables,Delivered,297,19.58,17.54,4,Compliant
+PO-01116,BetaCorp,2023-11-12,2023-12-09,Electronics,Delivered,490,554.0,488.18,0,Non-Compliant
+PO-01117,DeltaWorks,2022-04-27,2022-06-06,Electronics,Delivered,355,491.89,442.06,61,Non-Compliant
+PO-01118,BetaCorp,2023-10-17,2023-11-05,Machinery,Delivered,59,2525.29,2229.07,3,Compliant
+PO-01119,DeltaWorks,2022-12-23,,Packaging,Pending,107,37.73,35.89,14,Compliant
+PO-01120,GammaTrade,2022-11-06,2022-11-20,Raw Materials,Delivered,267,128.08,113.9,14,Compliant
+PO-01121,DeltaWorks,2022-12-27,2023-01-24,Electronics,Delivered,228,517.85,463.73,6,Compliant
+PO-01122,BetaCorp,2023-09-02,2023-10-06,Consumables,Delivered,233,20.47,19.56,20,Compliant
+PO-01123,AlphaSupplies,2024-04-05,2024-05-08,Raw Materials,Delivered,55,142.8,127.75,0,Compliant
+PO-01124,EpsilonMfg,2023-10-11,2023-11-05,Raw Materials,Delivered,307,137.57,127.94,5,Compliant
+PO-01125,EpsilonMfg,2022-04-28,2022-06-09,Machinery,Partial,250,2254.95,2147.61,4,Compliant
+PO-01126,DeltaWorks,2022-01-08,2022-02-02,Machinery,Delivered,410,2203.25,1950.76,26,Non-Compliant
+PO-01127,DeltaWorks,2022-01-05,2022-01-13,Packaging,Delivered,222,35.03,31.14,8,Compliant
+PO-01128,EpsilonMfg,2022-12-10,2023-01-14,Electronics,Partial,302,516.0,492.63,3,Compliant
+PO-01129,EpsilonMfg,2024-04-28,2024-05-13,Machinery,Delivered,487,2630.73,2539.71,9,Compliant
+PO-01130,DeltaWorks,2023-06-14,2023-06-29,Electronics,Delivered,128,536.64,512.87,15,Compliant
+PO-01131,GammaTrade,2022-06-12,2022-06-20,Consumables,Delivered,114,18.63,16.48,3,Compliant
+PO-01132,AlphaSupplies,2023-12-26,2024-01-03,Consumables,Delivered,50,20.97,19.32,1,Compliant
+PO-01133,GammaTrade,2022-09-03,2022-10-14,Packaging,Delivered,123,36.86,33.59,8,Compliant
+PO-01134,DeltaWorks,2023-11-07,,Electronics,Pending,52,553.42,534.22,7,Compliant
+PO-01135,EpsilonMfg,2022-04-24,2022-05-10,Raw Materials,Delivered,315,122.89,114.13,1,Compliant
+PO-01136,DeltaWorks,2024-05-08,2024-05-16,Electronics,Delivered,61,575.19,547.18,6,Compliant
+PO-01137,BetaCorp,2023-01-20,,Machinery,Pending,334,2385.54,2122.89,37,Compliant
+PO-01138,AlphaSupplies,2023-11-07,2023-11-21,Packaging,Delivered,320,40.35,37.08,12,Non-Compliant
+PO-01139,EpsilonMfg,2023-07-14,,Consumables,Delivered,277,20.25,19.63,1,Compliant
+PO-01140,EpsilonMfg,2022-08-10,2022-08-18,Packaging,Delivered,68,36.67,32.71,0,Compliant
+PO-01141,BetaCorp,2022-10-08,2022-11-19,Electronics,Delivered,498,509.19,471.87,45,Compliant
+PO-01142,DeltaWorks,2023-02-14,2023-03-10,Consumables,Delivered,138,19.62,17.4,31,Compliant
+PO-01143,EpsilonMfg,2022-06-19,2022-07-23,Electronics,Delivered,498,497.41,446.92,8,Compliant
+PO-01144,GammaTrade,2022-04-21,2022-05-20,Consumables,Delivered,229,18.42,16.86,6,Compliant
+PO-01145,BetaCorp,2023-06-08,2023-07-18,Raw Materials,Delivered,219,133.99,126.92,10,Compliant
+PO-01146,GammaTrade,2024-03-20,2024-04-19,Machinery,Delivered,135,2609.18,2487.33,4,Compliant
+PO-01147,GammaTrade,2024-01-05,2024-02-01,Raw Materials,Delivered,248,140.09,131.74,17,Compliant
+PO-01148,EpsilonMfg,2023-06-24,2023-08-08,Packaging,Delivered,297,39.21,37.27,5,Compliant
+PO-01149,EpsilonMfg,2023-11-30,2023-12-19,Machinery,Delivered,172,2548.82,2298.78,0,Compliant
+PO-01150,GammaTrade,2022-05-03,2022-06-16,Machinery,Delivered,97,2257.33,2164.33,2,Compliant
+PO-01151,EpsilonMfg,2023-04-18,2023-05-10,Raw Materials,Partial,440,132.56,125.19,7,Compliant
+PO-01152,AlphaSupplies,2023-10-23,2023-11-25,Electronics,Delivered,250,551.67,534.29,7,Compliant
+PO-01153,DeltaWorks,2023-07-24,2023-09-07,Raw Materials,Partial,262,135.3,121.81,18,Non-Compliant
+PO-01154,DeltaWorks,2024-05-13,2024-06-03,Raw Materials,Delivered,326,143.95,134.78,3,Compliant
+PO-01155,GammaTrade,2022-08-20,,Machinery,Delivered,107,2309.81,2205.18,6,Compliant
+PO-01156,AlphaSupplies,2024-06-23,2024-07-19,Electronics,Delivered,66,580.79,522.36,0,Compliant
+PO-01157,DeltaWorks,2023-12-17,2023-12-31,Electronics,Delivered,80,558.1,532.82,2,Non-Compliant
+PO-01158,DeltaWorks,2023-11-16,2023-12-23,Machinery,Delivered,280,2541.31,2437.12,44,Non-Compliant
+PO-01159,DeltaWorks,2022-04-05,,Packaging,Cancelled,161,35.7,33.78,13,Non-Compliant
+PO-01160,BetaCorp,2023-12-13,2023-12-20,Packaging,Delivered,263,40.66,39.16,24,Compliant
+PO-01161,DeltaWorks,2022-12-15,,Raw Materials,Pending,312,129.14,122.84,38,Compliant
+PO-01162,GammaTrade,2023-11-03,2023-11-18,Machinery,Delivered,268,2534.35,2423.09,4,Compliant
+PO-01163,EpsilonMfg,2022-07-27,2022-08-30,Consumables,Delivered,106,18.8,16.92,0,Compliant
+PO-01164,AlphaSupplies,2023-04-18,,Packaging,Delivered,391,38.66,34.45,13,Compliant
+PO-01165,EpsilonMfg,2022-12-27,2023-01-25,Machinery,Delivered,484,2373.5,2245.57,4,Compliant
+PO-01166,EpsilonMfg,2022-02-24,2022-03-27,Electronics,Delivered,199,485.5,451.66,2,Compliant
+PO-01167,DeltaWorks,2023-09-01,2023-10-05,Packaging,Delivered,321,39.79,37.61,8,Compliant
+PO-01168,AlphaSupplies,2022-04-28,2022-05-20,Packaging,Delivered,28,35.87,34.62,0,Compliant
+PO-01169,EpsilonMfg,2023-02-06,2023-03-02,Machinery,Delivered,122,2394.1,2237.53,1,Compliant
+PO-01170,GammaTrade,2022-10-22,2022-11-28,Consumables,Delivered,58,19.15,17.31,3,Compliant
+PO-01171,BetaCorp,2023-11-29,2024-01-04,Electronics,Delivered,105,555.99,535.81,2,Compliant
+PO-01172,GammaTrade,2022-07-01,2022-07-08,Raw Materials,Delivered,461,124.67,110.0,21,Non-Compliant
+PO-01173,DeltaWorks,2023-04-29,2023-05-24,Packaging,Delivered,429,38.75,37.21,86,Compliant
+PO-01174,BetaCorp,2022-04-13,2022-05-21,Raw Materials,Delivered,386,122.61,115.57,39,Non-Compliant
+PO-01175,DeltaWorks,2023-01-09,2023-02-06,Electronics,Delivered,433,519.28,482.26,92,Non-Compliant
+PO-01176,EpsilonMfg,2022-04-26,2022-05-04,Machinery,Delivered,275,2254.0,2131.61,0,Compliant
+PO-01177,BetaCorp,2023-05-25,2023-06-28,Electronics,Delivered,305,534.38,516.85,15,Compliant
+PO-01178,DeltaWorks,2022-10-08,2022-11-12,Raw Materials,Delivered,357,127.3,113.44,84,Non-Compliant
+PO-01179,GammaTrade,2023-02-05,,Electronics,Cancelled,493,522.24,478.89,12,Compliant
+PO-01180,EpsilonMfg,2024-05-04,2024-06-16,Electronics,Delivered,231,574.7,525.79,4,Compliant
+PO-01181,AlphaSupplies,2023-12-03,2023-12-28,Machinery,Delivered,358,2550.44,2440.26,8,Compliant
+PO-01182,GammaTrade,2024-03-29,2024-04-23,Raw Materials,Delivered,242,142.59,134.53,15,Compliant
+PO-01183,AlphaSupplies,2022-12-27,2023-01-11,Machinery,Delivered,10,2373.5,2161.31,0,Compliant
+PO-01184,EpsilonMfg,2022-03-30,2022-05-01,Packaging,Partial,83,35.66,32.3,0,Compliant
+PO-01185,GammaTrade,2022-02-02,2022-03-05,Packaging,Delivered,191,35.24,32.68,6,Non-Compliant
+PO-01186,GammaTrade,2023-09-04,2023-10-01,Electronics,Delivered,298,546.0,514.33,19,Compliant
+PO-01187,GammaTrade,2023-03-03,2023-03-29,Packaging,Delivered,164,38.29,35.23,7,Compliant
+PO-01188,DeltaWorks,2022-04-09,2022-05-31,Machinery,Partial,236,2245.93,2150.48,52,Non-Compliant
+PO-01189,DeltaWorks,2023-03-14,2023-04-25,Electronics,Delivered,220,526.33,488.43,1,Non-Compliant
+PO-01190,BetaCorp,2022-11-06,2022-11-21,Consumables,Delivered,307,19.21,17.27,26,Non-Compliant
+PO-01191,AlphaSupplies,2022-05-09,2022-06-18,Machinery,Delivered,13,2260.18,2110.33,0,Compliant
+PO-01192,AlphaSupplies,2023-09-01,2023-09-29,Electronics,Delivered,158,545.65,524.48,5,Compliant
+PO-01193,EpsilonMfg,2023-12-20,2024-01-27,Raw Materials,Delivered,83,139.61,132.84,0,Compliant
+PO-01194,BetaCorp,2023-10-06,2023-11-13,Electronics,Delivered,489,549.7,517.82,42,Compliant
+PO-01195,BetaCorp,2024-06-20,2024-07-03,Consumables,Delivered,59,21.77,20.88,3,Non-Compliant
+PO-01196,AlphaSupplies,2022-11-04,2022-12-15,Raw Materials,Delivered,104,128.02,119.52,1,Compliant
+PO-01197,EpsilonMfg,2023-03-19,2023-04-10,Raw Materials,Delivered,21,131.72,126.03,0,Compliant
+PO-01198,DeltaWorks,2022-10-24,,Machinery,Pending,61,2341.68,2210.31,7,Non-Compliant
+PO-01199,DeltaWorks,2023-12-16,2024-01-19,Machinery,Delivered,247,2557.44,2296.58,8,Compliant
+PO-01200,DeltaWorks,2023-08-18,2023-10-16,Raw Materials,Partial,340,136.01,128.23,36,Non-Compliant
+PO-01201,GammaTrade,2023-04-25,2023-05-12,Packaging,Delivered,244,38.72,34.48,6,Compliant
+PO-01202,GammaTrade,2023-02-04,2023-03-05,Consumables,Delivered,99,19.58,18.09,5,Compliant
+PO-01203,BetaCorp,2024-03-14,,Electronics,Pending,165,568.56,512.5,1,Non-Compliant
+PO-01204,DeltaWorks,2023-04-29,2023-06-07,Machinery,Delivered,102,2435.86,2230.03,18,Compliant
+PO-01205,GammaTrade,2023-08-18,2023-08-29,Consumables,Delivered,326,20.4,19.15,1,Compliant
+PO-01206,AlphaSupplies,2023-05-27,2023-06-17,Raw Materials,Delivered,253,133.65,118.4,9,Compliant
+PO-01207,BetaCorp,2024-06-20,2024-07-23,Raw Materials,Delivered,466,145.11,138.48,60,Compliant
+PO-01208,AlphaSupplies,2023-03-29,2023-04-06,Raw Materials,Delivered,320,132.0,118.97,11,Compliant
+PO-01209,DeltaWorks,2023-10-15,2023-11-22,Packaging,Delivered,112,40.16,36.88,11,Compliant
+PO-01210,BetaCorp,2024-04-13,2024-05-27,Machinery,Delivered,414,2622.42,2418.92,1,Non-Compliant
+PO-01211,AlphaSupplies,2022-01-06,2022-01-17,Packaging,Delivered,218,35.04,32.85,2,Compliant
+PO-01212,EpsilonMfg,2022-07-14,2022-08-22,Machinery,Delivered,302,2291.86,2051.44,2,Compliant
+PO-01213,BetaCorp,2023-03-26,,Raw Materials,Cancelled,202,131.92,122.88,16,Compliant
+PO-01214,EpsilonMfg,2022-04-14,2022-05-25,Electronics,Delivered,128,490.54,470.62,0,Compliant
+PO-01215,GammaTrade,2023-12-22,2024-01-29,Machinery,Partial,456,2560.68,2401.41,2,Compliant
+PO-01216,EpsilonMfg,2023-05-28,2023-06-11,Consumables,Delivered,326,20.05,18.89,3,Compliant
+PO-01217,AlphaSupplies,2022-12-13,2022-12-23,Raw Materials,Delivered,112,129.08,120.32,0,Compliant
+PO-01218,AlphaSupplies,2023-05-21,2023-05-30,Packaging,Delivered,495,38.93,37.51,6,Compliant
+PO-01219,EpsilonMfg,2024-06-27,2024-07-06,Raw Materials,Delivered,494,145.32,133.75,1,Compliant
+PO-01220,GammaTrade,2023-05-05,2023-06-08,Machinery,Partial,445,2438.94,2299.19,0,Compliant
+PO-01221,BetaCorp,2023-09-15,2023-09-23,Consumables,Delivered,359,20.52,18.32,27,Compliant
+PO-01222,BetaCorp,2023-12-20,2024-01-03,Machinery,Delivered,80,2559.6,2384.52,10,Non-Compliant
+PO-01223,BetaCorp,2023-03-24,2023-05-07,Electronics,Delivered,131,527.44,468.05,0,Compliant
+PO-01224,EpsilonMfg,2022-02-16,2022-03-10,Consumables,Delivered,17,18.18,16.01,0,Compliant
+PO-01225,BetaCorp,2022-02-14,2022-03-08,Electronics,Delivered,318,484.47,456.23,44,Compliant
+PO-01226,AlphaSupplies,2022-03-20,2022-04-18,Raw Materials,Delivered,288,121.99,115.59,10,Compliant
+PO-01227,GammaTrade,2024-03-09,2024-04-18,Electronics,Delivered,454,567.96,522.75,32,Compliant
+PO-01228,AlphaSupplies,2022-12-21,2023-02-10,Raw Materials,Partial,371,129.3,114.95,4,Compliant
+PO-01229,BetaCorp,2022-08-25,2022-09-24,Consumables,Delivered,293,18.92,17.83,29,Compliant
+PO-01230,BetaCorp,2023-10-28,2023-12-05,Machinery,Delivered,497,2531.15,2281.07,58,Compliant
+PO-01231,GammaTrade,2022-03-03,2022-03-11,Raw Materials,Delivered,322,121.55,114.85,22,Compliant
+PO-01232,BetaCorp,2022-07-08,2022-08-03,Machinery,Delivered,282,2288.96,2084.33,1,Compliant
+PO-01233,EpsilonMfg,2024-04-28,2024-05-18,Electronics,Delivered,424,573.98,509.87,6,Compliant
+PO-01234,DeltaWorks,2024-03-12,,Machinery,Pending,386,2604.78,2355.76,74,Compliant
+PO-01235,GammaTrade,2023-04-20,2023-05-30,Consumables,Delivered,378,19.89,18.54,7,Non-Compliant
+PO-01236,BetaCorp,2022-01-16,,Packaging,Pending,359,35.11,33.17,4,Compliant
+PO-01237,EpsilonMfg,2022-12-12,2023-01-11,Electronics,Delivered,29,516.22,474.2,0,Compliant
+PO-01238,EpsilonMfg,2022-05-08,,Raw Materials,Delivered,348,123.26,116.16,5,Compliant
+PO-01239,AlphaSupplies,2022-02-07,2022-03-21,Machinery,Delivered,255,2217.23,1958.04,2,Compliant
+PO-01240,GammaTrade,2023-07-19,2023-08-11,Consumables,Delivered,42,20.27,19.09,2,Compliant
+PO-01241,BetaCorp,2023-10-08,2023-10-18,Packaging,Delivered,456,40.1,38.27,14,Compliant
+PO-01242,EpsilonMfg,2023-08-17,2023-08-27,Machinery,Delivered,293,2493.01,2346.92,5,Non-Compliant
+PO-01243,AlphaSupplies,2023-07-08,2023-07-21,Electronics,Delivered,317,539.36,488.34,0,Compliant
+PO-01244,BetaCorp,2022-11-30,2023-01-15,Packaging,Partial,434,37.55,34.5,4,Compliant
+PO-01245,GammaTrade,2022-01-26,2022-02-28,Packaging,Delivered,413,35.18,33.09,29,Compliant
+PO-01246,GammaTrade,2022-02-01,2022-02-17,Consumables,Delivered,32,18.12,17.32,2,Compliant
+PO-01247,GammaTrade,2024-01-03,2024-02-01,Consumables,Delivered,270,21.0,18.89,20,Compliant
+PO-01248,BetaCorp,2024-02-20,,Machinery,Pending,50,2593.28,2282.61,6,Non-Compliant
+PO-01249,EpsilonMfg,2023-08-12,2023-08-26,Consumables,Delivered,385,20.38,18.61,6,Compliant
+PO-01250,DeltaWorks,2023-06-17,2023-07-30,Consumables,Delivered,147,20.14,18.74,10,Compliant
+PO-01251,GammaTrade,2023-04-12,2023-05-17,Packaging,Delivered,69,38.61,36.36,4,Non-Compliant
+PO-01252,GammaTrade,2023-06-02,2023-07-17,Consumables,Delivered,195,20.07,19.33,3,Compliant
+PO-01253,BetaCorp,2022-09-08,2022-09-23,Consumables,Delivered,218,18.97,17.07,18,Compliant
+PO-01254,AlphaSupplies,2023-02-23,,Raw Materials,Delivered,85,131.06,122.16,3,Compliant
+PO-01255,AlphaSupplies,2022-09-27,2022-10-23,Machinery,Partial,374,2328.39,2098.11,1,Compliant
+PO-01256,DeltaWorks,2023-12-08,2024-01-17,Raw Materials,Delivered,47,139.26,132.99,10,Non-Compliant
+PO-01257,DeltaWorks,2022-09-05,2022-10-03,Consumables,Delivered,70,18.96,17.18,9,Compliant
+PO-01258,AlphaSupplies,2024-01-27,2024-02-29,Raw Materials,Delivered,496,140.74,124.85,12,Compliant
+PO-01259,DeltaWorks,2024-01-22,2024-03-01,Packaging,Delivered,402,41.01,39.1,8,Non-Compliant
+PO-01260,GammaTrade,2023-01-24,2023-03-09,Machinery,Delivered,100,2387.55,2247.16,2,Compliant
+PO-01261,DeltaWorks,2022-02-19,2022-03-30,Electronics,Delivered,469,484.98,445.79,95,Compliant
+PO-01262,GammaTrade,2022-05-27,2022-06-16,Packaging,Delivered,493,36.09,34.87,16,Compliant
+PO-01263,GammaTrade,2022-12-22,2023-01-29,Raw Materials,Delivered,70,129.33,122.14,2,Non-Compliant
+PO-01264,GammaTrade,2024-02-11,2024-02-27,Consumables,Delivered,128,21.18,20.34,0,Compliant
+PO-01265,BetaCorp,2023-09-05,,Raw Materials,Delivered,466,136.53,121.35,0,Non-Compliant
+PO-01266,BetaCorp,2023-08-08,2023-09-13,Electronics,Delivered,237,542.9,505.77,9,Compliant
+PO-01267,AlphaSupplies,2024-06-29,2024-07-14,Machinery,Delivered,144,2665.34,2481.7,5,Compliant
+PO-01268,GammaTrade,2024-02-02,2024-02-19,Raw Materials,Delivered,382,140.92,126.63,15,Compliant
+PO-01269,EpsilonMfg,2023-12-25,2024-01-28,Raw Materials,Delivered,466,139.76,126.92,0,Compliant
+PO-01270,BetaCorp,2023-11-08,2023-11-15,Consumables,Delivered,330,20.76,18.57,11,Compliant
+PO-01271,BetaCorp,2022-09-29,2022-11-19,Packaging,Partial,258,37.06,34.38,10,Compliant
+PO-01272,AlphaSupplies,2024-05-27,2024-06-07,Consumables,Delivered,119,21.66,19.6,2,Compliant
+PO-01273,AlphaSupplies,2023-12-06,2023-12-28,Machinery,Delivered,204,2552.05,2415.0,5,Compliant
+PO-01274,BetaCorp,2024-05-10,2024-06-17,Electronics,Delivered,159,575.43,546.14,17,Compliant
+PO-01275,DeltaWorks,2022-04-09,,Electronics,Pending,461,490.02,465.67,84,Compliant
+PO-01276,DeltaWorks,2022-09-11,2022-10-08,Electronics,Delivered,69,506.3,460.94,10,Compliant
+PO-01277,BetaCorp,2024-05-10,2024-06-01,Machinery,Delivered,260,2637.39,2367.32,1,Compliant
+PO-01278,DeltaWorks,2023-07-30,2023-09-14,Raw Materials,Partial,143,135.47,121.99,13,Compliant
+PO-01279,DeltaWorks,2022-02-25,2022-03-06,Electronics,Delivered,382,485.6,459.33,28,Compliant
+PO-01280,BetaCorp,2022-07-31,,Consumables,Pending,66,18.82,16.93,5,Compliant
+PO-01281,EpsilonMfg,2022-01-21,2022-02-02,Consumables,Delivered,20,18.08,15.99,0,Compliant
+PO-01282,EpsilonMfg,2023-11-02,2023-11-21,Raw Materials,Delivered,117,138.21,133.46,2,Compliant
+PO-01283,BetaCorp,2024-03-31,,Electronics,Delivered,201,570.6,545.21,15,Compliant
+PO-01284,AlphaSupplies,2022-04-15,2022-05-02,Consumables,Delivered,415,18.4,17.02,4,Compliant
+PO-01285,BetaCorp,2022-10-06,2022-11-20,Raw Materials,Partial,426,127.24,114.83,7,Compliant
+PO-01286,GammaTrade,2022-03-20,2022-04-22,Raw Materials,Delivered,379,121.99,117.51,0,Compliant
+PO-01287,BetaCorp,2024-01-24,2024-03-09,Raw Materials,Delivered,210,140.65,128.99,25,Compliant
+PO-01288,AlphaSupplies,2022-10-08,2022-11-20,Electronics,Delivered,61,509.19,472.88,1,Compliant
+PO-01289,DeltaWorks,2022-10-13,,Consumables,Cancelled,474,19.11,17.71,57,Compliant
+PO-01290,DeltaWorks,2023-01-17,2023-02-07,Machinery,Delivered,375,2384.03,2148.96,52,Compliant
+PO-01291,DeltaWorks,2023-05-04,2023-05-20,Electronics,Delivered,339,532.02,489.09,65,Non-Compliant
+PO-01292,BetaCorp,2024-06-04,2024-06-20,Packaging,Delivered,313,42.18,37.34,17,Non-Compliant
+PO-01293,EpsilonMfg,2022-03-02,2022-03-30,Packaging,Delivered,139,35.45,31.94,2,Compliant
+PO-01294,EpsilonMfg,2024-06-11,2024-07-23,Machinery,Delivered,363,2655.25,2574.26,5,Compliant
+PO-01295,BetaCorp,2023-04-18,2023-04-30,Electronics,Delivered,273,530.23,480.49,35,Compliant
+PO-01296,BetaCorp,2022-06-15,2022-07-20,Raw Materials,Delivered,72,124.25,114.71,8,Compliant
+PO-01297,DeltaWorks,2023-10-04,2023-11-15,Packaging,Delivered,259,40.07,35.97,25,Compliant
+PO-01298,GammaTrade,2023-06-20,2023-07-07,Electronics,Delivered,465,537.32,505.62,5,Compliant
+PO-01299,EpsilonMfg,2023-06-16,2023-07-14,Electronics,Delivered,251,536.87,491.56,4,Compliant
+PO-01300,BetaCorp,2023-06-21,2023-07-24,Packaging,Delivered,252,39.19,35.49,6,Compliant
+PO-01301,AlphaSupplies,2023-12-20,2024-01-25,Electronics,Delivered,365,558.46,532.27,4,Compliant
+PO-01302,BetaCorp,2022-12-25,2023-01-01,Raw Materials,Delivered,462,129.41,118.11,60,Compliant
+PO-01303,DeltaWorks,2024-01-17,,Consumables,Pending,329,21.07,19.86,73,Compliant
+PO-01304,BetaCorp,2023-08-30,2023-09-17,Raw Materials,Delivered,384,136.36,130.4,14,Compliant
+PO-01305,EpsilonMfg,2022-12-05,2022-12-29,Machinery,Delivered,446,2362.51,2169.26,8,Compliant
+PO-01306,DeltaWorks,2022-06-22,,Packaging,Pending,128,36.29,35.19,2,Non-Compliant
+PO-01307,BetaCorp,2022-06-18,2022-06-28,Packaging,Delivered,10,36.26,33.62,0,Non-Compliant
+PO-01308,DeltaWorks,2022-11-06,2022-12-08,Electronics,Delivered,70,512.31,473.89,6,Compliant
+PO-01309,GammaTrade,2022-11-21,2022-12-11,Consumables,Delivered,462,19.27,17.77,35,Non-Compliant
+PO-01310,BetaCorp,2023-07-28,2023-08-24,Machinery,Partial,365,2482.52,2309.49,28,Compliant
+PO-01311,GammaTrade,2022-01-26,2022-02-24,Packaging,Delivered,447,35.18,31.38,26,Compliant
+PO-01312,BetaCorp,2023-01-19,,Machinery,Pending,392,2385.03,2275.08,10,Compliant
+PO-01313,BetaCorp,2023-08-24,,Raw Materials,Pending,58,136.18,128.3,7,Compliant
+PO-01314,AlphaSupplies,2022-10-07,2022-11-08,Consumables,Delivered,150,19.09,18.46,0,Compliant
+PO-01315,AlphaSupplies,2024-04-23,2024-06-20,Consumables,Partial,377,21.5,20.8,9,Compliant
+PO-01316,DeltaWorks,2024-04-06,2024-04-22,Consumables,Delivered,199,21.42,20.58,33,Compliant
+PO-01317,AlphaSupplies,2024-05-04,2024-05-14,Machinery,Delivered,38,2634.06,2354.59,0,Compliant
+PO-01318,BetaCorp,2024-01-26,2024-02-22,Consumables,Delivered,438,21.11,20.45,55,Compliant
+PO-01319,GammaTrade,2022-01-15,2022-01-25,Consumables,Delivered,216,18.05,15.98,1,Compliant
+PO-01320,GammaTrade,2022-06-26,2022-08-04,Raw Materials,Delivered,151,124.54,115.83,4,Compliant
+PO-01321,AlphaSupplies,2022-10-08,2022-11-20,Electronics,Delivered,70,509.19,468.2,2,Compliant
+PO-01322,AlphaSupplies,2022-04-03,2022-05-17,Raw Materials,Delivered,54,122.35,116.67,1,Compliant
+PO-01323,AlphaSupplies,2023-10-16,2023-11-07,Packaging,Delivered,51,40.17,37.61,0,Compliant
+PO-01324,BetaCorp,2022-11-14,2022-12-08,Packaging,Delivered,371,37.42,36.12,7,Compliant
+PO-01325,BetaCorp,2024-06-23,2024-07-28,Electronics,Delivered,161,580.79,552.97,5,Compliant
+PO-01326,GammaTrade,2023-04-06,2023-04-15,Consumables,Delivered,361,19.83,17.75,27,Compliant
+PO-01327,EpsilonMfg,2023-12-21,2024-01-15,Packaging,Delivered,340,40.73,37.92,1,Compliant
+PO-01328,GammaTrade,2023-06-10,2023-07-03,Raw Materials,Delivered,142,134.05,120.7,0,Compliant
+PO-01329,BetaCorp,2022-05-24,2022-06-24,Machinery,Delivered,175,2267.34,2103.86,16,Non-Compliant
+PO-01330,AlphaSupplies,2024-06-09,2024-07-07,Electronics,Delivered,91,579.08,514.74,1,Compliant
+PO-01331,GammaTrade,2022-06-16,2022-07-21,Electronics,Delivered,105,497.1,461.31,6,Compliant
+PO-01332,DeltaWorks,2023-04-30,,Machinery,Cancelled,139,2436.37,2180.31,20,Compliant
+PO-01333,DeltaWorks,2022-02-11,2022-03-22,Electronics,Delivered,459,484.17,427.33,11,Compliant
+PO-01334,EpsilonMfg,2023-08-31,2023-09-26,Machinery,Delivered,272,2500.38,2418.87,4,Compliant
+PO-01335,BetaCorp,2024-02-09,2024-02-19,Consumables,Delivered,349,21.17,20.27,47,Compliant
+PO-01336,GammaTrade,2023-02-10,2023-03-01,Machinery,Delivered,10,2396.12,2288.53,0,Compliant
+PO-01337,BetaCorp,2023-03-24,2023-05-05,Packaging,Delivered,135,38.46,36.99,15,Compliant
+PO-01338,GammaTrade,2023-04-28,2023-06-04,Raw Materials,Delivered,211,132.84,122.28,11,Compliant
+PO-01339,AlphaSupplies,2022-05-12,2022-06-08,Machinery,Delivered,488,2261.61,2128.85,17,Compliant
+PO-01340,DeltaWorks,2023-02-08,2023-03-24,Consumables,Delivered,187,19.6,18.07,1,Non-Compliant
+PO-01341,BetaCorp,2023-01-06,2023-02-20,Electronics,Delivered,431,518.95,487.5,45,Non-Compliant
+PO-01342,BetaCorp,2022-07-12,2022-08-09,Machinery,Delivered,164,2290.89,2213.0,8,Compliant
+PO-01343,GammaTrade,2023-11-23,2023-12-26,Machinery,Delivered,27,2545.07,2280.64,0,Compliant
+PO-01344,AlphaSupplies,2024-04-05,2024-05-07,Machinery,Delivered,361,2618.0,2520.09,11,Compliant
+PO-01345,EpsilonMfg,2023-01-29,2023-03-02,Consumables,Delivered,15,19.56,17.76,0,Compliant
+PO-01346,AlphaSupplies,2024-04-06,2024-05-13,Consumables,Delivered,240,21.42,19.23,6,Compliant
+PO-01347,AlphaSupplies,2023-03-11,2023-03-23,Packaging,Delivered,206,38.35,35.36,1,Compliant
+PO-01348,EpsilonMfg,2022-07-22,2022-08-27,Electronics,Delivered,324,500.89,462.67,2,Compliant
+PO-01349,DeltaWorks,2023-01-11,2023-02-16,Machinery,Partial,316,2381.02,2298.87,32,Non-Compliant
+PO-01350,AlphaSupplies,2022-10-01,2022-11-05,Consumables,Delivered,192,19.07,18.19,2,Compliant
+PO-01351,GammaTrade,2023-06-29,2023-08-09,Raw Materials,Delivered,137,134.58,121.59,1,Compliant
+PO-01352,DeltaWorks,2022-12-20,2023-02-11,Electronics,Partial,362,517.09,456.33,49,Compliant
+PO-01353,GammaTrade,2022-02-09,2022-02-22,Electronics,Delivered,380,483.96,463.05,11,Non-Compliant
+PO-01354,GammaTrade,2023-02-15,2023-02-27,Machinery,Delivered,496,2398.65,2321.89,33,Compliant
+PO-01355,BetaCorp,2022-09-25,2022-10-17,Consumables,Delivered,325,19.04,16.76,31,Compliant
+PO-01356,BetaCorp,2022-10-09,2022-11-17,Machinery,Delivered,408,2334.29,2107.4,38,Compliant
+PO-01357,GammaTrade,2022-01-06,2022-01-21,Electronics,Delivered,19,480.51,448.51,0,Compliant
+PO-01358,GammaTrade,2022-08-15,2022-08-26,Raw Materials,Delivered,373,125.86,119.54,18,Compliant
+PO-01359,DeltaWorks,2023-03-07,2023-04-13,Consumables,Delivered,178,19.71,17.99,39,Compliant
+PO-01360,GammaTrade,2022-06-05,2022-07-16,Machinery,Delivered,390,2273.09,2110.34,21,Compliant
+PO-01361,AlphaSupplies,2022-03-22,2022-04-16,Consumables,Partial,297,18.31,16.72,2,Non-Compliant
+PO-01362,GammaTrade,2022-10-26,2022-11-03,Electronics,Delivered,241,511.13,461.24,3,Compliant
+PO-01363,EpsilonMfg,2023-03-02,2023-03-27,Machinery,Delivered,21,2406.25,2118.46,0,Compliant
+PO-01364,EpsilonMfg,2023-01-23,2023-02-24,Packaging,Delivered,445,37.98,34.77,1,Non-Compliant
+PO-01365,BetaCorp,2024-02-25,,Packaging,Pending,386,41.3,37.17,29,Compliant
+PO-01366,BetaCorp,2023-09-06,2023-09-19,Machinery,Delivered,404,2503.55,2365.6,37,Compliant
+PO-01367,GammaTrade,2023-07-03,2023-08-23,Consumables,Partial,125,20.2,18.63,7,Compliant
+PO-01368,DeltaWorks,2024-06-13,2024-07-11,Packaging,Delivered,157,42.26,40.32,28,Non-Compliant
+PO-01369,AlphaSupplies,2023-08-18,2023-08-26,Machinery,Delivered,224,2493.54,2272.11,5,Compliant
+PO-01370,AlphaSupplies,2023-08-08,2023-08-30,Consumables,Delivered,494,20.36,18.41,3,Compliant
+PO-01371,GammaTrade,2024-01-31,2024-03-13,Raw Materials,Delivered,414,140.86,129.01,16,Compliant
+PO-01372,DeltaWorks,2024-01-11,2024-01-30,Electronics,Delivered,99,561.05,500.06,7,Compliant
+PO-01373,BetaCorp,2023-04-18,2023-05-10,Consumables,Delivered,360,19.88,18.46,40,Non-Compliant
+PO-01374,AlphaSupplies,2024-05-07,2024-06-11,Consumables,Partial,481,21.57,20.28,8,Non-Compliant
+PO-01375,AlphaSupplies,2023-11-30,2024-01-06,Raw Materials,Delivered,453,139.03,126.39,15,Compliant
+PO-01376,GammaTrade,2022-05-04,2022-06-14,Consumables,Delivered,320,18.47,16.73,18,Compliant
+PO-01377,AlphaSupplies,2024-04-11,2024-04-20,Electronics,Delivered,431,571.92,534.23,6,Compliant
+PO-01378,DeltaWorks,2024-03-17,,Machinery,Pending,84,2607.53,2500.1,15,Compliant
+PO-01379,AlphaSupplies,2023-01-11,2023-02-02,Packaging,Delivered,183,37.88,35.33,5,Compliant
+PO-01380,AlphaSupplies,2023-12-28,2024-01-25,Machinery,Delivered,135,2563.92,2373.68,1,Compliant
+PO-01381,GammaTrade,2022-10-09,2022-11-18,Consumables,Delivered,399,19.1,17.51,9,Compliant
+PO-01382,GammaTrade,2022-11-11,2022-12-07,Electronics,Delivered,91,512.86,453.88,3,Compliant
+PO-01383,BetaCorp,2023-09-15,2023-10-06,Packaging,Delivered,206,39.9,37.65,0,Compliant
+PO-01384,EpsilonMfg,2022-09-23,2022-11-02,Raw Materials,Delivered,270,126.9,118.93,2,Compliant
+PO-01385,GammaTrade,2023-08-25,2023-09-25,Packaging,Delivered,170,39.73,35.49,11,Compliant
+PO-01386,EpsilonMfg,2022-06-29,2022-07-10,Machinery,Delivered,204,2284.62,2116.47,1,Compliant
+PO-01387,GammaTrade,2024-03-07,2024-04-05,Consumables,Delivered,71,21.29,19.25,2,Compliant
+PO-01388,AlphaSupplies,2022-08-22,2022-09-23,Consumables,Delivered,196,18.91,17.08,4,Non-Compliant
+PO-01389,GammaTrade,2023-07-02,2023-07-25,Consumables,Partial,285,20.2,18.05,10,Compliant
+PO-01390,BetaCorp,2024-03-27,,Electronics,Pending,363,570.12,515.1,43,Compliant
+PO-01391,DeltaWorks,2022-02-11,2022-02-23,Packaging,Delivered,146,35.3,31.13,26,Non-Compliant
+PO-01392,BetaCorp,2022-11-07,2022-12-21,Consumables,Delivered,126,19.22,18.54,8,Compliant
+PO-01393,AlphaSupplies,2024-03-19,2024-04-23,Electronics,Delivered,110,569.16,519.59,0,Compliant
+PO-01394,BetaCorp,2023-05-14,2023-05-28,Consumables,Delivered,14,19.99,18.85,1,Compliant
+PO-01395,EpsilonMfg,2024-02-13,2024-03-17,Consumables,Delivered,10,21.19,19.68,0,Compliant
+PO-01396,EpsilonMfg,2023-06-11,2023-07-22,Machinery,Delivered,340,2458.04,2321.62,1,Compliant
+PO-01397,GammaTrade,2022-04-25,2022-05-02,Machinery,Delivered,494,2253.52,1987.6,12,Non-Compliant
+PO-01398,BetaCorp,2022-03-09,2022-04-13,Packaging,Delivered,354,35.5,32.01,16,Compliant
+PO-01399,BetaCorp,2024-02-21,2024-03-19,Raw Materials,Delivered,167,141.48,134.28,17,Compliant
+PO-01400,EpsilonMfg,2023-08-08,2023-09-09,Packaging,Delivered,175,39.59,36.01,2,Compliant
+PO-01401,BetaCorp,2023-06-13,2023-07-16,Electronics,Delivered,344,536.53,473.06,37,Compliant
+PO-01402,DeltaWorks,2023-01-15,,Electronics,Cancelled,180,519.93,497.57,35,Compliant
+PO-01403,GammaTrade,2023-07-31,2023-09-01,Machinery,Delivered,223,2484.09,2321.63,0,Compliant
+PO-01404,BetaCorp,2024-02-25,2024-03-16,Machinery,Delivered,429,2596.01,2454.01,39,Compliant
+PO-01405,AlphaSupplies,2023-03-14,2023-04-02,Electronics,Delivered,176,526.33,473.07,5,Compliant
+PO-01406,GammaTrade,2022-03-18,2022-05-01,Raw Materials,Delivered,176,121.94,115.61,6,Non-Compliant
+PO-01407,DeltaWorks,2022-09-13,2022-09-23,Machinery,Delivered,320,2321.53,2193.38,7,Compliant
+PO-01408,GammaTrade,2022-10-19,2022-11-12,Machinery,Partial,78,2339.21,2245.64,2,Compliant
+PO-01409,DeltaWorks,2024-06-13,2024-07-25,Packaging,Delivered,163,42.26,40.42,3,Compliant
+PO-01410,GammaTrade,2023-06-28,2023-07-09,Consumables,Delivered,363,20.18,18.09,25,Compliant
+PO-01411,GammaTrade,2024-02-05,2024-02-26,Machinery,Delivered,104,2585.09,2301.76,3,Compliant
+PO-01412,GammaTrade,2023-09-11,2023-10-14,Electronics,Delivered,21,546.81,493.61,0,Compliant
+PO-01413,EpsilonMfg,2023-06-09,2023-06-18,Raw Materials,Delivered,299,134.02,125.5,5,Compliant
+PO-01414,EpsilonMfg,2022-10-17,2022-10-28,Machinery,Delivered,334,2338.23,2147.2,3,Compliant
+PO-01415,EpsilonMfg,2024-03-28,2024-05-03,Packaging,Delivered,445,41.58,38.41,5,Non-Compliant
+PO-01416,DeltaWorks,2023-04-22,,Electronics,Pending,460,530.68,493.21,16,Compliant
+PO-01417,BetaCorp,2022-12-14,2023-01-17,Consumables,Delivered,409,19.37,18.0,50,Compliant
+PO-01418,EpsilonMfg,2022-01-20,2022-02-12,Machinery,Delivered,175,2208.83,2140.8,2,Compliant
+PO-01419,EpsilonMfg,2023-11-01,2023-11-30,Machinery,Delivered,404,2533.29,2305.55,7,Compliant
+PO-01420,BetaCorp,2022-07-31,2022-09-14,Packaging,Delivered,61,36.59,34.48,8,Compliant
+PO-01421,GammaTrade,2022-12-02,2022-12-22,Raw Materials,Delivered,485,128.78,114.82,7,Compliant
+PO-01422,BetaCorp,2024-03-01,,Packaging,Cancelled,80,41.34,38.78,10,Compliant
+PO-01423,DeltaWorks,2023-03-31,,Raw Materials,Cancelled,447,132.06,117.78,40,Compliant
+PO-01424,DeltaWorks,2022-07-30,,Packaging,Pending,312,36.58,32.94,6,Compliant
+PO-01425,EpsilonMfg,2022-05-05,2022-06-12,Consumables,Delivered,117,18.48,17.65,1,Compliant
+PO-01426,DeltaWorks,2022-08-04,2022-09-10,Packaging,Delivered,419,36.62,32.27,25,Compliant
+PO-01427,AlphaSupplies,2024-04-02,2024-05-02,Machinery,Delivered,449,2616.34,2438.95,16,Compliant
+PO-01428,GammaTrade,2023-12-20,2024-01-26,Packaging,Delivered,339,40.72,39.19,0,Non-Compliant
+PO-01429,GammaTrade,2022-05-25,2022-06-09,Raw Materials,Delivered,100,123.7,110.55,4,Compliant
+PO-01430,AlphaSupplies,2023-09-03,2023-09-28,Raw Materials,Delivered,453,136.47,122.52,6,Compliant
+PO-01431,BetaCorp,2023-06-16,2023-07-17,Packaging,Partial,389,39.15,34.57,19,Non-Compliant
+PO-01432,BetaCorp,2023-05-25,,Raw Materials,Delivered,216,133.6,127.13,18,Compliant
+PO-01433,AlphaSupplies,2022-02-05,2022-02-27,Machinery,Partial,83,2216.3,2003.31,1,Compliant
+PO-01434,EpsilonMfg,2022-06-11,2022-06-23,Packaging,Delivered,188,36.21,34.8,1,Compliant
+PO-01435,DeltaWorks,2024-05-26,2024-07-10,Machinery,Delivered,235,2646.3,2353.09,45,Compliant
+PO-01436,GammaTrade,2022-11-27,,Packaging,Cancelled,197,37.52,34.18,10,Compliant
+PO-01437,DeltaWorks,2022-07-20,2022-08-05,Consumables,Delivered,273,18.78,18.0,14,Compliant
+PO-01438,DeltaWorks,2024-06-27,2024-07-15,Electronics,Delivered,137,581.28,531.64,24,Compliant
+PO-01439,DeltaWorks,2023-06-17,2023-07-02,Consumables,Delivered,462,20.14,18.6,36,Compliant
+PO-01440,AlphaSupplies,2023-10-10,2023-10-30,Machinery,Partial,111,2521.56,2435.07,0,Compliant
+PO-01441,BetaCorp,2023-02-11,2023-03-12,Packaging,Delivered,302,38.13,35.88,7,Non-Compliant
+PO-01442,DeltaWorks,2022-08-08,2022-08-22,Machinery,Delivered,144,2303.97,2140.85,25,Non-Compliant
+PO-01443,GammaTrade,2022-07-10,2022-09-03,Electronics,Partial,423,499.62,473.14,15,Compliant
+PO-01444,GammaTrade,2022-09-27,2022-10-05,Consumables,Delivered,197,19.05,18.37,15,Compliant
+PO-01445,DeltaWorks,2022-05-04,2022-06-02,Raw Materials,Delivered,161,123.15,113.36,11,Compliant
+PO-01446,AlphaSupplies,2022-07-06,2022-08-14,Consumables,Delivered,491,18.72,17.49,3,Compliant
+PO-01447,AlphaSupplies,2024-01-22,2024-02-07,Packaging,Delivered,279,41.01,37.03,6,Compliant
+PO-01448,EpsilonMfg,2023-07-07,2023-08-06,Electronics,Partial,494,539.25,511.91,3,Compliant
+PO-01449,BetaCorp,2022-08-20,2022-09-30,Consumables,Delivered,394,18.9,16.9,51,Compliant
+PO-01450,GammaTrade,2023-02-15,2023-03-20,Raw Materials,Delivered,471,130.84,123.42,33,Compliant
+PO-01451,GammaTrade,2022-03-18,2022-04-07,Raw Materials,Delivered,294,121.94,115.53,21,Compliant
+PO-01452,AlphaSupplies,2022-05-24,2022-06-15,Machinery,Delivered,431,2267.34,2170.07,6,Compliant
+PO-01453,EpsilonMfg,2022-09-12,2022-10-06,Packaging,Delivered,46,36.93,33.05,0,Compliant
+PO-01454,EpsilonMfg,2022-07-30,2022-08-26,Packaging,Delivered,354,36.58,34.02,0,Compliant
+PO-01455,AlphaSupplies,2023-04-28,2023-05-12,Consumables,Delivered,234,19.93,18.92,5,Compliant
+PO-01456,GammaTrade,2022-02-11,2022-03-19,Electronics,Delivered,466,484.17,453.04,15,Compliant
+PO-01457,DeltaWorks,2022-08-19,,Electronics,Pending,55,503.85,465.0,7,Compliant
+PO-01458,GammaTrade,2024-06-09,2024-07-13,Packaging,Delivered,263,42.22,37.72,8,Compliant
+PO-01459,GammaTrade,2022-09-15,2022-10-08,Electronics,Delivered,178,506.73,462.34,13,Compliant
+PO-01460,DeltaWorks,2023-08-23,2023-09-16,Packaging,Delivered,312,39.71,36.75,7,Non-Compliant
+PO-01461,EpsilonMfg,2024-05-07,2024-06-07,Consumables,Delivered,320,21.57,19.82,0,Compliant
+PO-01462,AlphaSupplies,2022-04-08,2022-05-22,Consumables,Delivered,401,18.37,17.62,10,Compliant
+PO-01463,DeltaWorks,2022-12-22,,Raw Materials,Pending,235,129.33,117.92,32,Compliant
+PO-01464,DeltaWorks,2023-11-17,2023-11-25,Machinery,Delivered,120,2541.85,2257.93,18,Compliant
+PO-01465,DeltaWorks,2024-01-17,2024-02-15,Raw Materials,Delivered,466,140.44,130.45,39,Non-Compliant
+PO-01466,AlphaSupplies,2023-04-15,2023-05-02,Electronics,Delivered,335,529.89,480.66,2,Compliant
+PO-01467,GammaTrade,2024-02-11,2024-03-20,Machinery,Delivered,427,2588.36,2429.43,29,Compliant
+PO-01468,BetaCorp,2024-04-28,2024-05-30,Electronics,Delivered,478,573.98,540.98,20,Compliant
+PO-01469,DeltaWorks,2022-09-29,2022-11-03,Packaging,Delivered,258,37.06,33.09,55,Non-Compliant
+PO-01470,GammaTrade,2022-04-25,2022-06-19,Raw Materials,Partial,168,122.92,117.13,3,Compliant
+PO-01471,BetaCorp,2023-09-26,2023-11-10,Machinery,Delivered,111,2514.13,2281.32,14,Compliant
+PO-01472,BetaCorp,2023-06-30,,Electronics,Pending,78,538.45,505.17,1,Non-Compliant
+PO-01473,GammaTrade,2023-08-07,,Consumables,Cancelled,175,20.35,17.96,6,Compliant
+PO-01474,EpsilonMfg,2023-11-15,2023-12-06,Packaging,Delivered,23,40.42,35.6,0,Compliant
+PO-01475,BetaCorp,2022-01-13,,Packaging,Cancelled,20,35.09,33.1,1,Compliant
+PO-01476,EpsilonMfg,2023-08-05,2023-09-18,Consumables,Delivered,105,20.35,19.39,0,Compliant
+PO-01477,DeltaWorks,2023-12-25,,Electronics,Pending,196,559.05,502.19,12,Compliant
+PO-01478,BetaCorp,2023-07-08,2023-08-04,Electronics,Delivered,500,539.36,505.87,60,Non-Compliant
+PO-01479,EpsilonMfg,2022-05-12,2022-06-20,Consumables,Delivered,479,18.5,17.78,6,Compliant
+PO-01480,EpsilonMfg,2024-01-08,2024-02-19,Packaging,Delivered,369,40.88,38.37,6,Compliant
+PO-01481,AlphaSupplies,2023-09-26,2023-10-13,Machinery,Delivered,312,2514.13,2339.65,0,Compliant
+PO-01482,GammaTrade,2024-06-07,2024-06-18,Machinery,Delivered,42,2653.01,2404.69,3,Compliant
+PO-01483,AlphaSupplies,2023-05-18,2023-07-02,Consumables,Partial,401,20.01,18.63,3,Compliant
+PO-01484,EpsilonMfg,2022-12-05,2023-01-07,Electronics,Delivered,418,515.46,489.22,1,Compliant
+PO-01485,GammaTrade,2023-09-17,2023-10-01,Raw Materials,Delivered,396,136.87,132.11,24,Compliant
+PO-01486,DeltaWorks,2024-01-21,,Packaging,Pending,317,41.0,39.05,75,Non-Compliant
+PO-01487,AlphaSupplies,2024-01-17,2024-02-18,Machinery,Delivered,55,2574.75,2469.7,1,Compliant
+PO-01488,DeltaWorks,2023-12-15,2023-12-28,Machinery,Delivered,443,2556.9,2371.01,33,Compliant
+PO-01489,GammaTrade,2022-04-03,2022-05-02,Machinery,Delivered,215,2243.09,2138.56,16,Compliant
+PO-01490,AlphaSupplies,2022-09-21,2022-11-02,Consumables,Delivered,320,19.03,18.42,0,Compliant
+PO-01491,EpsilonMfg,2022-01-05,2022-02-17,Raw Materials,Delivered,166,120.1,112.97,1,Compliant
+PO-01492,BetaCorp,2023-05-26,,Consumables,Pending,121,20.04,19.11,1,Compliant
+PO-01493,BetaCorp,2023-01-19,2023-02-06,Consumables,Delivered,466,19.51,17.92,33,Non-Compliant
+PO-01494,EpsilonMfg,2023-07-05,2023-07-31,Raw Materials,Delivered,416,134.76,119.95,7,Compliant
+PO-01495,EpsilonMfg,2022-06-21,2022-07-07,Consumables,Delivered,264,18.66,16.59,5,Compliant
+PO-01496,EpsilonMfg,2024-03-13,2024-03-24,Machinery,Delivered,69,2605.33,2422.18,0,Compliant
+PO-01497,DeltaWorks,2024-03-24,2024-04-30,Packaging,Delivered,193,41.54,38.78,37,Non-Compliant
+PO-01498,EpsilonMfg,2024-05-18,2024-06-27,Raw Materials,Delivered,349,144.1,133.03,3,Compliant
+PO-01499,EpsilonMfg,2022-10-17,2022-11-11,Packaging,Delivered,239,37.2,35.01,4,Compliant
+PO-01500,AlphaSupplies,2022-01-25,2022-02-25,Machinery,Delivered,174,2211.16,2047.09,2,Non-Compliant
+PO-01501,AlphaSupplies,2024-05-01,2024-06-14,Consumables,Delivered,494,21.54,20.81,14,Compliant
+PO-01502,GammaTrade,2023-07-02,2023-07-31,Raw Materials,Delivered,165,134.67,130.29,12,Compliant
+PO-01503,DeltaWorks,2023-06-21,2023-06-30,Consumables,Delivered,270,20.15,18.01,59,Compliant
+PO-01504,BetaCorp,2022-03-16,2022-03-23,Electronics,Delivered,263,487.55,441.57,1,Compliant
+PO-01505,AlphaSupplies,2022-01-05,2022-02-02,Electronics,Delivered,347,480.41,426.89,13,Non-Compliant
+PO-01506,GammaTrade,2022-02-15,2022-03-10,Machinery,Delivered,316,2220.97,2123.25,22,Compliant
+PO-01507,GammaTrade,2024-06-18,2024-06-25,Packaging,Delivered,477,42.3,38.54,15,Compliant
+PO-01508,BetaCorp,2022-09-17,2022-09-26,Machinery,Delivered,330,2323.48,2128.31,32,Compliant
+PO-01509,BetaCorp,2023-10-15,,Raw Materials,Pending,91,137.68,132.13,6,Compliant
+PO-01510,GammaTrade,2024-01-28,2024-02-29,Packaging,Delivered,358,41.06,38.88,8,Compliant
+PO-01511,GammaTrade,2024-02-19,2024-03-22,Raw Materials,Partial,431,141.42,135.66,32,Compliant
+PO-01512,DeltaWorks,2022-05-11,2022-05-24,Packaging,Delivered,28,35.97,33.21,0,Compliant
+PO-01513,AlphaSupplies,2022-09-05,2022-09-21,Raw Materials,Delivered,199,126.42,117.67,3,Compliant
+PO-01514,EpsilonMfg,2024-02-26,2024-03-04,Packaging,Delivered,172,41.31,39.29,3,Compliant
+PO-01515,BetaCorp,2023-04-19,2023-05-20,Electronics,Delivered,339,530.34,504.83,7,Compliant
+PO-01516,BetaCorp,2022-12-10,2023-01-14,Packaging,Delivered,234,37.63,34.27,2,Compliant
+PO-01517,EpsilonMfg,2022-05-27,2022-06-07,Packaging,Delivered,172,36.09,33.23,1,Compliant
+PO-01518,BetaCorp,2023-01-15,2023-02-05,Electronics,Delivered,471,519.93,502.51,0,Compliant
+PO-01519,DeltaWorks,2022-05-03,2022-06-28,Consumables,Partial,400,18.47,16.49,52,Compliant
+PO-01520,DeltaWorks,2023-10-23,2023-12-10,Consumables,Partial,361,20.69,19.35,78,Compliant
+PO-01521,DeltaWorks,2022-09-14,2022-09-30,Consumables,Delivered,335,19.0,17.84,36,Non-Compliant
+PO-01522,GammaTrade,2023-02-02,2023-02-10,Packaging,Delivered,461,38.06,33.5,15,Compliant
+PO-01523,DeltaWorks,2024-05-22,2024-06-20,Consumables,Delivered,215,21.63,20.54,10,Compliant
+PO-01524,DeltaWorks,2023-03-31,2023-04-27,Machinery,Delivered,247,2421.01,2140.9,39,Compliant
+PO-01525,BetaCorp,2023-12-31,,Packaging,Pending,109,40.82,38.89,11,Compliant
+PO-01526,GammaTrade,2023-07-16,2023-08-11,Machinery,Delivered,415,2476.25,2209.81,7,Compliant
+PO-01527,DeltaWorks,2024-05-02,2024-05-25,Electronics,Partial,455,574.46,507.82,21,Compliant
+PO-01528,BetaCorp,2023-06-14,2023-07-04,Machinery,Delivered,492,2459.6,2290.13,26,Compliant
+PO-01529,EpsilonMfg,2023-10-19,2023-11-04,Packaging,Delivered,410,40.19,37.53,3,Compliant
+PO-01530,BetaCorp,2022-11-20,2022-11-29,Machinery,Delivered,400,2355.05,2155.11,37,Compliant
+PO-01531,AlphaSupplies,2022-12-06,2023-01-17,Raw Materials,Partial,170,128.89,115.14,1,Compliant
+PO-01532,BetaCorp,2024-05-10,,Electronics,Pending,329,575.43,554.77,26,Non-Compliant
+PO-01533,DeltaWorks,2023-12-22,2024-02-02,Electronics,Delivered,165,558.69,533.1,6,Non-Compliant
+PO-01534,AlphaSupplies,2023-09-26,2023-11-02,Consumables,Delivered,297,20.57,19.19,8,Compliant
+PO-01535,BetaCorp,2023-11-11,2023-11-20,Raw Materials,Delivered,475,138.47,122.53,9,Compliant
+PO-01536,BetaCorp,2023-08-24,2023-09-28,Raw Materials,Delivered,428,136.18,123.67,35,Compliant
+PO-01537,DeltaWorks,2022-12-19,,Consumables,Pending,53,19.39,17.26,0,Compliant
+PO-01538,GammaTrade,2022-06-03,2022-06-22,Machinery,Delivered,488,2272.13,2181.24,37,Compliant
+PO-01539,AlphaSupplies,2023-09-10,2023-10-24,Electronics,Delivered,263,546.69,481.91,4,Compliant
+PO-01540,BetaCorp,2022-10-14,,Consumables,Pending,472,19.12,16.86,32,Non-Compliant
+PO-01541,AlphaSupplies,2023-12-19,2024-01-29,Packaging,Partial,239,40.71,38.37,0,Compliant
+PO-01542,DeltaWorks,2022-12-07,,Raw Materials,Pending,76,128.92,118.66,16,Compliant
+PO-01543,EpsilonMfg,2022-11-06,2022-12-07,Raw Materials,Delivered,473,128.08,119.84,0,Compliant
+PO-01544,GammaTrade,2024-04-02,2024-04-30,Electronics,Delivered,411,570.84,527.4,4,Compliant
+PO-01545,BetaCorp,2022-10-16,2022-10-28,Machinery,Delivered,477,2337.74,2211.5,53,Non-Compliant
+PO-01546,AlphaSupplies,2024-04-10,2024-04-21,Raw Materials,Delivered,400,142.95,137.0,2,Compliant
+PO-01547,BetaCorp,2024-06-03,2024-07-01,Raw Materials,Delivered,380,144.59,139.27,46,Compliant
+PO-01548,DeltaWorks,2024-03-15,2024-03-30,Electronics,Delivered,323,568.68,517.61,15,Non-Compliant
+PO-01549,AlphaSupplies,2022-01-04,2022-01-14,Raw Materials,Delivered,361,120.08,111.79,10,Compliant
+PO-01550,BetaCorp,2024-04-17,2024-05-05,Machinery,Delivered,263,2624.63,2499.17,17,Compliant
+PO-01551,AlphaSupplies,2022-07-09,2022-07-28,Machinery,Delivered,50,2289.44,2116.13,0,Compliant
+PO-01552,BetaCorp,2023-12-21,2024-01-17,Raw Materials,Delivered,106,139.64,125.89,11,Compliant
+PO-01553,EpsilonMfg,2023-09-08,2023-10-12,Electronics,Delivered,337,546.46,509.79,1,Compliant
+PO-01554,AlphaSupplies,2022-10-16,2022-11-23,Electronics,Delivered,43,510.05,460.12,0,Compliant
+PO-01555,DeltaWorks,2023-11-22,2023-12-04,Raw Materials,Delivered,376,138.79,125.08,28,Non-Compliant
+PO-01556,EpsilonMfg,2023-08-06,2023-09-04,Raw Materials,Delivered,439,135.67,128.4,6,Compliant
+PO-01557,DeltaWorks,2023-07-14,2023-07-31,Electronics,Delivered,107,540.04,475.29,1,Compliant
+PO-01558,DeltaWorks,2024-03-26,2024-05-01,Electronics,Delivered,216,570.0,509.47,23,Compliant
+PO-01559,DeltaWorks,2024-06-13,2024-06-29,Raw Materials,Delivered,172,144.89,138.73,16,Compliant
+PO-01560,BetaCorp,2023-08-31,2023-10-02,Packaging,Delivered,121,39.78,35.2,8,Compliant
+PO-01561,DeltaWorks,2022-06-12,,Machinery,Pending,499,2276.45,2146.01,33,Compliant
+PO-01562,EpsilonMfg,2023-03-20,2023-03-30,Machinery,Delivered,446,2415.4,2248.25,3,Compliant
+PO-01563,DeltaWorks,2022-10-24,,Consumables,Pending,275,19.16,18.34,53,Compliant
+PO-01564,AlphaSupplies,2023-10-09,2023-11-12,Electronics,Delivered,332,550.04,525.67,8,Compliant
+PO-01565,GammaTrade,2024-04-06,2024-05-13,Electronics,Delivered,75,571.32,518.76,0,Compliant
+PO-01566,BetaCorp,2023-12-06,,Electronics,Pending,456,556.81,528.41,40,Non-Compliant
+PO-01567,DeltaWorks,2023-07-23,2023-08-11,Electronics,Delivered,416,541.07,508.23,90,Non-Compliant
+PO-01568,EpsilonMfg,2023-12-27,,Packaging,Delivered,131,40.78,37.38,1,Compliant
+PO-01569,EpsilonMfg,2023-01-29,2023-03-10,Raw Materials,Delivered,329,130.37,117.66,3,Compliant
+PO-01570,GammaTrade,2023-04-06,2023-04-30,Raw Materials,Delivered,108,132.22,123.61,6,Compliant
+PO-01571,DeltaWorks,2022-08-17,2022-09-23,Packaging,Delivered,177,36.72,33.53,23,Non-Compliant
+PO-01572,DeltaWorks,2023-09-12,,Electronics,Pending,112,546.92,487.03,17,Non-Compliant
+PO-01573,EpsilonMfg,2022-05-04,2022-05-23,Consumables,Delivered,41,18.47,17.42,0,Compliant
+PO-01574,DeltaWorks,2023-12-19,2024-01-08,Machinery,Delivered,15,2559.06,2293.69,0,Compliant
+PO-01575,DeltaWorks,2023-01-13,,Raw Materials,Pending,475,129.93,120.6,50,Compliant
+PO-01576,BetaCorp,2023-03-31,,Consumables,Pending,65,19.81,17.86,4,Compliant
+PO-01577,EpsilonMfg,2022-10-19,2022-10-27,Machinery,Delivered,75,2339.21,2234.65,0,Compliant
+PO-01578,GammaTrade,2022-11-19,2022-12-23,Packaging,Delivered,202,37.46,33.53,10,Compliant
+PO-01579,AlphaSupplies,2022-11-28,2023-01-06,Electronics,Delivered,301,514.7,473.06,0,Compliant
+PO-01580,AlphaSupplies,2022-05-24,2022-06-15,Raw Materials,Delivered,277,123.67,118.28,1,Compliant
+PO-01581,AlphaSupplies,2022-12-18,2022-12-28,Machinery,Delivered,262,2369.0,2137.79,5,Compliant
+PO-01582,BetaCorp,2024-04-22,2024-05-06,Consumables,Delivered,116,21.5,20.68,12,Non-Compliant
+PO-01583,AlphaSupplies,2022-01-25,2022-03-03,Consumables,Delivered,441,18.09,17.46,0,Compliant
+PO-01584,BetaCorp,2023-05-28,2023-07-12,Packaging,Partial,208,38.99,36.7,0,Compliant
+PO-01585,DeltaWorks,2023-11-17,2023-11-26,Raw Materials,Delivered,222,138.65,125.58,10,Compliant
+PO-01586,DeltaWorks,2022-12-24,,Raw Materials,Pending,307,129.38,117.32,37,Non-Compliant
+PO-01587,DeltaWorks,2022-06-05,2022-08-03,Packaging,Partial,478,36.16,33.33,32,Compliant
+PO-01588,EpsilonMfg,2022-06-13,2022-07-11,Machinery,Delivered,396,2276.93,2037.62,1,Compliant
+PO-01589,GammaTrade,2022-01-30,2022-03-03,Machinery,Delivered,343,2213.49,2058.32,5,Compliant
+PO-01590,AlphaSupplies,2022-07-24,2022-08-13,Packaging,Delivered,386,36.54,32.94,13,Compliant
+PO-01591,AlphaSupplies,2023-08-04,2023-09-12,Packaging,Delivered,441,39.55,35.2,0,Compliant
+PO-01592,GammaTrade,2023-05-27,2023-07-02,Packaging,Delivered,208,38.98,34.49,16,Compliant
+PO-01593,DeltaWorks,2023-07-29,,Machinery,Pending,417,2483.05,2275.22,85,Compliant
+PO-01594,EpsilonMfg,2024-06-24,2024-07-01,Raw Materials,Delivered,25,145.23,140.87,0,Compliant
+PO-01595,DeltaWorks,2022-06-13,2022-07-02,Consumables,Delivered,198,18.63,17.91,46,Non-Compliant
+PO-01596,GammaTrade,2023-11-01,2023-11-15,Machinery,Delivered,404,2533.29,2452.22,9,Compliant
+PO-01597,BetaCorp,2023-10-14,2023-12-03,Raw Materials,Partial,359,137.66,124.31,8,Compliant
+PO-01598,BetaCorp,2024-06-09,2024-07-03,Machinery,Delivered,365,2654.13,2362.71,1,Compliant
+PO-01599,BetaCorp,2022-03-08,2022-04-15,Packaging,Delivered,203,35.49,33.15,12,Compliant
+PO-01600,AlphaSupplies,2022-02-15,2022-03-12,Consumables,Delivered,404,18.17,16.55,11,Compliant
+PO-01601,GammaTrade,2022-08-29,2022-09-07,Packaging,Delivered,424,36.82,33.43,29,Compliant
+PO-01602,DeltaWorks,2024-01-03,2024-01-15,Packaging,Delivered,34,40.84,36.49,4,Compliant
+PO-01603,BetaCorp,2023-11-06,2023-11-22,Electronics,Delivered,381,553.3,491.77,17,Compliant
+PO-01604,EpsilonMfg,2023-01-17,2023-02-02,Machinery,Delivered,187,2384.03,2212.14,3,Compliant
+PO-01605,EpsilonMfg,2023-01-04,2023-01-19,Machinery,Delivered,54,2377.5,2100.52,0,Compliant
+PO-01606,EpsilonMfg,2024-06-30,2024-07-16,Packaging,Delivered,269,42.41,40.98,3,Compliant
+PO-01607,BetaCorp,2022-05-23,2022-06-24,Consumables,Delivered,415,18.55,16.36,4,Compliant
+PO-01608,EpsilonMfg,2022-02-12,2022-03-26,Consumables,Delivered,304,18.16,16.77,4,Compliant
+PO-01609,GammaTrade,2022-04-30,2022-06-11,Machinery,Delivered,438,2255.9,2122.13,32,Compliant
+PO-01610,BetaCorp,2022-12-26,2023-01-21,Consumables,Partial,362,19.42,17.53,11,Compliant
+PO-01611,BetaCorp,2024-01-04,,Packaging,Pending,416,40.85,39.62,46,Compliant
+PO-01612,AlphaSupplies,2022-09-05,2022-10-16,Electronics,Delivered,165,505.66,456.11,4,Non-Compliant
+PO-01613,AlphaSupplies,2022-10-30,2022-11-10,Raw Materials,Delivered,105,127.89,122.66,0,Compliant
+PO-01614,GammaTrade,2022-01-11,2022-02-10,Machinery,Delivered,163,2204.64,2000.05,2,Compliant
+PO-01615,DeltaWorks,2023-08-31,,Consumables,Pending,261,20.46,19.77,31,Compliant
+PO-01616,GammaTrade,2024-05-31,2024-06-13,Machinery,Delivered,395,2649.1,2379.42,13,Compliant
+PO-01617,DeltaWorks,2023-01-25,,Raw Materials,Pending,259,130.26,125.9,5,Compliant
+PO-01618,AlphaSupplies,2022-09-09,2022-09-22,Raw Materials,Delivered,376,126.52,114.48,6,Compliant
+PO-01619,DeltaWorks,2022-11-27,,Raw Materials,Cancelled,407,128.65,121.2,44,Compliant
+PO-01620,AlphaSupplies,2023-12-02,2023-12-10,Raw Materials,Delivered,451,139.09,133.3,16,Compliant
+PO-01621,DeltaWorks,2023-12-15,,Electronics,Pending,420,557.87,512.74,65,Compliant
+PO-01622,EpsilonMfg,2023-12-16,2024-01-10,Raw Materials,Delivered,99,139.5,128.83,1,Compliant
+PO-01623,DeltaWorks,2023-12-05,2024-01-11,Raw Materials,Delivered,438,139.17,133.06,51,Compliant
+PO-01624,BetaCorp,2022-02-14,2022-03-30,Machinery,Delivered,124,2220.51,2093.5,14,Compliant
+PO-01625,AlphaSupplies,2022-06-18,2022-08-15,Raw Materials,Partial,389,124.33,119.05,8,Compliant
+PO-01626,GammaTrade,2022-01-22,2022-03-04,Machinery,Delivered,469,2209.76,2002.48,3,Compliant
+PO-01627,EpsilonMfg,2022-03-10,2022-04-08,Machinery,Delivered,144,2231.77,2151.65,1,Compliant
+PO-01628,BetaCorp,2022-01-25,2022-02-13,Raw Materials,Delivered,302,120.61,115.23,18,Non-Compliant
+PO-01629,GammaTrade,2022-03-10,2022-04-12,Machinery,Delivered,346,2231.77,1969.76,3,Compliant
+PO-01630,GammaTrade,2024-02-04,2024-03-14,Packaging,Delivered,15,41.12,37.29,0,Compliant
+PO-01631,EpsilonMfg,2022-01-10,2022-02-01,Consumables,Delivered,425,18.03,17.0,7,Compliant
+PO-01632,DeltaWorks,2023-05-06,2023-06-16,Machinery,Delivered,98,2439.46,2319.19,20,Compliant
+PO-01633,EpsilonMfg,2024-05-31,2024-06-11,Packaging,Delivered,254,42.14,37.99,2,Compliant
+PO-01634,GammaTrade,2024-04-27,,Packaging,Delivered,40,41.84,39.6,2,Compliant
+PO-01635,GammaTrade,2023-04-06,2023-04-21,Machinery,Delivered,453,2424.07,2218.99,17,Non-Compliant
+PO-01636,DeltaWorks,2022-09-05,2022-09-16,Packaging,Delivered,157,36.87,33.78,16,Compliant
+PO-01637,AlphaSupplies,2024-03-02,2024-03-26,Packaging,Delivered,199,41.35,37.72,3,Compliant
+PO-01638,GammaTrade,2023-09-12,2023-11-01,Consumables,Partial,167,20.51,19.29,6,Compliant
+PO-01639,EpsilonMfg,2023-11-30,2023-12-15,Consumables,Delivered,348,20.85,19.09,3,Compliant
+PO-01640,GammaTrade,2023-06-14,2023-07-08,Consumables,Delivered,42,20.12,18.4,3,Compliant
+PO-01641,BetaCorp,2022-11-28,2022-12-24,Electronics,Delivered,299,514.7,457.26,8,Compliant
+PO-01642,GammaTrade,2023-09-05,2023-09-20,Electronics,Delivered,347,546.11,508.92,22,Compliant
+PO-01643,GammaTrade,2023-07-21,2023-08-30,Consumables,Delivered,418,20.28,19.09,5,Compliant
+PO-01644,BetaCorp,2023-09-05,2023-10-13,Packaging,Delivered,435,39.82,35.79,22,Compliant
+PO-01645,EpsilonMfg,2023-07-05,2023-07-28,Machinery,Delivered,140,2470.51,2320.55,0,Compliant
+PO-01646,DeltaWorks,2022-03-10,2022-04-17,Raw Materials,Delivered,488,121.73,116.01,53,Non-Compliant
+PO-01647,GammaTrade,2023-08-05,2023-09-08,Consumables,Delivered,146,20.35,18.97,7,Compliant
+PO-01648,DeltaWorks,2022-11-17,2022-11-27,Machinery,Delivered,102,2353.56,2257.53,1,Compliant
+PO-01649,EpsilonMfg,2022-05-11,2022-06-14,Electronics,Delivered,483,493.34,443.76,1,Compliant
+PO-01650,AlphaSupplies,2022-12-12,2023-01-15,Raw Materials,Delivered,378,129.05,113.84,3,Compliant
+PO-01651,GammaTrade,2022-12-29,2023-02-11,Consumables,Delivered,87,19.43,17.38,2,Compliant
+PO-01652,DeltaWorks,2023-07-09,2023-08-21,Packaging,Delivered,498,39.34,35.98,88,Non-Compliant
+PO-01653,DeltaWorks,2022-04-08,2022-05-14,Raw Materials,Delivered,218,122.48,116.09,31,Non-Compliant
+PO-01654,GammaTrade,2022-01-04,2022-02-18,Raw Materials,Delivered,167,120.08,113.9,11,Compliant
+PO-01655,AlphaSupplies,2023-12-31,,Machinery,Delivered,86,2565.54,2385.95,2,Compliant
+PO-01656,GammaTrade,2024-06-21,2024-07-31,Packaging,Delivered,233,42.33,38.49,6,Compliant
+PO-01657,DeltaWorks,2023-09-14,,Machinery,Cancelled,83,2507.78,2386.15,11,Non-Compliant
+PO-01658,DeltaWorks,2024-03-17,2024-04-18,Packaging,Delivered,121,41.48,38.73,7,Non-Compliant
+PO-01659,DeltaWorks,2024-06-17,2024-08-12,Consumables,Partial,22,21.75,20.18,1,Non-Compliant
+PO-01660,DeltaWorks,2023-02-03,2023-03-13,Raw Materials,Delivered,194,130.5,119.88,20,Compliant
+PO-01661,DeltaWorks,2022-12-23,,Electronics,Pending,197,517.42,491.24,12,Compliant
+PO-01662,BetaCorp,2023-10-23,2023-11-14,Consumables,Partial,281,20.69,19.11,38,Compliant
+PO-01663,BetaCorp,2023-12-26,2024-02-06,Raw Materials,Delivered,57,139.79,124.08,0,Compliant
+PO-01664,DeltaWorks,2022-10-28,2022-11-15,Packaging,Delivered,233,37.29,35.7,12,Compliant
+PO-01665,BetaCorp,2023-09-28,2023-10-29,Raw Materials,Partial,345,137.19,132.43,13,Compliant
+PO-01666,DeltaWorks,2022-08-30,2022-09-23,Packaging,Partial,110,36.82,35.66,1,Compliant
+PO-01667,BetaCorp,2022-05-08,2022-06-08,Consumables,Partial,293,18.49,16.64,6,Non-Compliant
+PO-01668,BetaCorp,2022-11-30,2022-12-08,Raw Materials,Delivered,402,128.73,114.96,28,Non-Compliant
+PO-01669,BetaCorp,2023-04-26,2023-06-10,Raw Materials,Delivered,77,132.78,126.94,8,Compliant
+PO-01670,BetaCorp,2022-06-29,2022-08-13,Machinery,Delivered,375,2284.62,2070.09,39,Compliant
+PO-01671,AlphaSupplies,2023-04-17,2023-05-19,Electronics,Delivered,260,530.12,488.98,5,Compliant
+PO-01672,DeltaWorks,2022-12-29,,Consumables,Cancelled,305,19.43,17.47,54,Non-Compliant
+PO-01673,EpsilonMfg,2022-06-20,2022-06-29,Machinery,Delivered,265,2280.29,2108.58,1,Compliant
+PO-01674,GammaTrade,2023-09-11,2023-10-11,Raw Materials,Delivered,205,136.7,121.47,0,Compliant
+PO-01675,BetaCorp,2024-03-04,2024-04-17,Machinery,Delivered,85,2600.39,2372.86,9,Compliant
+PO-01676,GammaTrade,2022-09-08,2022-10-13,Machinery,Delivered,471,2319.08,2219.82,9,Compliant
+PO-01677,GammaTrade,2023-04-20,2023-05-06,Packaging,Delivered,36,38.68,37.07,2,Non-Compliant
+PO-01678,AlphaSupplies,2023-04-22,2023-05-26,Electronics,Delivered,464,530.68,471.35,1,Compliant
+PO-01679,EpsilonMfg,2022-02-11,2022-02-22,Machinery,Delivered,454,2219.1,1965.9,3,Compliant
+PO-01680,BetaCorp,2022-04-14,2022-04-24,Raw Materials,Delivered,374,122.63,117.34,1,Compliant
+PO-01681,AlphaSupplies,2023-02-18,2023-03-17,Machinery,Delivered,323,2400.17,2255.92,3,Compliant
+PO-01682,AlphaSupplies,2024-02-16,2024-03-29,Machinery,Delivered,400,2591.09,2399.61,11,Compliant
+PO-01683,BetaCorp,2022-12-05,2022-12-29,Machinery,Delivered,235,2362.51,2151.07,4,Compliant
+PO-01684,EpsilonMfg,2022-10-10,2022-10-17,Machinery,Delivered,31,2334.78,2181.85,0,Compliant
+PO-01685,DeltaWorks,2023-03-14,,Packaging,Pending,140,38.38,35.34,7,Non-Compliant
+PO-01686,BetaCorp,2022-09-29,2022-11-04,Raw Materials,Delivered,412,127.06,114.93,52,Compliant
+PO-01687,AlphaSupplies,2023-11-17,2023-12-17,Raw Materials,Delivered,470,138.65,128.75,15,Non-Compliant
+PO-01688,EpsilonMfg,2024-06-29,2024-07-26,Consumables,Delivered,389,21.81,19.39,4,Compliant
+PO-01689,EpsilonMfg,2023-11-30,2023-12-22,Consumables,Delivered,314,20.85,19.7,1,Compliant
+PO-01690,GammaTrade,2022-11-04,,Consumables,Cancelled,380,19.2,17.76,1,Compliant
+PO-01691,GammaTrade,2024-04-23,2024-05-14,Raw Materials,Delivered,124,143.34,137.13,8,Compliant
+PO-01692,AlphaSupplies,2023-06-02,2023-07-15,Consumables,Delivered,390,20.07,18.81,5,Compliant
+PO-01693,DeltaWorks,2024-03-04,2024-04-05,Raw Materials,Delivered,465,141.84,133.57,90,Compliant
+PO-01694,AlphaSupplies,2023-01-15,2023-02-22,Electronics,Delivered,130,519.93,498.82,4,Compliant
+PO-01695,DeltaWorks,2022-10-21,2022-11-07,Packaging,Delivered,421,37.23,35.3,60,Compliant
+PO-01696,AlphaSupplies,2022-03-26,2022-04-29,Raw Materials,Delivered,14,122.14,109.72,0,Compliant
+PO-01697,BetaCorp,2022-01-03,2022-02-02,Raw Materials,Delivered,26,120.05,111.36,2,Non-Compliant
+PO-01698,EpsilonMfg,2022-02-11,2022-02-20,Raw Materials,Delivered,168,121.04,115.61,3,Compliant
+PO-01699,AlphaSupplies,2024-03-19,2024-04-26,Packaging,Delivered,210,41.5,39.62,0,Compliant
+PO-01700,EpsilonMfg,2024-05-01,2024-06-15,Raw Materials,Delivered,80,143.58,131.36,1,Compliant
+PO-01701,EpsilonMfg,2023-05-24,2023-06-25,Raw Materials,Delivered,362,133.57,122.27,6,Compliant
+PO-01702,DeltaWorks,2023-06-06,,Electronics,Cancelled,344,535.74,504.88,33,Non-Compliant
+PO-01703,BetaCorp,2023-11-14,2023-11-30,Electronics,Delivered,133,554.23,521.31,0,Compliant
+PO-01704,BetaCorp,2023-04-05,2023-05-03,Raw Materials,Delivered,380,132.19,126.73,36,Compliant
+PO-01705,DeltaWorks,2022-05-06,,Machinery,Pending,352,2258.76,2001.94,46,Compliant
+PO-01706,BetaCorp,2023-11-03,2023-12-02,Machinery,Delivered,90,2534.35,2450.72,0,Compliant
+PO-01707,GammaTrade,2022-07-11,2022-08-12,Machinery,Delivered,247,2290.41,2054.27,15,Compliant
+PO-01708,GammaTrade,2023-11-06,2023-11-24,Machinery,Delivered,478,2535.96,2388.11,0,Compliant
+PO-01709,DeltaWorks,2023-05-14,2023-05-29,Raw Materials,Delivered,181,133.29,118.79,10,Compliant
+PO-01710,BetaCorp,2023-03-04,,Packaging,Delivered,14,38.3,37.02,1,Compliant
+PO-01711,DeltaWorks,2022-07-26,2022-09-16,Consumables,Partial,180,18.8,17.88,11,Compliant
+PO-01712,EpsilonMfg,2023-09-20,2023-09-29,Consumables,Delivered,110,20.54,18.21,1,Compliant
+PO-01713,EpsilonMfg,2022-02-15,2022-02-26,Machinery,Delivered,19,2220.97,2097.48,0,Compliant
+PO-01714,EpsilonMfg,2022-08-25,2022-09-29,Consumables,Delivered,437,18.92,16.78,2,Compliant
+PO-01715,BetaCorp,2022-09-18,2022-09-27,Consumables,Delivered,12,19.01,17.76,0,Non-Compliant
+PO-01716,AlphaSupplies,2022-02-18,2022-03-31,Machinery,Delivered,420,2222.38,1963.92,13,Compliant
+PO-01717,EpsilonMfg,2024-02-27,2024-04-11,Electronics,Delivered,36,566.64,519.04,0,Compliant
+PO-01718,AlphaSupplies,2023-02-03,2023-02-22,Packaging,Delivered,178,38.06,35.0,0,Compliant
+PO-01719,BetaCorp,2022-01-22,2022-02-14,Machinery,Delivered,486,2209.76,2123.58,11,Compliant
+PO-01720,BetaCorp,2022-07-28,2022-08-22,Machinery,Delivered,195,2298.63,2078.88,8,Compliant
+PO-01721,AlphaSupplies,2022-06-09,2022-07-14,Raw Materials,Partial,446,124.09,110.61,1,Compliant
+PO-01722,GammaTrade,2022-04-27,2022-06-07,Packaging,Delivered,182,35.87,32.33,6,Compliant
+PO-01723,GammaTrade,2022-12-31,,Raw Materials,Delivered,190,129.57,116.48,8,Compliant
+PO-01724,EpsilonMfg,2022-03-06,2022-04-16,Raw Materials,Delivered,185,121.63,116.21,0,Non-Compliant
+PO-01725,GammaTrade,2022-12-15,2022-12-28,Raw Materials,Delivered,415,129.14,115.35,26,Compliant
+PO-01726,BetaCorp,2023-09-28,2023-10-09,Packaging,Delivered,406,40.01,36.51,55,Compliant
+PO-01727,DeltaWorks,2024-02-29,2024-04-01,Consumables,Partial,174,21.26,19.75,37,Compliant
+PO-01728,BetaCorp,2023-08-08,,Raw Materials,Pending,350,135.72,127.31,31,Compliant
+PO-01729,AlphaSupplies,2024-06-01,2024-07-16,Electronics,Delivered,78,578.11,536.66,1,Compliant
+PO-01730,DeltaWorks,2023-07-21,,Machinery,Pending,381,2478.86,2182.14,10,Non-Compliant
+PO-01731,GammaTrade,2022-11-16,2022-11-29,Packaging,Delivered,227,37.44,34.51,0,Compliant
+PO-01732,BetaCorp,2024-04-15,2024-05-18,Electronics,Delivered,88,572.41,535.66,12,Non-Compliant
+PO-01733,DeltaWorks,2024-01-27,2024-02-21,Electronics,Delivered,21,562.95,530.86,1,Non-Compliant
+PO-01734,EpsilonMfg,2023-09-06,2023-09-29,Consumables,Delivered,195,20.48,18.3,2,Compliant
+PO-01735,EpsilonMfg,2023-08-20,2023-09-15,Packaging,Delivered,128,39.69,35.64,2,Compliant
+PO-01736,AlphaSupplies,2023-08-15,2023-09-26,Consumables,Delivered,289,20.39,18.18,7,Compliant
+PO-01737,AlphaSupplies,2024-06-18,2024-06-28,Electronics,Delivered,346,580.18,540.84,1,Compliant
+PO-01738,AlphaSupplies,2023-05-04,2023-06-14,Raw Materials,Delivered,424,133.01,128.51,1,Compliant
+PO-01739,BetaCorp,2022-12-09,,Raw Materials,Pending,342,128.97,123.14,33,Compliant
+PO-01740,AlphaSupplies,2022-08-12,2022-09-20,Machinery,Delivered,74,2305.91,2085.47,0,Compliant
+PO-01741,GammaTrade,2024-03-24,2024-05-05,Consumables,Delivered,441,21.37,19.32,8,Compliant
+PO-01742,DeltaWorks,2024-04-24,2024-06-07,Packaging,Delivered,186,41.82,38.58,18,Compliant
+PO-01743,EpsilonMfg,2023-12-25,2024-01-01,Raw Materials,Delivered,341,139.76,130.28,6,Compliant
+PO-01744,GammaTrade,2023-08-14,2023-09-05,Packaging,Delivered,338,39.64,37.79,3,Compliant
+PO-01745,AlphaSupplies,2023-12-02,2023-12-16,Raw Materials,Delivered,121,139.09,129.98,2,Compliant
+PO-01746,AlphaSupplies,2022-04-20,2022-05-04,Machinery,Delivered,238,2251.15,2114.51,8,Compliant
+PO-01747,EpsilonMfg,2023-03-31,2023-04-20,Electronics,Delivered,449,528.22,480.84,3,Compliant
+PO-01748,BetaCorp,2023-05-16,2023-05-23,Machinery,Delivered,233,2444.6,2162.49,14,Compliant
+PO-01749,AlphaSupplies,2023-06-21,2023-07-16,Machinery,Delivered,221,2463.23,2325.29,1,Compliant
+PO-01750,AlphaSupplies,2024-03-15,2024-04-13,Machinery,Delivered,43,2606.43,2349.44,0,Compliant
+PO-01751,GammaTrade,2023-02-04,2023-02-19,Machinery,Delivered,255,2393.09,2263.15,0,Compliant
+PO-01752,BetaCorp,2023-06-06,2023-07-06,Consumables,Delivered,84,20.09,18.33,6,Compliant
+PO-01753,EpsilonMfg,2024-02-04,2024-02-17,Electronics,Delivered,42,563.9,526.51,0,Compliant
+PO-01754,EpsilonMfg,2023-08-12,2023-09-19,Consumables,Delivered,281,20.38,18.3,5,Compliant
+PO-01755,GammaTrade,2023-03-06,2023-03-24,Consumables,Delivered,10,19.7,18.1,0,Compliant
+PO-01756,GammaTrade,2023-08-24,2023-10-08,Electronics,Delivered,215,544.73,518.58,9,Compliant
+PO-01757,EpsilonMfg,2024-06-30,2024-07-29,Packaging,Delivered,33,42.41,40.2,0,Compliant
+PO-01758,BetaCorp,2023-07-30,2023-08-14,Machinery,Delivered,49,2483.57,2405.34,1,Non-Compliant
+PO-01759,DeltaWorks,2024-01-27,,Consumables,Pending,358,21.11,20.34,47,Non-Compliant
+PO-01760,BetaCorp,2022-08-12,2022-09-25,Packaging,Delivered,28,36.69,34.36,1,Non-Compliant
+PO-01761,DeltaWorks,2022-04-06,2022-05-01,Packaging,Partial,131,35.71,33.54,25,Non-Compliant
+PO-01762,EpsilonMfg,2022-02-15,2022-02-22,Packaging,Delivered,151,35.33,32.76,2,Compliant
+PO-01763,DeltaWorks,2022-04-13,2022-05-26,Electronics,Delivered,308,490.44,471.8,20,Compliant
+PO-01764,GammaTrade,2023-07-24,2023-09-05,Machinery,Delivered,23,2480.43,2250.74,0,Compliant
+PO-01765,BetaCorp,2024-01-26,2024-02-15,Packaging,Delivered,101,41.04,39.64,2,Compliant
+PO-01766,DeltaWorks,2023-09-26,,Packaging,Cancelled,70,40.0,38.32,12,Compliant
+PO-01767,GammaTrade,2022-06-07,2022-07-27,Machinery,Partial,436,2274.05,2065.06,13,Compliant
+PO-01768,AlphaSupplies,2022-06-29,2022-07-11,Consumables,Delivered,467,18.69,16.98,14,Compliant
+PO-01769,AlphaSupplies,2022-08-23,2022-10-02,Machinery,Delivered,95,2311.27,2096.32,2,Compliant
+PO-01770,EpsilonMfg,2022-12-04,2023-01-18,Consumables,Delivered,90,19.33,17.21,0,Compliant
+PO-01771,DeltaWorks,2023-09-18,2023-10-11,Packaging,Delivered,237,39.93,35.73,34,Non-Compliant
+PO-01772,AlphaSupplies,2023-02-20,2023-03-04,Packaging,Delivered,405,38.2,36.04,14,Compliant
+PO-01773,AlphaSupplies,2024-01-25,2024-03-07,Packaging,Delivered,496,41.03,37.21,9,Compliant
+PO-01774,BetaCorp,2023-06-15,2023-06-30,Raw Materials,Delivered,458,134.19,127.99,15,Compliant
+PO-01775,EpsilonMfg,2022-09-05,2022-10-16,Raw Materials,Delivered,52,126.42,116.5,0,Compliant
+PO-01776,BetaCorp,2023-03-14,2023-04-04,Raw Materials,Delivered,439,131.58,121.83,42,Compliant
+PO-01777,DeltaWorks,2023-03-09,2023-04-05,Raw Materials,Delivered,289,131.44,118.97,31,Non-Compliant
+PO-01778,GammaTrade,2022-02-03,2022-02-11,Raw Materials,Delivered,409,120.84,108.89,28,Compliant
+PO-01779,BetaCorp,2022-03-25,2022-04-07,Consumables,Delivered,107,18.32,17.63,6,Non-Compliant
+PO-01780,AlphaSupplies,2022-01-27,2022-02-10,Consumables,Delivered,190,18.1,16.39,6,Compliant
+PO-01781,GammaTrade,2022-06-13,2022-07-26,Electronics,Delivered,426,496.78,478.05,18,Compliant
+PO-01782,AlphaSupplies,2022-06-29,2022-07-08,Packaging,Delivered,157,36.35,32.56,1,Compliant
+PO-01783,DeltaWorks,2022-02-15,2022-03-22,Raw Materials,Partial,11,121.14,110.98,0,Compliant
+PO-01784,AlphaSupplies,2024-01-12,2024-02-12,Electronics,Delivered,281,561.17,518.3,6,Compliant
+PO-01785,GammaTrade,2022-08-22,2022-09-21,Consumables,Delivered,199,18.91,16.66,4,Compliant
+PO-01786,AlphaSupplies,2024-01-02,2024-01-22,Consumables,Delivered,250,21.0,20.3,2,Compliant
+PO-01787,DeltaWorks,2022-12-30,,Consumables,Pending,18,19.43,17.47,3,Non-Compliant
+PO-01788,EpsilonMfg,2022-05-09,2022-05-23,Packaging,Delivered,147,35.96,34.67,2,Compliant
+PO-01789,EpsilonMfg,2024-01-27,2024-02-14,Consumables,Delivered,330,21.11,20.47,3,Compliant
+PO-01790,BetaCorp,2022-07-18,2022-07-29,Consumables,Delivered,401,18.77,17.57,22,Compliant
+PO-01791,BetaCorp,2023-09-26,2023-11-08,Machinery,Delivered,381,2514.13,2285.34,34,Compliant
+PO-01792,GammaTrade,2022-01-22,2022-02-06,Packaging,Delivered,224,35.16,33.34,6,Compliant
+PO-01793,BetaCorp,2022-11-14,2022-11-23,Raw Materials,Delivered,138,128.29,113.34,15,Compliant
+PO-01794,DeltaWorks,2022-12-30,,Packaging,Pending,201,37.78,33.43,41,Compliant
+PO-01795,DeltaWorks,2024-01-09,2024-01-27,Packaging,Delivered,184,40.89,37.18,12,Non-Compliant
+PO-01796,AlphaSupplies,2023-04-27,2023-05-22,Raw Materials,Delivered,220,132.81,124.31,4,Non-Compliant
+PO-01797,AlphaSupplies,2024-01-19,2024-02-27,Packaging,Delivered,133,40.98,39.35,2,Compliant
+PO-01798,BetaCorp,2023-09-17,2023-10-15,Machinery,Delivered,41,2509.36,2246.13,0,Compliant
+PO-01799,GammaTrade,2022-07-29,,Packaging,Cancelled,116,36.58,32.46,7,Compliant
+PO-01800,EpsilonMfg,2023-08-25,2023-09-15,Electronics,Delivered,372,544.85,513.03,6,Compliant
+PO-01801,EpsilonMfg,2023-06-23,2023-08-03,Machinery,Delivered,459,2464.27,2286.84,0,Compliant
+PO-01802,AlphaSupplies,2023-05-20,2023-06-10,Packaging,Delivered,217,38.92,36.99,0,Compliant
+PO-01803,AlphaSupplies,2024-02-08,2024-03-06,Raw Materials,Delivered,268,141.09,129.08,10,Compliant
+PO-01804,DeltaWorks,2024-01-08,2024-01-26,Consumables,Delivered,466,21.03,18.76,23,Compliant
+PO-01805,EpsilonMfg,2022-12-09,2023-01-23,Raw Materials,Delivered,67,128.97,116.06,0,Compliant
+PO-01806,GammaTrade,2023-10-15,2023-11-29,Machinery,Delivered,145,2524.22,2288.71,1,Compliant
+PO-01807,AlphaSupplies,2023-11-28,2023-12-27,Consumables,Delivered,198,20.85,19.82,1,Compliant
+PO-01808,AlphaSupplies,2024-06-10,2024-06-23,Raw Materials,Delivered,405,144.8,133.61,8,Compliant
+PO-01809,DeltaWorks,2024-05-08,,Electronics,Pending,81,575.19,556.55,7,Compliant
+PO-01810,BetaCorp,2023-09-14,2023-10-19,Packaging,Delivered,85,39.9,36.54,3,Compliant
+PO-01811,GammaTrade,2023-12-14,2024-01-23,Raw Materials,Delivered,384,139.44,125.9,16,Non-Compliant
+PO-01812,GammaTrade,2024-03-07,2024-04-08,Raw Materials,Delivered,131,141.93,127.55,4,Non-Compliant
+PO-01813,EpsilonMfg,2022-04-30,2022-05-08,Raw Materials,Delivered,228,123.05,111.09,4,Compliant
+PO-01814,AlphaSupplies,2024-06-25,,Consumables,Delivered,209,21.79,20.74,0,Compliant
+PO-01815,BetaCorp,2022-03-16,2022-04-03,Machinery,Delivered,391,2234.6,2103.21,42,Compliant
+PO-01816,AlphaSupplies,2023-06-06,2023-07-14,Machinery,Delivered,233,2455.45,2260.24,5,Compliant
+PO-01817,BetaCorp,2022-08-04,2022-08-13,Consumables,Delivered,435,18.83,16.6,7,Compliant
+PO-01818,EpsilonMfg,2024-03-09,2024-04-20,Machinery,Delivered,162,2603.14,2479.49,2,Compliant
+PO-01819,BetaCorp,2023-10-23,2023-11-05,Packaging,Delivered,380,40.23,37.67,35,Compliant
+PO-01820,EpsilonMfg,2023-06-04,2023-06-15,Raw Materials,Delivered,299,133.88,125.43,4,Compliant
+PO-01821,AlphaSupplies,2022-09-19,2022-11-03,Machinery,Delivered,94,2324.46,2132.69,2,Compliant
+PO-01822,EpsilonMfg,2024-04-07,2024-05-19,Consumables,Delivered,409,21.43,20.06,5,Compliant
+PO-01823,DeltaWorks,2024-06-29,2024-07-29,Raw Materials,Delivered,84,145.38,134.19,11,Compliant
+PO-01824,BetaCorp,2023-08-02,2023-09-10,Electronics,Partial,20,542.21,520.9,1,Compliant
+PO-01825,BetaCorp,2024-06-30,2024-08-03,Packaging,Partial,104,42.41,40.41,4,Compliant
+PO-01826,DeltaWorks,2023-08-01,2023-08-09,Machinery,Delivered,490,2484.62,2284.86,116,Compliant
+PO-01827,AlphaSupplies,2024-02-22,2024-03-28,Machinery,Delivered,466,2594.37,2418.99,3,Compliant
+PO-01828,BetaCorp,2023-09-14,2023-10-14,Consumables,Delivered,353,20.52,19.5,32,Non-Compliant
+PO-01829,EpsilonMfg,2024-05-06,2024-06-04,Raw Materials,Delivered,155,143.74,128.83,2,Compliant
+PO-01830,BetaCorp,2023-09-17,2023-10-03,Consumables,Delivered,25,20.53,19.11,1,Compliant
+PO-01831,BetaCorp,2023-11-08,2023-12-21,Machinery,Delivered,411,2537.03,2400.28,21,Compliant
+PO-01832,BetaCorp,2023-07-30,2023-08-15,Raw Materials,Delivered,228,135.47,125.53,24,Non-Compliant
+PO-01833,GammaTrade,2022-09-15,2022-10-26,Raw Materials,Delivered,407,126.68,113.26,4,Compliant
+PO-01834,EpsilonMfg,2023-10-04,,Electronics,Delivered,447,549.46,488.52,4,Compliant
+PO-01835,EpsilonMfg,2023-09-07,2023-09-17,Machinery,Delivered,463,2504.08,2340.81,1,Compliant
+PO-01836,BetaCorp,2022-03-25,2022-04-02,Raw Materials,Delivered,426,122.12,111.12,2,Compliant
+PO-01837,EpsilonMfg,2022-03-24,2022-04-20,Electronics,Delivered,320,488.37,460.83,0,Compliant
+PO-01838,EpsilonMfg,2024-06-11,2024-06-27,Packaging,Delivered,236,42.24,38.76,0,Compliant
+PO-01839,GammaTrade,2023-05-23,2023-06-09,Raw Materials,Delivered,316,133.54,124.23,1,Non-Compliant
+PO-01840,DeltaWorks,2023-11-19,2023-12-31,Machinery,Delivered,80,2542.92,2436.88,15,Non-Compliant
+PO-01841,DeltaWorks,2022-02-18,2022-04-17,Machinery,Partial,299,2222.38,1959.25,4,Non-Compliant
+PO-01842,AlphaSupplies,2023-06-21,2023-07-10,Machinery,Delivered,144,2463.23,2239.82,1,Compliant
+PO-01843,BetaCorp,2023-01-02,2023-02-03,Electronics,Delivered,97,518.51,469.61,1,Compliant
+PO-01844,AlphaSupplies,2024-05-19,2024-06-01,Packaging,Delivered,474,42.04,37.01,1,Compliant
+PO-01845,BetaCorp,2022-09-01,2022-10-07,Machinery,Delivered,352,2315.66,2074.14,24,Compliant
+PO-01846,AlphaSupplies,2022-08-12,2022-09-06,Packaging,Delivered,466,36.69,34.11,5,Compliant
+PO-01847,BetaCorp,2022-11-27,2023-01-05,Consumables,Delivered,452,19.3,18.64,2,Non-Compliant
+PO-01848,GammaTrade,2022-08-31,2022-09-13,Raw Materials,Delivered,359,126.28,117.35,11,Compliant
+PO-01849,DeltaWorks,2023-11-15,2023-11-22,Machinery,Delivered,478,2540.78,2347.17,95,Compliant
+PO-01850,EpsilonMfg,2024-04-27,2024-06-06,Consumables,Delivered,331,21.52,20.52,6,Compliant
+PO-01851,GammaTrade,2024-03-14,2024-04-17,Machinery,Delivered,320,2605.88,2356.24,22,Compliant
+PO-01852,BetaCorp,2024-05-18,2024-06-14,Raw Materials,Delivered,288,144.1,133.09,16,Compliant
+PO-01853,DeltaWorks,2023-05-20,2023-06-23,Raw Materials,Delivered,311,133.45,120.01,30,Non-Compliant
+PO-01854,DeltaWorks,2023-02-17,2023-03-21,Raw Materials,Delivered,264,130.89,116.82,32,Non-Compliant
+PO-01855,AlphaSupplies,2024-02-22,2024-03-10,Electronics,Delivered,286,566.04,548.95,2,Compliant
+PO-01856,BetaCorp,2023-02-07,2023-03-07,Raw Materials,Delivered,347,130.62,118.72,26,Compliant
+PO-01857,GammaTrade,2023-08-07,2023-08-25,Machinery,Delivered,47,2487.76,2379.54,0,Compliant
+PO-01858,DeltaWorks,2024-02-13,2024-03-25,Machinery,Delivered,30,2589.45,2373.23,5,Compliant
+PO-01859,EpsilonMfg,2022-10-23,2022-11-09,Consumables,Delivered,454,19.16,17.23,1,Compliant
+PO-01860,AlphaSupplies,2023-12-10,2024-01-13,Consumables,Delivered,349,20.9,18.9,13,Compliant
+PO-01861,EpsilonMfg,2023-10-26,2023-12-04,Electronics,Delivered,461,552.02,529.0,5,Compliant
+PO-01862,GammaTrade,2023-10-04,,Machinery,Cancelled,244,2518.37,2319.17,14,Compliant
+PO-01863,DeltaWorks,2023-01-01,,Raw Materials,Pending,130,129.6,114.94,12,Compliant
+PO-01864,BetaCorp,2024-02-27,2024-04-02,Consumables,Delivered,105,21.25,18.75,4,Compliant
+PO-01865,AlphaSupplies,2023-05-22,2023-06-07,Machinery,Delivered,262,2447.7,2239.89,8,Compliant
+PO-01866,DeltaWorks,2024-05-07,2024-05-26,Packaging,Delivered,173,41.93,37.52,20,Non-Compliant
+PO-01867,EpsilonMfg,2023-11-29,2023-12-21,Electronics,Delivered,214,555.99,513.07,1,Compliant
+PO-01868,GammaTrade,2023-01-26,2023-03-10,Machinery,Delivered,179,2388.56,2160.45,0,Compliant
+PO-01869,EpsilonMfg,2024-03-08,2024-03-31,Packaging,Delivered,446,41.4,37.38,1,Compliant
+PO-01870,DeltaWorks,2022-05-24,2022-06-24,Packaging,Partial,427,36.07,33.84,65,Compliant
+PO-01871,BetaCorp,2024-01-28,2024-03-02,Consumables,Partial,147,21.12,19.39,17,Compliant
+PO-01872,EpsilonMfg,2022-12-15,2023-01-11,Raw Materials,Delivered,143,129.14,120.57,0,Compliant
+PO-01873,DeltaWorks,2022-12-18,2023-01-31,Packaging,Delivered,304,37.69,35.24,16,Non-Compliant
+PO-01874,EpsilonMfg,2022-04-15,,Electronics,Delivered,491,490.64,466.06,6,Compliant
+PO-01875,DeltaWorks,2022-09-27,,Consumables,Pending,496,19.05,16.84,38,Compliant
+PO-01876,DeltaWorks,2024-04-24,2024-05-08,Electronics,Delivered,13,573.49,542.75,2,Non-Compliant
+PO-01877,AlphaSupplies,2023-05-08,2023-06-17,Raw Materials,Delivered,94,133.12,121.95,3,Compliant
+PO-01878,AlphaSupplies,2024-05-08,2024-06-04,Raw Materials,Delivered,211,143.8,134.77,2,Compliant
+PO-01879,BetaCorp,2022-08-10,2022-08-30,Raw Materials,Delivered,197,125.72,113.7,22,Compliant
+PO-01880,EpsilonMfg,2022-09-01,2022-09-10,Raw Materials,Delivered,239,126.31,113.44,0,Compliant
+PO-01881,BetaCorp,2022-10-18,2022-11-16,Raw Materials,Delivered,415,127.57,112.84,10,Compliant
+PO-01882,AlphaSupplies,2023-06-21,2023-07-06,Consumables,Delivered,40,20.15,18.69,1,Compliant
+PO-01883,BetaCorp,2023-06-24,2023-07-11,Consumables,Delivered,402,20.17,18.55,50,Non-Compliant
+PO-01884,DeltaWorks,2022-03-01,,Machinery,Pending,452,2227.54,1969.15,54,Non-Compliant
+PO-01885,DeltaWorks,2023-03-29,2023-05-06,Consumables,Delivered,451,19.8,18.71,76,Compliant
+PO-01886,GammaTrade,2023-10-10,2023-11-09,Consumables,Delivered,311,20.63,19.38,19,Compliant
+PO-01887,EpsilonMfg,2022-07-02,2022-07-29,Electronics,Partial,165,498.78,461.27,3,Compliant
+PO-01888,DeltaWorks,2022-01-27,2022-02-05,Electronics,Delivered,445,482.64,462.22,4,Non-Compliant
+PO-01889,BetaCorp,2023-10-25,,Consumables,Pending,47,20.7,18.44,0,Non-Compliant
+PO-01890,AlphaSupplies,2024-06-08,2024-07-06,Electronics,Delivered,116,578.96,545.03,2,Compliant
+PO-01891,DeltaWorks,2024-01-26,2024-02-20,Consumables,Delivered,61,21.11,20.13,12,Compliant
+PO-01892,EpsilonMfg,2024-01-04,2024-02-07,Consumables,Partial,265,21.01,19.45,2,Compliant
+PO-01893,DeltaWorks,2023-10-21,2023-11-20,Electronics,Delivered,392,551.44,514.38,79,Non-Compliant
+PO-01894,GammaTrade,2022-08-03,2022-08-21,Electronics,Delivered,45,502.15,444.15,2,Compliant
+PO-01895,BetaCorp,2024-05-06,2024-05-13,Packaging,Delivered,112,41.92,40.42,9,Compliant
+PO-01896,AlphaSupplies,2023-06-17,,Raw Materials,Delivered,144,134.24,127.26,4,Compliant
+PO-01897,BetaCorp,2023-02-18,2023-03-08,Machinery,Delivered,54,2400.17,2216.08,5,Non-Compliant
+PO-01898,GammaTrade,2024-02-04,2024-03-12,Electronics,Delivered,297,563.9,497.59,3,Compliant
+PO-01899,AlphaSupplies,2022-05-26,2022-07-01,Electronics,Delivered,271,494.9,452.49,4,Compliant
+PO-01900,AlphaSupplies,2022-02-24,2022-03-10,Machinery,Delivered,103,2225.19,2048.51,2,Compliant
+PO-01901,BetaCorp,2023-03-30,2023-05-12,Packaging,Delivered,382,38.51,34.63,35,Non-Compliant
+PO-01902,AlphaSupplies,2022-07-06,2022-09-03,Electronics,Partial,305,499.2,476.49,2,Compliant
+PO-01903,BetaCorp,2024-01-21,2024-03-05,Raw Materials,Delivered,177,140.56,130.95,1,Compliant
+PO-01904,BetaCorp,2022-06-20,2022-07-12,Packaging,Delivered,196,36.28,34.13,21,Non-Compliant
+PO-01905,GammaTrade,2022-11-12,2022-12-18,Consumables,Delivered,72,19.24,18.2,4,Non-Compliant
+PO-01906,DeltaWorks,2022-09-11,2022-10-04,Electronics,Delivered,302,506.3,448.18,41,Non-Compliant
+PO-01907,AlphaSupplies,2023-04-03,2023-05-08,Packaging,Delivered,444,38.54,35.29,0,Compliant
+PO-01908,BetaCorp,2022-12-06,2023-01-15,Raw Materials,Delivered,471,128.89,122.16,60,Compliant
+PO-01909,GammaTrade,2023-08-17,2023-09-21,Packaging,Partial,494,39.66,35.08,5,Compliant
+PO-01910,AlphaSupplies,2024-03-23,2024-04-02,Packaging,Delivered,383,41.54,38.93,8,Compliant
+PO-01911,GammaTrade,2023-05-16,2023-06-21,Consumables,Delivered,491,20.0,18.31,20,Compliant
+PO-01912,GammaTrade,2023-12-11,2024-02-01,Packaging,Partial,370,40.64,36.71,10,Compliant
+PO-01913,EpsilonMfg,2022-03-04,2022-03-13,Machinery,Delivered,482,2228.95,2001.82,1,Compliant
+PO-01914,DeltaWorks,2024-04-14,2024-04-28,Raw Materials,Delivered,416,143.07,131.41,45,Compliant
+PO-01915,BetaCorp,2024-06-07,2024-07-20,Consumables,Delivered,408,21.71,20.88,9,Non-Compliant
+PO-01916,GammaTrade,2022-04-05,2022-05-14,Raw Materials,Delivered,254,122.4,115.39,3,Compliant
+PO-01917,AlphaSupplies,2023-03-02,2023-04-15,Consumables,Delivered,52,19.69,17.34,1,Compliant
+PO-01918,DeltaWorks,2023-10-11,2023-10-28,Raw Materials,Delivered,87,137.57,131.57,2,Non-Compliant
+PO-01919,DeltaWorks,2023-04-23,2023-06-07,Machinery,Delivered,81,2432.78,2195.1,14,Non-Compliant
+PO-01920,DeltaWorks,2022-04-18,2022-04-27,Machinery,Delivered,102,2250.2,2156.37,10,Non-Compliant
+PO-01921,EpsilonMfg,2022-09-12,2022-10-02,Machinery,Delivered,328,2321.04,2210.09,0,Compliant
+PO-01922,GammaTrade,2023-07-04,2023-07-30,Packaging,Delivered,101,39.3,38.07,6,Compliant
+PO-01923,GammaTrade,2022-04-13,2022-05-15,Packaging,Delivered,21,35.76,34.4,1,Compliant
+PO-01924,AlphaSupplies,2023-11-12,2023-12-07,Consumables,Delivered,78,20.78,19.55,1,Compliant
+PO-01925,BetaCorp,2022-12-25,2023-01-14,Electronics,Partial,439,517.64,468.52,49,Compliant
+PO-01926,EpsilonMfg,2022-12-20,2022-12-28,Consumables,Delivered,365,19.39,18.59,5,Compliant
+PO-01927,BetaCorp,2022-07-15,2022-08-25,Electronics,Delivered,193,500.15,466.09,9,Compliant
+PO-01928,BetaCorp,2022-09-23,2022-10-09,Raw Materials,Delivered,464,126.9,112.34,1,Non-Compliant
+PO-01929,DeltaWorks,2023-01-06,2023-02-13,Raw Materials,Delivered,255,129.74,118.67,17,Compliant
+PO-01930,DeltaWorks,2023-03-18,2023-04-08,Raw Materials,Delivered,312,131.69,122.68,9,Non-Compliant
+PO-01931,AlphaSupplies,2022-11-24,2022-12-01,Electronics,Delivered,452,514.26,486.75,4,Compliant
+PO-01932,BetaCorp,2022-05-08,,Raw Materials,Pending,195,123.26,119.38,11,Compliant
+PO-01933,DeltaWorks,2023-03-10,2023-04-22,Electronics,Partial,167,525.89,467.83,17,Non-Compliant
+PO-01934,GammaTrade,2022-10-19,2022-11-24,Electronics,Partial,98,510.37,475.51,3,Compliant
+PO-01935,GammaTrade,2023-03-21,2023-04-04,Machinery,Delivered,32,2415.91,2342.95,2,Compliant
+PO-01936,AlphaSupplies,2023-07-22,2023-08-03,Machinery,Delivered,240,2479.38,2353.68,4,Compliant
+PO-01937,AlphaSupplies,2022-04-10,2022-04-23,Consumables,Delivered,353,18.38,16.49,2,Compliant
+PO-01938,GammaTrade,2023-04-20,2023-05-25,Raw Materials,Delivered,270,132.61,127.62,2,Compliant
+PO-01939,GammaTrade,2022-02-18,2022-03-30,Raw Materials,Delivered,157,121.22,108.71,11,Compliant
+PO-01940,DeltaWorks,2022-04-27,2022-05-31,Packaging,Delivered,22,35.87,32.52,0,Compliant
+PO-01941,GammaTrade,2023-03-13,2023-03-21,Machinery,Delivered,315,2411.84,2186.82,5,Compliant
+PO-01942,BetaCorp,2023-02-17,,Consumables,Pending,424,19.63,18.76,26,Compliant
+PO-01943,DeltaWorks,2023-03-24,2023-04-04,Machinery,Delivered,50,2417.44,2165.78,6,Non-Compliant
+PO-01944,DeltaWorks,2022-02-02,2022-03-08,Raw Materials,Delivered,146,120.81,116.56,3,Non-Compliant
+PO-01945,AlphaSupplies,2024-03-25,,Raw Materials,Delivered,238,142.47,136.7,1,Compliant
+PO-01946,GammaTrade,2022-08-30,2022-10-12,Consumables,Delivered,492,18.94,17.45,29,Compliant
+PO-01947,GammaTrade,2022-01-04,,Consumables,Cancelled,351,18.01,16.96,1,Compliant
+PO-01948,AlphaSupplies,2023-09-18,2023-10-14,Electronics,Delivered,29,547.61,501.17,0,Compliant
+PO-01949,DeltaWorks,2023-06-26,2023-07-07,Consumables,Delivered,337,20.17,17.77,16,Compliant
+PO-01950,DeltaWorks,2023-09-10,2023-10-11,Machinery,Delivered,159,2505.66,2304.96,36,Compliant
+PO-01951,AlphaSupplies,2023-05-07,2023-05-25,Machinery,Delivered,137,2439.97,2241.36,4,Compliant
+PO-01952,EpsilonMfg,2023-09-02,2023-10-07,Consumables,Delivered,301,20.47,19.32,4,Compliant
+PO-01953,GammaTrade,2024-06-23,2024-07-01,Packaging,Delivered,499,42.35,39.44,8,Compliant
+PO-01954,EpsilonMfg,2022-04-19,2022-04-27,Packaging,Delivered,38,35.81,34.45,0,Compliant
+PO-01955,EpsilonMfg,2022-08-29,2022-10-11,Raw Materials,Delivered,369,126.23,118.25,3,Compliant
+PO-01956,EpsilonMfg,2022-05-31,2022-06-21,Machinery,Partial,52,2270.69,2019.1,0,Compliant
+PO-01957,EpsilonMfg,2023-11-09,2023-11-20,Electronics,Delivered,427,553.65,511.74,8,Compliant
+PO-01958,GammaTrade,2022-05-22,2022-06-20,Consumables,Delivered,71,18.54,17.71,2,Compliant
+PO-01959,DeltaWorks,2023-01-18,2023-01-28,Consumables,Delivered,15,19.51,18.16,2,Compliant
+PO-01960,DeltaWorks,2023-04-30,,Electronics,Pending,434,531.57,483.73,87,Compliant
+PO-01961,AlphaSupplies,2023-09-02,2023-09-14,Electronics,Delivered,401,545.77,509.59,14,Compliant
+PO-01962,EpsilonMfg,2024-03-21,2024-04-29,Electronics,Delivered,353,569.4,543.83,1,Compliant
+PO-01963,DeltaWorks,2022-10-01,2022-10-15,Raw Materials,Delivered,191,127.11,122.8,11,Non-Compliant
+PO-01964,DeltaWorks,2022-12-30,,Raw Materials,Pending,263,129.55,120.69,40,Compliant
+PO-01965,GammaTrade,2023-07-26,2023-08-08,Consumables,Delivered,380,20.3,19.28,23,Compliant
+PO-01966,DeltaWorks,2022-10-27,2022-12-12,Packaging,Partial,463,37.28,34.01,78,Compliant
+PO-01967,EpsilonMfg,2023-01-28,2023-03-03,Machinery,Delivered,378,2389.57,2200.32,0,Compliant
+PO-01968,AlphaSupplies,2022-01-12,2022-01-28,Machinery,Delivered,183,2205.11,2108.53,1,Compliant
+PO-01969,BetaCorp,2022-10-09,2022-11-21,Machinery,Delivered,74,2334.29,2150.35,9,Compliant
+PO-01970,DeltaWorks,2023-12-15,2024-01-18,Consumables,Delivered,324,20.92,19.35,10,Compliant
+PO-01971,EpsilonMfg,2023-09-09,2023-09-20,Machinery,Delivered,227,2505.13,2300.21,0,Compliant
+PO-01972,AlphaSupplies,2024-02-14,2024-03-30,Consumables,Delivered,137,21.19,18.66,3,Compliant
+PO-01973,BetaCorp,2022-04-21,2022-04-28,Machinery,Delivered,253,2251.62,2137.01,12,Non-Compliant
+PO-01974,GammaTrade,2023-07-24,2023-08-01,Electronics,Delivered,215,541.18,500.05,15,Compliant
+PO-01975,GammaTrade,2022-05-29,2022-06-25,Machinery,Delivered,325,2269.74,2148.08,16,Compliant
+PO-01976,GammaTrade,2024-03-17,2024-04-23,Raw Materials,Delivered,215,142.23,130.71,12,Compliant
+PO-01977,AlphaSupplies,2022-05-10,2022-06-20,Consumables,Delivered,314,18.5,16.78,7,Compliant
+PO-01978,AlphaSupplies,2023-04-18,2023-04-30,Machinery,Delivered,84,2430.21,2175.04,1,Compliant
+PO-01979,AlphaSupplies,2024-05-09,2024-07-08,Packaging,Partial,104,41.95,39.46,1,Compliant
+PO-01980,DeltaWorks,2023-11-11,,Consumables,Pending,422,20.77,19.14,70,Compliant
+PO-01981,EpsilonMfg,2023-03-27,2023-04-22,Consumables,Delivered,269,19.79,18.64,3,Compliant
+PO-01982,EpsilonMfg,2022-11-18,2022-12-03,Electronics,Delivered,35,513.61,461.07,0,Compliant
+PO-01983,DeltaWorks,2022-09-10,,Electronics,Pending,205,506.19,459.27,2,Compliant
+PO-01984,DeltaWorks,2023-03-09,2023-04-23,Raw Materials,Delivered,41,131.44,119.43,5,Non-Compliant
+PO-01985,BetaCorp,2022-11-18,2022-12-01,Machinery,Delivered,373,2354.06,2230.71,26,Compliant
+PO-01986,AlphaSupplies,2023-05-13,2023-06-25,Machinery,Delivered,22,2443.06,2368.06,0,Compliant
+PO-01987,EpsilonMfg,2022-07-03,2022-08-03,Electronics,Delivered,481,498.88,481.82,6,Compliant
+PO-01988,EpsilonMfg,2023-03-22,2023-04-25,Consumables,Delivered,220,19.77,18.41,1,Compliant
+PO-01989,GammaTrade,2023-03-10,2023-04-07,Electronics,Delivered,260,525.89,469.15,11,Compliant
+PO-01990,GammaTrade,2022-08-15,2022-08-23,Electronics,Delivered,269,503.43,479.62,9,Compliant
+PO-01991,GammaTrade,2024-06-15,2024-07-16,Machinery,Partial,76,2657.49,2486.61,4,Compliant
+PO-01992,GammaTrade,2022-04-22,2022-05-21,Raw Materials,Delivered,181,122.84,114.77,3,Compliant
+PO-01993,DeltaWorks,2024-05-26,2024-06-13,Packaging,Delivered,99,42.1,40.13,22,Non-Compliant
+PO-01994,DeltaWorks,2022-11-15,2022-11-26,Machinery,Delivered,401,2352.57,2197.07,37,Compliant
+PO-01995,AlphaSupplies,2023-01-17,2023-02-09,Raw Materials,Delivered,446,130.04,115.48,9,Compliant
+PO-01996,AlphaSupplies,2024-02-18,2024-03-26,Raw Materials,Delivered,284,141.39,125.64,6,Non-Compliant
+PO-01997,DeltaWorks,2022-05-11,2022-06-25,Consumables,Delivered,50,18.5,17.62,10,Compliant
+PO-01998,AlphaSupplies,2023-04-02,2023-04-25,Electronics,Delivered,377,528.44,506.19,12,Compliant
+PO-01999,BetaCorp,2022-06-18,2022-07-25,Raw Materials,Delivered,280,124.33,120.0,13,Compliant
+PO-02000,DeltaWorks,2022-02-19,,Consumables,Pending,189,18.19,16.89,28,Compliant
