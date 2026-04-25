@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Database (don't push local DB credentials)
+config/.env
+
+# Large files (optional — remove if you want pkl files in repo)
+# models/saved_models/*.pkl
